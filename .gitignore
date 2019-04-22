@@ -3,3 +3,5 @@ config.py
 report/*
 __pycache__
 stdout.log
+log/*
+!log/.keep

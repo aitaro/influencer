@@ -1,5 +1,5 @@
 # coding: utf-8
-print('hello main python')
+
 
 import config
 import tweepy
@@ -8,6 +8,10 @@ from pdb import set_trace
 import os
 auth = tweepy.OAuthHandler(config.CONSUMER_KEY, config.CONSUMER_SECRET)
 auth.set_access_token(config.ACCESS_TOKEN, config.ACCESS_TOKEN_SECRET)
+
+import sys
+sys.stdout = open('log/stdout.log', 'a')
+sys.stderr = open('log/stderr.log', 'a+')
 
 tweepyapi = tweepy.API(auth)
 
