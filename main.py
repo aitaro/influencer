@@ -16,7 +16,7 @@ def tweet(num):
     tweet_data = yaml.load(f, Loader=yaml.FullLoader)
     filenames = []
     for i in range(4):
-        filenames.append(f'{tweet_data_path}/pic{i+1}.jpeg')
+        filenames.append(f'{tweet_data_path}/pic{i+1}.jpg')
 
     media_ids = []
     for filename in filenames:
