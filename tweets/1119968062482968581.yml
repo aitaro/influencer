@@ -1,0 +1,330 @@
+contributors: null
+coordinates: null
+created_at: Sun Apr 21 14:16:08 +0000 2019
+entities:
+  hashtags: []
+  media:
+  - display_url: pic.twitter.com/k3Nl8NEvyB
+    expanded_url: https://twitter.com/se_ka_ime/status/1118289031148732416/video/1
+    id: 1118288976819957761
+    id_str: '1118288976819957761'
+    indices:
+    - 32
+    - 55
+    media_url: http://pbs.twimg.com/ext_tw_video_thumb/1118288976819957761/pu/img/0dicJbR_uKfYu8mi.jpg
+    media_url_https: https://pbs.twimg.com/ext_tw_video_thumb/1118288976819957761/pu/img/0dicJbR_uKfYu8mi.jpg
+    sizes:
+      large:
+        h: 360
+        resize: fit
+        w: 640
+      medium:
+        h: 360
+        resize: fit
+        w: 640
+      small:
+        h: 360
+        resize: fit
+        w: 640
+      thumb:
+        h: 150
+        resize: crop
+        w: 150
+    source_status_id: 1118289031148732416
+    source_status_id_str: '1118289031148732416'
+    source_user_id: 1113345283788804096
+    source_user_id_str: '1113345283788804096'
+    type: photo
+    url: https://t.co/k3Nl8NEvyB
+  symbols: []
+  urls: []
+  user_mentions:
+  - id: 744832263834087425
+    id_str: '744832263834087425'
+    indices:
+    - 3
+    - 13
+    name: おもしろムービー
+    screen_name: adgnet159
+extended_entities:
+  media:
+  - additional_media_info:
+      monetizable: false
+    display_url: pic.twitter.com/k3Nl8NEvyB
+    expanded_url: https://twitter.com/se_ka_ime/status/1118289031148732416/video/1
+    id: 1118288976819957761
+    id_str: '1118288976819957761'
+    indices:
+    - 32
+    - 55
+    media_url: http://pbs.twimg.com/ext_tw_video_thumb/1118288976819957761/pu/img/0dicJbR_uKfYu8mi.jpg
+    media_url_https: https://pbs.twimg.com/ext_tw_video_thumb/1118288976819957761/pu/img/0dicJbR_uKfYu8mi.jpg
+    sizes:
+      large:
+        h: 360
+        resize: fit
+        w: 640
+      medium:
+        h: 360
+        resize: fit
+        w: 640
+      small:
+        h: 360
+        resize: fit
+        w: 640
+      thumb:
+        h: 150
+        resize: crop
+        w: 150
+    source_status_id: 1118289031148732416
+    source_status_id_str: '1118289031148732416'
+    source_user_id: 1113345283788804096
+    source_user_id_str: '1113345283788804096'
+    type: video
+    url: https://t.co/k3Nl8NEvyB
+    video_info:
+      aspect_ratio:
+      - 16
+      - 9
+      duration_millis: 28529
+      variants:
+      - content_type: application/x-mpegURL
+        url: https://video.twimg.com/ext_tw_video/1118288976819957761/pu/pl/1Gx8v4A2bhXc4LNa.m3u8?tag=8
+      - bitrate: 832000
+        content_type: video/mp4
+        url: https://video.twimg.com/ext_tw_video/1118288976819957761/pu/vid/640x360/w7IM4kxPjFCwf-4L.mp4?tag=8
+      - bitrate: 256000
+        content_type: video/mp4
+        url: https://video.twimg.com/ext_tw_video/1118288976819957761/pu/vid/320x180/Ty4jNlI1YzQiiP7c.mp4?tag=8
+favorite_count: 0
+favorited: false
+geo: null
+id: 1119968062482968581
+id_str: '1119968062482968581'
+in_reply_to_screen_name: null
+in_reply_to_status_id: null
+in_reply_to_status_id_str: null
+in_reply_to_user_id: null
+in_reply_to_user_id_str: null
+is_quote_status: false
+lang: ja
+metadata:
+  iso_language_code: ja
+  result_type: recent
+place: null
+possibly_sensitive: true
+retweet_count: 241
+retweeted: false
+retweeted_status:
+  contributors: null
+  coordinates: null
+  created_at: Sun Apr 21 12:53:25 +0000 2019
+  entities:
+    hashtags: []
+    media:
+    - display_url: pic.twitter.com/k3Nl8NEvyB
+      expanded_url: https://twitter.com/se_ka_ime/status/1118289031148732416/video/1
+      id: 1118288976819957761
+      id_str: '1118288976819957761'
+      indices:
+      - 17
+      - 40
+      media_url: http://pbs.twimg.com/ext_tw_video_thumb/1118288976819957761/pu/img/0dicJbR_uKfYu8mi.jpg
+      media_url_https: https://pbs.twimg.com/ext_tw_video_thumb/1118288976819957761/pu/img/0dicJbR_uKfYu8mi.jpg
+      sizes:
+        large:
+          h: 360
+          resize: fit
+          w: 640
+        medium:
+          h: 360
+          resize: fit
+          w: 640
+        small:
+          h: 360
+          resize: fit
+          w: 640
+        thumb:
+          h: 150
+          resize: crop
+          w: 150
+      source_status_id: 1118289031148732416
+      source_status_id_str: '1118289031148732416'
+      source_user_id: 1113345283788804096
+      source_user_id_str: '1113345283788804096'
+      type: photo
+      url: https://t.co/k3Nl8NEvyB
+    symbols: []
+    urls: []
+    user_mentions: []
+  extended_entities:
+    media:
+    - additional_media_info:
+        monetizable: false
+      display_url: pic.twitter.com/k3Nl8NEvyB
+      expanded_url: https://twitter.com/se_ka_ime/status/1118289031148732416/video/1
+      id: 1118288976819957761
+      id_str: '1118288976819957761'
+      indices:
+      - 17
+      - 40
+      media_url: http://pbs.twimg.com/ext_tw_video_thumb/1118288976819957761/pu/img/0dicJbR_uKfYu8mi.jpg
+      media_url_https: https://pbs.twimg.com/ext_tw_video_thumb/1118288976819957761/pu/img/0dicJbR_uKfYu8mi.jpg
+      sizes:
+        large:
+          h: 360
+          resize: fit
+          w: 640
+        medium:
+          h: 360
+          resize: fit
+          w: 640
+        small:
+          h: 360
+          resize: fit
+          w: 640
+        thumb:
+          h: 150
+          resize: crop
+          w: 150
+      source_status_id: 1118289031148732416
+      source_status_id_str: '1118289031148732416'
+      source_user_id: 1113345283788804096
+      source_user_id_str: '1113345283788804096'
+      type: video
+      url: https://t.co/k3Nl8NEvyB
+      video_info:
+        aspect_ratio:
+        - 16
+        - 9
+        duration_millis: 28529
+        variants:
+        - content_type: application/x-mpegURL
+          url: https://video.twimg.com/ext_tw_video/1118288976819957761/pu/pl/1Gx8v4A2bhXc4LNa.m3u8?tag=8
+        - bitrate: 832000
+          content_type: video/mp4
+          url: https://video.twimg.com/ext_tw_video/1118288976819957761/pu/vid/640x360/w7IM4kxPjFCwf-4L.mp4?tag=8
+        - bitrate: 256000
+          content_type: video/mp4
+          url: https://video.twimg.com/ext_tw_video/1118288976819957761/pu/vid/320x180/Ty4jNlI1YzQiiP7c.mp4?tag=8
+  favorite_count: 771
+  favorited: false
+  geo: null
+  id: 1119947246210957312
+  id_str: '1119947246210957312'
+  in_reply_to_screen_name: null
+  in_reply_to_status_id: null
+  in_reply_to_status_id_str: null
+  in_reply_to_user_id: null
+  in_reply_to_user_id_str: null
+  is_quote_status: false
+  lang: ja
+  metadata:
+    iso_language_code: ja
+    result_type: recent
+  place: null
+  possibly_sensitive: false
+  retweet_count: 241
+  retweeted: false
+  source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for
+    iPhone</a>
+  text: 'どういうテンションやねんwww
+
+
+    https://t.co/k3Nl8NEvyB'
+  truncated: false
+  user:
+    contributors_enabled: false
+    created_at: Mon Jun 20 10:00:24 +0000 2016
+    default_profile: true
+    default_profile_image: false
+    description: 国内外問わずおもしろ動画やすごい動画をどんどんツイートします(^.^)ノフォロー&いいね&リツイートよろしくね(^_−)−☆
+    entities:
+      description:
+        urls: []
+    favourites_count: 845
+    follow_request_sent: false
+    followers_count: 69775
+    following: false
+    friends_count: 1509
+    geo_enabled: false
+    has_extended_profile: false
+    id: 744832263834087425
+    id_str: '744832263834087425'
+    is_translation_enabled: false
+    is_translator: false
+    lang: en
+    listed_count: 191
+    location: ''
+    name: おもしろムービー
+    notifications: false
+    profile_background_color: F5F8FA
+    profile_background_image_url: null
+    profile_background_image_url_https: null
+    profile_background_tile: false
+    profile_image_url: http://pbs.twimg.com/profile_images/1085217828347686913/BWjMZPmV_normal.jpg
+    profile_image_url_https: https://pbs.twimg.com/profile_images/1085217828347686913/BWjMZPmV_normal.jpg
+    profile_link_color: 1DA1F2
+    profile_sidebar_border_color: C0DEED
+    profile_sidebar_fill_color: DDEEF6
+    profile_text_color: '333333'
+    profile_use_background_image: true
+    protected: false
+    screen_name: adgnet159
+    statuses_count: 2172
+    time_zone: null
+    translator_type: none
+    url: null
+    utc_offset: null
+    verified: false
+source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+text: 'RT @adgnet159: どういうテンションやねんwww
+
+
+  https://t.co/k3Nl8NEvyB'
+truncated: false
+user:
+  contributors_enabled: false
+  created_at: Tue Jul 15 13:32:14 +0000 2014
+  default_profile: true
+  default_profile_image: false
+  description: ''
+  entities:
+    description:
+      urls: []
+  favourites_count: 2063
+  follow_request_sent: false
+  followers_count: 1087
+  following: false
+  friends_count: 444
+  geo_enabled: false
+  has_extended_profile: true
+  id: 2647674402
+  id_str: '2647674402'
+  is_translation_enabled: false
+  is_translator: false
+  lang: ja
+  listed_count: 10
+  location: ''
+  name: KTYM®️
+  notifications: false
+  profile_background_color: C0DEED
+  profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+  profile_background_tile: false
+  profile_banner_url: https://pbs.twimg.com/profile_banners/2647674402/1545658641
+  profile_image_url: http://pbs.twimg.com/profile_images/1117485751434743809/kUr_H6ha_normal.jpg
+  profile_image_url_https: https://pbs.twimg.com/profile_images/1117485751434743809/kUr_H6ha_normal.jpg
+  profile_link_color: 1DA1F2
+  profile_sidebar_border_color: C0DEED
+  profile_sidebar_fill_color: DDEEF6
+  profile_text_color: '333333'
+  profile_use_background_image: true
+  protected: false
+  screen_name: Field46Track
+  statuses_count: 23194
+  time_zone: null
+  translator_type: none
+  url: null
+  utc_offset: null
+  verified: false

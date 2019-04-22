@@ -6,7 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+pyyaml = "*"
 tweepy = "*"
+requests-oauthlib = "*"
 
 [requires]
 python_version = "3.7"
