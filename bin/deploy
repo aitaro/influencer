@@ -1,4 +1,3 @@
 #!/bin/bash
-COMMANDS="cd ~/influencer;git pull"
-echo $IP_ADDRESS
+COMMANDS="cd ~/influencer;git pull;crontab cron.conf"
 ssh $IP_ADDRESS $COMMANDS
