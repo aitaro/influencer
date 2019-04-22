@@ -9,34 +9,6 @@ auth.set_access_token(config.ACCESS_TOKEN, config.ACCESS_TOKEN_SECRET)
 
 tweepyapi = tweepy.API(auth)
 
-# tweepyapi.update_status('Hello World!2')
-# print("Hello " + tweepyapi.me().name)
-
-
-# searchWord = ["金足農業","応援"]
-# print(tweepyapi.search(q=searchWord, lang='ja', result_type='recent', count=5))
-
-# q @squidzer min_retweets:1000
-# filter:video min_retweets:1
-
-
-
-def search():
-    res = tweepyapi.search('どういうテンションやねんwww filter:videos',result_type='resent', count=1)
-    print(len(res))
-    for tweet in res:
-        print(tweet.user.verified)
-        if tweet.user.verified:
-            continue
-        f = open(f"tweets/{tweet.id}.yml", "w+")
-        f.write(yaml.dump(tweet._json, allow_unicode=True))
-        f.close()
-
-    if len(res) > 0:
-        return 'success'
-    else:
-        return 'failed'
-
 def tweet(num):
     tweet_data_path = f'post_tweets/{num}'
     # import text
@@ -54,7 +26,22 @@ def tweet(num):
     tweepyapi.update_status(status=f"{tweet_data['name']}\n\n{tweet_data['details']}\n\n{tweet_data['url']}", media_ids=media_ids)
     return 'success'
 
+def get_current_no():
+    f = open("twitter.yml", "r+")
+    twitter_data = yaml.load(f, Loader=yaml.FullLoader)
+    return twitter_data['current_no']
+
+def set_current_no(current_no):
+    f = open("twitter.yml", "r+")
+    twitter_data = yaml.load(f, Loader=yaml.FullLoader)
+    twitter_data['current_no'] = current_no
+    with open("twitter.yml", "w") as wf:
+        yaml.dump(twitter_data, wf)
+    return 'suceess'
 
 if __name__ == '__main__':
     # print(search())
-    print(tweet(1))
+    current_no = get_current_no()
+    current_no += 1
+    print(tweet(current_no))
+    set_current_no(current_no)
