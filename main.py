@@ -1,4 +1,6 @@
 # coding: utf-8
+print('hello main python')
+
 import config
 import tweepy
 import yaml
@@ -45,3 +47,5 @@ if __name__ == '__main__':
     current_no += 1
     print(tweet(current_no))
     set_current_no(current_no)
+
+print('hello main python finished')
