@@ -1,0 +1,4 @@
+#!/bin/bash
+COMMANDS="cd ~/influencer;git pull"
+echo $IP_ADDRESS
+ssh $IP_ADDRESS $COMMANDS
