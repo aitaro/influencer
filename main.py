@@ -20,7 +20,7 @@ tweepyapi = tweepy.API(auth)
 def tweet(num):
     tweet_data_path = f'post_tweets/{num}'
     # import text
-    f = open(tweet_data_path + "/text.yml", "r+")
+    f = open(tweet_data_path + "/tweet.yml", "r+")
     tweet_data = yaml.load(f, Loader=yaml.FullLoader)
     filenames = []
     for i in range(4):
@@ -31,7 +31,8 @@ def tweet(num):
          res = tweepyapi.media_upload(filename)
          media_ids.append(res.media_id)
 
-    tweepyapi.update_status(status=f"{tweet_data['name']}\n\n{tweet_data['details']}\n\n{tweet_data['url']}", media_ids=media_ids)
+    res = tweepyapi.update_status(status=f"{tweet_data['name']}\n\n{tweet_data['content']['details']}\n\n{tweet_data['content']['url']}", media_ids=media_ids)
+    set_tweet_id(num, res.id)
     return 'success'
 
 def get_current_no():
@@ -46,6 +47,25 @@ def set_current_no(current_no):
     with open("twitter.yml", "w") as wf:
         yaml.dump(twitter_data, wf)
     return 'suceess'
+
+def set_tweet_id(num, id):
+    tweet_data_path = f'post_tweets/{num}'
+    f = open(tweet_data_path + "/tweet.yml", "r")
+    d = yaml.load(f, Loader=yaml.FullLoader)
+    with open(tweet_data_path + "/tweet.yml", "w") as wf:
+        d['id'] = id
+        yaml.dump(d, wf, allow_unicode=True)
+
+def delete_tweet(num):
+    tweet_data_path = f'post_tweets/{num}'
+    f = open(tweet_data_path + "/tweet.yml", "r")
+    d = yaml.load(f, Loader=yaml.FullLoader)
+    id = d['id']
+    tweepyapi.destroy_status(id)
+    d.pop('id')
+    with open(tweet_data_path + "/tweet.yml", "w") as wf:
+        yaml.dump(d, wf, allow_unicode=True)
+    return 'success'
 
 if __name__ == '__main__':
     # print(search())

@@ -1,0 +1,5 @@
+#!/bin/bash
+COMMANDS="cd ~/influencer;git add .;git commit -m 'data updating';git push"
+ssh $IP_ADDRESS $COMMANDS
+sleep 1
+git pull
