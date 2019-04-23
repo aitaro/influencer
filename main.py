@@ -1,6 +1,4 @@
 # coding: utf-8
-
-
 import config
 import tweepy
 import yaml
