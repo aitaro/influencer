@@ -1,0 +1,507 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: wvOK0sk6ipYJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1306/A130602/13131287/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1306/A130602/13131287/
+    htmlSnippet: '<b>青山フラワーマーケット ティーハウス</b> 南青山本店/<b>Aoyama Flower Market TEA</b>
+      <br>
+
+      <b>HOUSE</b> (表参道/紅茶専門店)の店舗情報は<b>食べログ</b>でチェック！ 【禁煙】口コミや評価<br>
+
+      、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細<br>
+
+      情報も&nbsp;...'
+    htmlTitle: <b>青山フラワーマーケット ティーハウス</b> 南青山本店 （Aoyama Flower ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1306/A130602/13131287/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京紅茶専門店
+        url: 東京紅茶専門店
+      - title: 原宿・表参道・青山紅茶専門店
+        url: 原宿・表参道・青山紅茶専門店
+      - title: 表参道紅茶専門店
+        url: 表参道紅茶専門店
+      - title: 表参道駅紅茶専門店
+        url: 表参道駅紅茶専門店
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/24241/24241201.jpg?token=cab9638&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWjzoyJWY6DIhHp8bOqSWwU6tdepnB07FlR16JWju9Wd7_d2g6Rulp4wYG
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: u/Vp8MrOSkW19QsnzhzFA+kQWzTMyX7csvNLqRSo4WNFJJDgvYnRNyEgxkqXsEtz/KoLVayCkAlVrosAaEyW3A==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.52 ■予算(夜):￥1,000～￥1,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/24241/24241201.jpg?token=cab9638&api=v2
+        og:title: 青山フラワーマーケット ティーハウス 南青山本店 (表参道/紅茶専門店)
+        og:url: https://tabelog.com/tokyo/A1306/A130602/13131287/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: "青山フラワーマーケット ティーハウス 南青山本店/Aoyama Flower Market TEA \nHOUSE (表参道/紅茶専門店)の店舗情報は食べログでチェック！\
+      \ 【禁煙】口コミや評価\n、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細\n情報も ..."
+    title: 青山フラワーマーケット ティーハウス 南青山本店 （Aoyama Flower ...
+  - cacheId: hS69zBO4FrQJ
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1306/.../13131287/?svd...
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1306/.../13131287/?svd...
+    htmlSnippet: '<b>青山フラワーマーケット ティーハウス</b> 南青山本店/<b>Aoyama Flower Market TEA</b>
+      <br>
+
+      <b>HOUSE</b> (表参道/紅茶専門店)の店舗情報は<b>食べログ</b>でチェック！ 【禁煙】口コミや評価<br>
+
+      、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細<br>
+
+      情報も&nbsp;...'
+    htmlTitle: <b>青山フラワーマーケット ティーハウス</b> 南青山本店 （Aoyama Flower ...
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1306/A130602/13131287/?svd=20181107&svt=1900&svps=2&default_yoyaku_condition=1
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/24241/150x150_square_24241276.jpg
+      cse_thumbnail:
+      - height: '150'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBii1dOwzE_U62XRxBj3K5tH7JJmRNMeDeCzK8chWEXil5_BtS2FtdLM8
+        width: '150'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: N/3efpuccHAAtKaoNwykKPtTmwGK9tiXh2fY8rKKpZD0yAVbRlTtIPVOauGdXZciOCuroxbJIXOIZrrIt4jiGQ==
+        format-detection: telephone=no
+        viewport: width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no,
+          viewport-fit=cover
+    snippet: "青山フラワーマーケット ティーハウス 南青山本店/Aoyama Flower Market TEA \nHOUSE (表参道/紅茶専門店)の店舗情報は食べログでチェック！\
+      \ 【禁煙】口コミや評価\n、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細\n情報も ..."
+    title: 青山フラワーマーケット ティーハウス 南青山本店 （Aoyama Flower ...
+  - cacheId: mdHk-kEI00UJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/en/tokyo/A1306/A130602/13131287/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/en/tokyo/A1306/A130602/13131287/
+    htmlSnippet: '<b>Aoyama Flower Market TEA</b> HOUSECheck out the information about
+      <b>Tea</b> shoppe <br>
+
+      restaurants in Omotesando at <b>Tabelog</b>! It&#39;s full of real information
+      like reviews, <br>
+
+      ratings, and photos posted by users! It also has enough detailed information
+      like<br>
+
+      &nbsp;...'
+    htmlTitle: <b>Aoyama Flower Market TEA HOUSE</b>
+    kind: customsearch#result
+    link: https://tabelog.com/en/tokyo/A1306/A130602/13131287/
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/24241/200x200_square_24241201.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1Nu0bh4wu-fiVWxhHTx_1R9cz1H0pxIzzOigpp_regqh55Sip7Vai58Vw
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: gtpOxzhGhmZ7pDReoON71yBsyft9wxz8wKScPz4N23Txm4QEGLxeQ+KpbZhenCwUDbS+6FhfxHrXHMx5K7gDuQ==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: Aoyama Flower Market TEA HOUSECheck out the information about
+          Tea shoppe restaurants in Omotesando at Tabelog! It's full of real information
+          like reviews, ratings, and photos posted by users! It also has enough detailed
+          information like maps and menus.
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/24241/200x200_square_24241201.jpg
+        og:site_name: Tabelog
+        og:title: Aoyama Flower Market TEA HOUSE - Omotesando/Tea shoppe [Tabelog]
+        og:type: website
+        tblg-ajax-token: 183558f4c3785b6c233fba66e2dfa1e1cd3c7bf7
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1024
+        y_key: 6b4002d5be0a5d72
+    snippet: "Aoyama Flower Market TEA HOUSECheck out the information about Tea shoppe\
+      \ \nrestaurants in Omotesando at Tabelog! It's full of real information like\
+      \ reviews, \nratings, and photos posted by users! It also has enough detailed\
+      \ information like\n ..."
+    title: Aoyama Flower Market TEA HOUSE
+  - cacheId: -Tk7f-jpCQ8J
+    displayLink: magazine.tabelog.com
+    formattedUrl: https://magazine.tabelog.com/articles/64322
+    htmlFormattedUrl: https://magazine.<b>tabelog</b>.com/articles/64322
+    htmlSnippet: '2019年2月8日 <b>...</b> 赤坂Bizタワー「<b>Aoyama Flower Market TEA HOUSE</b>」の牛乳山クリームチーズとラム<br>
+
+      レーズンのフレンチトースト 1,080円. ラムレーズンをきかせたちょっぴり大人な<br>
+
+      フレンチトースト。牛乳山クリームチーズのほのかな酸味がアクセント。'
+    htmlTitle: チーズ料理がなんと85種類も！各国料理とコラボした&quot;チーズ祭り ...
+    kind: customsearch#result
+    link: https://magazine.tabelog.com/articles/64322
+    pagemap:
+      cse_image:
+      - src: https://magazine.tabelog.com/wp-content/uploads/2019/02/unnamed-1.jpg
+      cse_thumbnail:
+      - height: '194'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRne3vKN8xOtx-711uVxbQ6EBy4oc6H9En1tlDsHYI51zh7mF9oNP4-Z6w
+        width: '259'
+      listitem:
+      - position: '1'
+      - position: '3'
+      metatags:
+      - article:modified_time: '2019-02-08T03:00:00Z'
+        article:published_time: '2019-02-08T03:00:00Z'
+        fb:pages: '190929767599950'
+        ia:markup_url: https://magazine.tabelog.com/articles/64322?ia_markup=1
+        og:description: 寒い季節こそより美味しく味わえるチーズ。色々な国の料理にチーズを加えたメニューが味わえるチーズ祭りが今年も開催！
+        og:image: https://magazine.tabelog.com/wp-content/uploads/2019/02/unnamed-1.jpg
+        og:site_name: 食べログマガジン
+        og:title: チーズ料理がなんと85種類も！各国料理とコラボした"チーズ祭り"！ | 食べログマガジン
+        og:type: article
+        og:url: https://magazine.tabelog.com/articles/64322
+        twitter:card: summary
+        twitter:description: 寒い季節こそより美味しく味わえるチーズ。色々な国の料理にチーズを加えたメニューが味わえるチーズ祭りが今年も開催！
+        twitter:image: https://magazine.tabelog.com/wp-content/uploads/2019/02/unnamed-1.jpg
+        twitter:title: チーズ料理がなんと85種類も！各国料理とコラボした"チーズ祭り"！ | 食べログマガジン
+        viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0
+      thing:
+      - name: ホーム
+      - name: チーズ料理がなんと85種類も！各国料理とコラボした“チーズ祭り”！
+    snippet: '2019年2月8日 ... 赤坂Bizタワー「Aoyama Flower Market TEA HOUSE」の牛乳山クリームチーズとラム
+
+      レーズンのフレンチトースト 1,080円. ラムレーズンをきかせたちょっぴり大人な
+
+      フレンチトースト。牛乳山クリームチーズのほのかな酸味がアクセント。'
+    title: チーズ料理がなんと85種類も！各国料理とコラボした"チーズ祭り ...
+  - cacheId: fg08bel7NvcJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1308/A130801/13170071/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1308/A130801/13170071/
+    htmlSnippet: '<b>青山フラワーマーケット ティーハウス</b> 赤坂Bizタワー店/<b>Aoyama Flower Market TEA</b>
+      <br>
+
+      <b>HOUSE</b> (赤坂/カフェ)の店舗情報は<b>食べログ</b>でチェック！ 【禁煙】口コミや評価、写真<br>
+
+      など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も<br>
+
+      &nbsp;...'
+    htmlTitle: <b>青山フラワーマーケット ティーハウス</b> 赤坂Bizタワー店 （Aoyama Flower ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1308/A130801/13170071/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 赤坂・永田町・溜池カフェ
+        url: 赤坂・永田町・溜池カフェ
+      - title: 赤坂カフェ
+        url: 赤坂カフェ
+      - title: 赤坂駅カフェ
+        url: 赤坂駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/30646/30646221.jpg?token=a8c14e1&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu_aRZcsA2dzkbhaYwRbL6156CFNKZ0eIs5QFeZCL7BFy4hr0dCn-xvo-j
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: 7+dCkCnaPFMvga3sZcZ1ufSbWE4fkWrVvAtSHVH2Pl9xjMqNWwyv4NdFvaq6Jtcunvn2zhawspp2KFbkLL3cww==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.51 ■予算(夜):￥1,000～￥1,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/30646/30646221.jpg?token=a8c14e1&api=v2
+        og:title: 青山フラワーマーケット ティーハウス 赤坂Bizタワー店 (赤坂/カフェ)
+        og:url: https://tabelog.com/tokyo/A1308/A130801/13170071/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: "青山フラワーマーケット ティーハウス 赤坂Bizタワー店/Aoyama Flower Market TEA \nHOUSE (赤坂/カフェ)の店舗情報は食べログでチェック！\
+      \ 【禁煙】口コミや評価、写真\nなど、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も\n ..."
+    title: 青山フラワーマーケット ティーハウス 赤坂Bizタワー店 （Aoyama Flower ...
+  - cacheId: gccuTKtMdMEJ
+    displayLink: www.atre.co.jp
+    formattedUrl: https://www.atre.co.jp/store/kichijoji/shop/detail/732
+    htmlFormattedUrl: https://www.atre.co.jp/store/kichijoji/shop/detail/732
+    htmlSnippet: '青山フラワーマーケットの運営するカフェ「<b>Aoyama Flower Market TEA HOUSE</b>」。<br>
+
+      コンセプトは“温室”。 ... 重要なお知らせ. Weekly Flowerと配布券のお知らせ2016/08/<br>
+
+      25. <b>青山フラワーマーケット ティーハウス</b> 営業情報. <b>食べログ</b>. 全席禁煙. 営業時間&nbsp;...'
+    htmlTitle: <b>青山フラワーマーケット ティーハウス</b>｜アトレ吉祥寺 -atre-
+    kind: customsearch#result
+    link: https://www.atre.co.jp/store/kichijoji/shop/detail/732
+    pagemap:
+      cse_image:
+      - src: https://www.atre.co.jp/common/images/cms/store/kichijoji/shop/732/logo.jpg
+      cse_thumbnail:
+      - height: '147'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST_ddZ1NNLyIaM1yYyv-jHlSvtv5hvxySVJVSwh330wbMlB_YnJs-QT0A
+        width: '160'
+      metatags:
+      - apple-mobile-web-app-title: アトレ
+        format-detection: telephone=no
+        og:image: https://www.atre.co.jp/common/images/cms/store/kichijoji/shop/732/logo.jpg
+        og:title: 青山フラワーマーケット ティーハウス｜アトレ吉祥寺 -atre-
+        og:type: website
+        og:url: https://www.atre.co.jp/store/kichijoji/shop/detail/732
+        viewport: width=device-width,initial-scale=1.0
+    snippet: '青山フラワーマーケットの運営するカフェ「Aoyama Flower Market TEA HOUSE」。
+
+      コンセプトは“温室”。 ... 重要なお知らせ. Weekly Flowerと配布券のお知らせ2016/08/
+
+      25. 青山フラワーマーケット ティーハウス 営業情報. 食べログ. 全席禁煙. 営業時間 ...'
+    title: 青山フラワーマーケット ティーハウス｜アトレ吉祥寺 -atre-
+  - cacheId: JqcCjNotvvcJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/en/tokyo/A1308/A130801/13170071/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/en/tokyo/A1308/A130801/13170071/
+    htmlSnippet: '<b>Aoyama Flower Market TEA</b> HOUSECheck out the information about
+      Cafe <br>
+
+      restaurants in Akasaka at <b>Tabelog</b>! It&#39;s full of real information
+      like reviews, ratings, <br>
+
+      and photos posted by users! It also has enough detailed information like maps
+      <br>
+
+      and&nbsp;...'
+    htmlTitle: <b>Aoyama Flower Market TEA HOUSE</b> - Akasaka/Cafe [<b>Tabelog</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/en/tokyo/A1308/A130801/13170071/
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/30646/200x200_square_30646221.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQB3tipCWCORzbREb1Xx1R6aNr9xKGs4Z08k05oT-vDJENf2Ub4wP7Q82yt
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: 3EQOLA1PqylJF+2bKRSaT57E/VpB5M5NDd4lKreCiS68uj+LubdYwL8p4WkA0ji6PHyxWvivpnm/m7V+iKBHiQ==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: Aoyama Flower Market TEA HOUSECheck out the information about
+          Cafe restaurants in Akasaka at Tabelog! It's full of real information like
+          reviews, ratings, and photos posted by users! It also has enough detailed
+          information like maps and menus.
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/30646/200x200_square_30646221.jpg
+        og:site_name: Tabelog
+        og:title: Aoyama Flower Market TEA HOUSE - Akasaka/Cafe [Tabelog]
+        og:type: website
+        tblg-ajax-token: 5b9a281a906ca4c0d3cbf6afc35d0be70eeb68da
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1024
+        y_key: 6b4002d5be0a5d72
+    snippet: "Aoyama Flower Market TEA HOUSECheck out the information about Cafe \n\
+      restaurants in Akasaka at Tabelog! It's full of real information like reviews,\
+      \ ratings, \nand photos posted by users! It also has enough detailed information\
+      \ like maps \nand ..."
+    title: Aoyama Flower Market TEA HOUSE - Akasaka/Cafe [Tabelog]
+  - displayLink: www.pinterest.jp
+    formattedUrl: https://www.pinterest.jp/pin/266908715394705647/
+    htmlFormattedUrl: https://www.pinterest.jp/pin/266908715394705647/
+    htmlSnippet: '在<b>食べログ</b>確認<b>Aoyama Flower Market TEA HOUSE</b> (表參道/紅茶專賣店)的店鋪<br>
+
+      資訊！有感想、評價與照片等，有來自使用者的真實資訊！也有關於地圖及餐點菜單<br>
+
+      的詳細資訊。（繁體中文）'
+    htmlTitle: 在<b>食べログ</b>確認<b>Aoyama Flower Market TEA HOUSE</b> (表參道/紅茶 ...
+    kind: customsearch#result
+    link: https://www.pinterest.jp/pin/266908715394705647/
+    pagemap:
+      cse_image:
+      - src: https://i.pinimg.com/736x/aa/7d/17/aa7d17183e17785621c71ecd86e1b27f--cafe-restaurant-flower-market.jpg
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-v486MUDsStGW8CrmbWatresRBIY3cvR6-S7x1TJ46xRsu1ZPgSbaq0
+        width: '276'
+      metatags:
+      - al:android:app_name: Pinterest
+        al:android:package: com.pinterest
+        al:android:url: pinterest://pin/266908715394705647
+        al:ios:app_name: Pinterest
+        al:ios:app_store_id: '429047995'
+        al:ios:url: pinterest://pin/266908715394705647
+        application-name: Pinterest
+        fb:app_id: '274266067164'
+        image_signature: aa7d17183e17785621c71ecd86e1b27f
+        landing_page_info: '{''pin_id'': u''266908715394705647''}'
+        msapplication-tilecolor: '#ffffff'
+        msapplication-tileimage: https://s.pinimg.com/webapp/style/images/logo_trans_144x144-642179a1.png
+        naver-site-verification: 449f5675319d27f34f90dc99f63f1892389589fc
+        og:description: 在食べログ確認Aoyama Flower Market TEA HOUSE (表參道/紅茶專賣店)的店鋪資訊！有感想、評價與照片等，有來自使用者的真實資訊！也有關於地圖及餐點菜單的詳細資訊。（繁體中文）
+        og:image: https://i.pinimg.com/736x/aa/7d/17/aa7d17183e17785621c71ecd86e1b27f--cafe-restaurant-flower-market.jpg
+        og:image:height: '425'
+        og:image:width: '640'
+        og:see_also: http://tabelog.com/tw/tokyo/A1306/A130602/13131287/
+        og:site_name: Pinterest
+        og:title: 在食べログ確認Aoyama Flower Market TEA HOUSE (表參道/紅茶專賣店)的店鋪資訊！有感想、評價與照片等，有來自使用者的真實資訊！也有關於地圖及餐點菜單的詳細資訊。（繁體中文）
+          | 3 花艺 花道 花语 | Garden cafe, Cafe restaurant, Restaurant
+        og:type: pinterestapp:pin
+        og:url: https://www.pinterest.com/pin/266908715394705647/
+        pinterest: nohover
+        pinterestapp:pinboard: https://www.pinterest.com/liuziwen0112/3-%E8%8A%B1%E8%89%BA-%E8%8A%B1%E9%81%93-%E8%8A%B1%E8%AF%AD/
+        pinterestapp:pinner: https://www.pinterest.com/liuziwen0112/
+        pinterestapp:repins: '3'
+        pinterestapp:source: http://tabelog.com/tw/tokyo/A1306/A130602/13131287/
+        referrer: origin
+        theme-color: '#e60023'
+        twitter:app:android: com.pinterest
+        twitter:app:id:ipad: '429047995'
+        twitter:app:id:iphone: '429047995'
+        twitter:app:url:googleplay: pinterest://pin/266908715394705647
+        twitter:app:url:ipad: pinterest://pin/266908715394705647
+        twitter:app:url:iphone: pinterest://pin/266908715394705647
+        twitter:card: summary_large_image
+        twitter:description: 在食べログ確認Aoyama Flower Market TEA HOUSE (表參道/紅茶專賣店)的店鋪資訊！有感想、評價與照片等，有來自使用者的真實資訊！也有關於地圖及餐點菜單的詳細資訊。（繁體中文）
+        twitter:image:src: https://i.pinimg.com/736x/aa/7d/17/aa7d17183e17785621c71ecd86e1b27f--cafe-restaurant-flower-market.jpg
+        twitter:site: '@pinterest'
+        twitter:title: 3 花艺 花道 花语
+        viewport: width=device-width, initial-scale=1
+    snippet: '在食べログ確認Aoyama Flower Market TEA HOUSE (表參道/紅茶專賣店)的店鋪
+
+      資訊！有感想、評價與照片等，有來自使用者的真實資訊！也有關於地圖及餐點菜單
+
+      的詳細資訊。（繁體中文）'
+    title: 在食べログ確認Aoyama Flower Market TEA HOUSE (表參道/紅茶 ...
+  - cacheId: a2dyxNtcMgcJ
+    displayLink: www.afm-teahouse.com
+    formattedUrl: www.afm-teahouse.com/kichijyoji
+    htmlFormattedUrl: www.afm-<b>teahouse</b>.com/kichijyoji
+    htmlSnippet: '<b>青山フラワーマーケット</b>が運営する<b>TEA HOUSE</b>は、”温室”をコンセプトとした空間で、花<br>
+
+      と緑に囲まれた心地良い時間を体感いただけます。<b>ティーハウス</b>自慢のフレッシュ<br>
+
+      ハーブ<b>ティー</b>を飲みながら、 ゆったりとした時間をお楽しみください。'
+    htmlTitle: アトレ吉祥寺店 | <b>Aoyama Flower Market TEA HOUSE</b>
+    kind: customsearch#result
+    link: http://www.afm-teahouse.com/kichijyoji
+    pagemap:
+      cse_image:
+      - src: https://s0.wp.com/i/blank.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWFd3H4RHfOldxeesuf5INtso9lDvoaCpBocXJaRRmC-FLpHMaF4tw1Uk
+        width: '200'
+      metatags:
+      - article:author: http://www.afm-teahouse.com/author/higa
+        article:modified_time: '2018-09-06T08:46:05+00:00'
+        article:published_time: '2014-12-18T21:05:35+00:00'
+        og:description: 詳しくは投稿をご覧ください。
+        og:image: https://s0.wp.com/i/blank.jpg
+        og:locale: ja_JP
+        og:site_name: Aoyama Flower Market TEA HOUSE
+        og:title: アトレ吉祥寺店
+        og:type: article
+        og:url: http://www.afm-teahouse.com/kichijyoji
+        twitter:card: summary
+        twitter:description: 詳しくは投稿をご覧ください。
+    snippet: '青山フラワーマーケットが運営するTEA HOUSEは、”温室”をコンセプトとした空間で、花
+
+      と緑に囲まれた心地良い時間を体感いただけます。ティーハウス自慢のフレッシュ
+
+      ハーブティーを飲みながら、 ゆったりとした時間をお楽しみください。'
+    title: アトレ吉祥寺店 | Aoyama Flower Market TEA HOUSE
+  - cacheId: gyJYrpiwl2wJ
+    displayLink: press.chiku-wa.jp
+    formattedUrl: https://press.chiku-wa.jp/press_2622/
+    htmlFormattedUrl: https://press.chiku-wa.jp/press_2622/
+    htmlSnippet: '2018年12月12日 <b>...</b> 出典： <b>食べログ</b>. メニューはフルーツをたっぷり使った「ワッフル 季節のフルーツ
+      850円」<br>
+
+      などがおすすめ。おしゃれな空間で .... 出典： <b>食べログ</b>. 赤坂駅より徒歩1分ほどの赤坂<br>
+
+      Bizタワーの1階にある「<b>青山フラワーマーケット ティーハウス</b> 赤坂Biz&nbsp;...'
+    htmlTitle: ゆったりくつろげる   赤坂の最高におしゃれなカフェ 5選｜ちくわ。
+    kind: customsearch#result
+    link: https://press.chiku-wa.jp/press_2622/
+    pagemap:
+      breadcrumb:
+      - url: ホーム
+      - url: おでかけ情報
+      cse_image:
+      - src: https://chiku-wa.jp/system/press_image/2018/11/18/Duy2YbfhCtJAD8VGu-BgVCFUgkceOPj-mozcOTO6yEI/extract/84dde04b9876c37034edd2cd6fcd69da.jpg
+      cse_thumbnail:
+      - height: '194'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgpVJ10bf0_2SL0FKTaZ5lARMO9VQ7o5r51-1GvwePVt7lL4V7FzM3723w
+        width: '259'
+      metatags:
+      - device: pc
+        fb:app_id: '1041338602571389'
+        og:description: 「ゆったりくつろげる♪ 赤坂の最高におしゃれなカフェ 5選」の記事です。グルメスポットが充実している赤坂には、おしゃれな雰囲気のカフェもたくさんあります。今回は特におすすめのお店を厳選してご紹介。おひとりさまでふらりと立ち寄ったり、友達や恋人を誘って訪れたくなるお店ばかり…
+        og:image: https://chiku-wa.jp/system/press_image/2018/11/18/Duy2YbfhCtJAD8VGu-BgVCFUgkceOPj-mozcOTO6yEI/extract/84dde04b9876c37034edd2cd6fcd69da.jpg
+        og:site_name: ちくわ。
+        og:title: ゆったりくつろげる♪ 赤坂の最高におしゃれなカフェ 5選｜ちくわ。
+        og:type: article
+        og:url: https://press.chiku-wa.jp/press_2622/
+        twitter:card: summary_large_image
+        twitter:site: '@CHIKU_WA_jp'
+        viewport: width=1060
+    snippet: '2018年12月12日 ... 出典： 食べログ. メニューはフルーツをたっぷり使った「ワッフル 季節のフルーツ 850円」
+
+      などがおすすめ。おしゃれな空間で .... 出典： 食べログ. 赤坂駅より徒歩1分ほどの赤坂
+
+      Bizタワーの1階にある「青山フラワーマーケット ティーハウス 赤坂Biz ...'
+    title: ゆったりくつろげる   赤坂の最高におしゃれなカフェ 5選｜ちくわ。
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: Aoyama Flower Market TEA HOUSE 食べログ
+      startIndex: 11
+      title: Google Custom Search - Aoyama Flower Market TEA HOUSE 食べログ
+      totalResults: '37000'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: Aoyama Flower Market TEA HOUSE 食べログ
+      startIndex: 1
+      title: Google Custom Search - Aoyama Flower Market TEA HOUSE 食べログ
+      totalResults: '37000'
+  searchInformation:
+    formattedSearchTime: '0.77'
+    formattedTotalResults: 37,000
+    searchTime: 0.769201
+    totalResults: '37000'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 17:36:22
+snapshot_ymd: '20190424'
