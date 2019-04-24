@@ -1,0 +1,561 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: VOnjbtK2zd8J
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1317/A131708/13143895/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1317/A131708/13143895/
+    htmlSnippet: '<b>カフェ ソウル ツリー</b>/Cafe Soul Tree (二子玉川/イタリアン)の店舗情報は<b>食べログ</b>で<br>
+
+      チェック！ 【喫煙可】口コミや評価、写真など、ユーザーによるリアルな情報が満載です<br>
+
+      ！地図や料理メニューなどの詳細情報も充実。'
+    htmlTitle: <b>カフェ ソウル ツリー</b> （Cafe Soul Tree） - 二子玉川/イタリアン [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1317/A131708/13143895/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京イタリアン
+        url: 東京イタリアン
+      - title: 東急沿線イタリアン
+        url: 東急沿線イタリアン
+      - title: 二子玉川イタリアン
+        url: 二子玉川イタリアン
+      - title: 二子玉川駅イタリアン
+        url: 二子玉川駅イタリアン
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/17886/17886903.jpg?token=adc7f37&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4OpNJ6k4fBYJppnh3M676atYmljuPHG2Nl84w1ZTv04jfvmLUdJIv9M8
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: bbP95bYk7yTWb/ihl4sMoRBP4HxqRSrgKZTvPbCE+EBORbS/chtlqfLGM5/w5d/Bfys0zmfThiStdfaIs5iE3w==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.11 ■予算(夜):￥3,000～￥3,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/17886/17886903.jpg?token=adc7f37&api=v2
+        og:title: カフェ ソウル ツリー (二子玉川/イタリアン)
+        og:url: https://tabelog.com/tokyo/A1317/A131708/13143895/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'カフェ ソウル ツリー/Cafe Soul Tree (二子玉川/イタリアン)の店舗情報は食べログで
+
+      チェック！ 【喫煙可】口コミや評価、写真など、ユーザーによるリアルな情報が満載です
+
+      ！地図や料理メニューなどの詳細情報も充実。'
+    title: カフェ ソウル ツリー （Cafe Soul Tree） - 二子玉川/イタリアン [食べログ]
+  - cacheId: LcAJqFouDRIJ
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1317/A131708/.../B91813634/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1317/A131708/.../B91813634/
+    htmlSnippet: '<b>カフェ ソウル ツリー</b>/Cafe Soul Tree (二子玉川/イタリアン)へのカルボナーラファンさん<br>
+
+      の口コミです。'
+    htmlTitle: '『ニコタマのヒミツ基地』by カルボナーラファン : <b>カフェ ソウル ツリー</b> （Cafe ...'
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1317/A131708/13143895/dtlrvwlst/B91813634/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京イタリアン
+        url: 東京イタリアン
+      - title: 東急沿線イタリアン
+        url: 東急沿線イタリアン
+      - title: 二子玉川イタリアン
+        url: 二子玉川イタリアン
+      - title: 二子玉川駅イタリアン
+        url: 二子玉川駅イタリアン
+      - title: カフェ ソウル ツリー
+        url: カフェ ソウル ツリー
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/17886/200x200_square_17886903.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRexUY1dLL5SM5jUy3H2_5j_TEvkF5FyRTB4WoPk68bhfN_QT4pwNs42PI
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: KRg5kpvzmVk+EPrKLwI9SY3IXLYQXw/ADXEOw5etJoNJvBP6pPZQyOOwyJb/Cqk5BA/mFq7zczdmOlf8Kwo+Pg==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ニコタマのヒミツ基地
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/17886/200x200_square_17886903.jpg
+        og:site_name: 食べログ
+        og:title: ニコタマのヒミツ基地(カルボナーラファン)-カフェ ソウル ツリー
+        og:type: article
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - description: 第二次成長期を迎えたニコタマエリア。 駅前の開発も終盤に差し掛かり、待望のシネコンが<br />まもなくオープンしたり、夏には楽天本社が移転...
+        reviewer: カルボナーラファン
+    snippet: 'カフェ ソウル ツリー/Cafe Soul Tree (二子玉川/イタリアン)へのカルボナーラファンさん
+
+      の口コミです。'
+    title: '『ニコタマのヒミツ基地』by カルボナーラファン : カフェ ソウル ツリー （Cafe ...'
+  - cacheId: RztVrG-PwdcJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/miyagi/A0401/A040101/4021245/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/miyagi/A0401/A040101/4021245/
+    htmlSnippet: '<b>ソウル ツリー</b>/Soul Tree (勾当台公園/<b>カフェ</b>)の店舗情報は<b>食べログ</b>でチェック！
+      【禁煙<br>
+
+      】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理<br>
+
+      メニューなどの詳細情報も充実。'
+    htmlTitle: <b>ソウル ツリー</b> （Soul Tree） - 勾当台公園/<b>カフェ</b> [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/miyagi/A0401/A040101/4021245/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 宮城
+        url: 宮城
+      - title: 宮城カフェ
+        url: 宮城カフェ
+      - title: 仙台カフェ
+        url: 仙台カフェ
+      - title: 青葉区カフェ
+        url: 青葉区カフェ
+      - title: 勾当台公園駅カフェ
+        url: 勾当台公園駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/101822/101822246.jpg?token=a25c07f&api=v2
+      cse_thumbnail:
+      - height: '217'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKr6PqBKT7_nB8PvAnnLQ_gg1W2Hb056ts8l64F3aE-hhiM_BLch6ZJek
+        width: '232'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: TuY9QQsbqR0gHgOXrAtJBoqY5HREcULvQMmHcurP0ECGtUS0uSlULawzHDlQY5i8797ZeM2+xh6axw3023ZP/g==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.05 ■予算(昼):￥1,000～￥1,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/101822/101822246.jpg?token=a25c07f&api=v2
+        og:title: ソウル ツリー (勾当台公園/カフェ)
+        og:url: https://tabelog.com/miyagi/A0401/A040101/4021245/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'ソウル ツリー/Soul Tree (勾当台公園/カフェ)の店舗情報は食べログでチェック！ 【禁煙
+
+      】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理
+
+      メニューなどの詳細情報も充実。'
+    title: ソウル ツリー （Soul Tree） - 勾当台公園/カフェ [食べログ]
+  - cacheId: I0ADGrb0f80J
+    displayLink: icotto.jp
+    formattedUrl: https://icotto.jp/restaurants/335
+    htmlFormattedUrl: https://icotto.jp/restaurants/335
+    htmlSnippet: '二子玉川の秘密基地♪倉庫カフェ「<b>カフェ ソウルツリー</b>」. 二子玉川駅から徒歩10分<br>
+
+      ほど。 ... 二子玉川にある「<b>カフェ ソウル ツリー</b>」をご存知でしょうか。現在放送中の<br>
+
+      ドラマ. ... ￥1,000～￥1,999. データ提供： <b>カフェ ソウル ツリー</b>（<b>カフェソウルツリー</b>） - <br>
+
+      <b>食べログ</b>.'
+    htmlTitle: <b>カフェ ソウル ツリー</b>の詳細情報 | icotto（イコット）
+    kind: customsearch#result
+    link: https://icotto.jp/restaurants/335
+    pagemap:
+      cse_image:
+      - src: https://icotto.k-img.com/system/restaurants/000/000/995/125f6546f0cbe4a9289964190b66fd6b13cf517e.jpg?1489626845
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU_mAVKmy1gcDuE5MkMgCByIxiuTMLyYAXmr1Nd-V0nS9JoIH4SPVcgN4
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: y3jErrGt4nS8xGw4eEqA3+BAgM5ydfQeEfnJkipQMzJBrQTHHQ/bywuw+re8+bGmyi+t3VZNYl5fCmThIaEsQw==
+        fb:app_id: '461760060690819'
+        msapplication-tilecolor: '#FF6726'
+        msapplication-tileimage: https://icotto.k-img.com/assets/favicon/mstile-144x144-5be26d0c0a73cb53f2dbdfe209d94bd89f57142d4df79c414ce117e46473f8b2.png
+        og:description: 平均予算 (昼)￥1,000～￥1,999 (夜)￥1,000～￥1,999
+        og:image: https://icotto.k-img.com/system/restaurants/000/000/995/125f6546f0cbe4a9289964190b66fd6b13cf517e.jpg?1489626845
+        og:locale: ja_JP
+        og:site_name: icotto（イコット） - 心みちるたび - 女性向け旅行・宿泊情報メディア
+        og:title: 'icotto : カフェ ソウル ツリー（二子玉川/イタリアン、カフェ、ビアバー）'
+        og:type: article
+        og:url: https://icotto.jp/restaurants/335
+        theme-color: '#19bfbf'
+        twitter:card: summary
+        twitter:site: '@icotto_official'
+        viewport: width=device-width,minimum-scale=1,initial-scale=1
+    snippet: "二子玉川の秘密基地♪倉庫カフェ「カフェ ソウルツリー」. 二子玉川駅から徒歩10分\nほど。 ... 二子玉川にある「カフェ ソウル ツリー」をご存知でしょうか。現在放送中の\n\
+      ドラマ. ... ￥1,000～￥1,999. データ提供： カフェ ソウル ツリー（カフェソウルツリー） - \n食べログ."
+    title: カフェ ソウル ツリーの詳細情報 | icotto（イコット）
+  - cacheId: -3ZVmytMhZwJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/C13112/C36557/rstLst/cafe/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/C13112/C36557/rstLst/<b>cafe</b>/
+    htmlSnippet: '日本最大級のグルメサイト「<b>食べログ</b>」では、世田谷区鎌田で人気のカフェのお店 5件を<br>
+
+      掲載中。口コミやランキング、こだわり条件から失敗しないおすすめのお店が探せます。<br>
+
+      カフェのお店が多いです。この条件に合致するお店は二子玉川の<b>カフェ ソウル ツリー</b>（&nbsp;...'
+    htmlTitle: 世田谷区鎌田のおすすめ<b>カフェ</b> [食ベログ]
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/C13112/C36557/rstLst/cafe/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 世田谷区カフェ
+        url: 世田谷区カフェ
+      cse_image:
+      - src: https://tabelog.com/images/rst/area/fb_icon_tokyo.gif
+      cse_thumbnail:
+      - height: '180'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOkwpRJzqXBjQlw2F2KiQbSrT4b8eDlwKKBOzhecH7VfZOdGIMPqHlfGQN
+        width: '180'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: XB/WwZ75xl5pUpHNHY7NwD1Sr1/RnnP0Z7HJbjitDlVTU5AQPh5q8Gdk5gpRKG52oYtNYLG3g3K0eAei0NHUPA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: 日本最大級のグルメサイト「食べログ」では、世田谷区鎌田で人気のカフェのお店 5件を掲載中。口コミやランキング、こだわり条件から失敗しないおすすめのお店が探せます。カフェのお店が多いです。
+        og:image: https://tabelog.com/images/rst/area/fb_icon_tokyo.gif
+        og:site_name: 食べログ
+        og:title: 世田谷区鎌田のおすすめカフェ [食べログ]
+        og:type: article
+        og:url: https://tabelog.com/tokyo/C13112/C36557/rstLst/cafe/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: '日本最大級のグルメサイト「食べログ」では、世田谷区鎌田で人気のカフェのお店 5件を
+
+      掲載中。口コミやランキング、こだわり条件から失敗しないおすすめのお店が探せます。
+
+      カフェのお店が多いです。この条件に合致するお店は二子玉川のカフェ ソウル ツリー（ ...'
+    title: 世田谷区鎌田のおすすめカフェ [食ベログ]
+  - cacheId: xu5dR6Jsr4gJ
+    displayLink: award.tabelog.com
+    formattedUrl: https://award.tabelog.com/hyakumeiten/2018/hamburger/japan
+    htmlFormattedUrl: https://award.<b>tabelog</b>.com/hyakumeiten/2018/hamburger/japan
+    htmlSnippet: 'いま<b>食べる</b>ならここしかない。全国のハンバーガー店TOP100. ... 一口<b>食べる</b>と目に見え<br>
+
+      ないこだわりの味も楽しめる、 ハンバーガー 百名店は ..... J.S. BURGERS <b>CAFE</b> 新宿<br>
+
+      店. 東京都 / 新宿・代々木・ ..... シェイク<b>ツリー</b> バーガー＆バー. 東京都 / 両国・錦糸町・<br>
+
+      &nbsp;...'
+    htmlTitle: <b>食べログ</b> ハンバーガー 百名店 2018
+    kind: customsearch#result
+    link: https://award.tabelog.com/hyakumeiten/2018/hamburger/japan
+    pagemap:
+      cse_image:
+      - src: https://award.tabelog.com/images/hyakumeiten2018/ogp_hamburger_japan.png
+      cse_thumbnail:
+      - height: '163'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-Fda5feQ6La5NPFvjnq8zN1yMxeLunYfxdbKk4K-J9o8x5DmEpGNlGo
+        width: '310'
+      metatags:
+      - alternate: https://award.tabelog.com/sp/hyakumeiten/2018/hamburger/japan
+        csrf-param: authenticity_token
+        csrf-token: fgKw62M20C6c7Xuf9TdeZxP56jBmLqT1JVaEmocnCq92aGG00SNTupFMCkOWUr3G1T6H8UaAvVlJ09brWilMXw==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        og:description: いま食べるならここしかない。全国のハンバーガー店TOP100
+        og:image: //d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2018/ogp_hamburger_japan-bce065d0bf2a8a7448e411563b0bce00dd90ee893e717204dee88ec26698e88e.png
+        og:site_name: 食べログ 百名店
+        og:title: 食べログ ハンバーガー 百名店  2018
+        og:type: article
+        og:url: https://award.tabelog.com/hyakumeiten/2018/hamburger/japan
+        title: 食べログ ハンバーガー 百名店  2018
+        twitter:card: summary
+        twitter:image: https://award.tabelog.com/images/hyakumeiten2018/ogp_hamburger_japan.png
+        twitter:site: '@tabelog'
+        viewport: width=1280
+    snippet: 'いま食べるならここしかない。全国のハンバーガー店TOP100. ... 一口食べると目に見え
+
+      ないこだわりの味も楽しめる、 ハンバーガー 百名店は ..... J.S. BURGERS CAFE 新宿
+
+      店. 東京都 / 新宿・代々木・ ..... シェイクツリー バーガー＆バー. 東京都 / 両国・錦糸町・
+
+       ...'
+    title: 食べログ ハンバーガー 百名店 2018
+  - cacheId: d25P9SFG9KEJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1317/A131708/13143895/dtlrvwlst/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1317/A131708/13143895/dtlrvwlst/
+    htmlSnippet: '<b>カフェ ソウル ツリー</b>/Cafe Soul Tree (二子玉川/イタリアン)への口コミです。日本最大級<br>
+
+      のグルメサイト「<b>食べログ</b>」では、<b>カフェ ソウル ツリー</b>/Cafe Soul Treeの口コミ55件を<br>
+
+      掲載中。'
+    htmlTitle: '口コミ一覧 : <b>カフェ ソウル ツリー</b> （Cafe Soul Tree） - 二子玉川/イタリアン ...'
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1317/A131708/13143895/dtlrvwlst/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京イタリアン
+        url: 東京イタリアン
+      - title: 東急沿線イタリアン
+        url: 東急沿線イタリアン
+      - title: 二子玉川イタリアン
+        url: 二子玉川イタリアン
+      - title: 二子玉川駅イタリアン
+        url: 二子玉川駅イタリアン
+      - title: カフェ ソウル ツリー
+        url: カフェ ソウル ツリー
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/17886/17886903.jpg?token=adc7f37&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4OpNJ6k4fBYJppnh3M676atYmljuPHG2Nl84w1ZTv04jfvmLUdJIv9M8
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: djjh5A5WpBUN5CokT6F88RUpsmsKeMrSwJ1LbhKUPMKb3TARioV+M9rFABDhkibhtW00uEF/Fnn0+9C5aBumxA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.11 ■予算(夜):￥3,000～￥3,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/17886/17886903.jpg?token=adc7f37&api=v2
+        og:title: カフェ ソウル ツリー (二子玉川/イタリアン)
+        og:url: https://tabelog.com/tokyo/A1317/A131708/13143895/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - ratingcount: '55'
+        reviewer: CEO SUPPLE
+      review-aggregate:
+      - count: '55'
+        reviewer: CEO SUPPLE
+    snippet: 'カフェ ソウル ツリー/Cafe Soul Tree (二子玉川/イタリアン)への口コミです。日本最大級
+
+      のグルメサイト「食べログ」では、カフェ ソウル ツリー/Cafe Soul Treeの口コミ55件を
+
+      掲載中。'
+    title: '口コミ一覧 : カフェ ソウル ツリー （Cafe Soul Tree） - 二子玉川/イタリアン ...'
+  - cacheId: u8OymY1VvfcJ
+    displayLink: matome.naver.jp
+    formattedUrl: https://matome.naver.jp/odai/.../2150710376659465503
+    htmlFormattedUrl: https://matome.naver.jp/odai/.../2150710376659465503
+    htmlSnippet: 2017年10月4日 <b>...</b> <b>カフェ ソウル ツリー</b>（Cafe Soul Tree） - 二子玉川/イタリアン
+      [<b>食べログ</b>]
+    htmlTitle: <b>カフェ ソウル ツリー</b>（Cafe Soul Tree） - 二子玉川/イタリアン [<b>食べログ</b> ...
+    kind: customsearch#result
+    link: https://matome.naver.jp/odai/2150529665689372501/2150710376659465503
+    pagemap:
+      cse_image:
+      - src: https://rr.img.naver.jp/mig?src=https%3A%2F%2Fmedia.gettyimages.com%2Fphotos%2Fman-in-empty-attic-picture-id83590562%3Fb%3D1%26k%3D6%26m%3D83590562%26s%3D612x612%26w%3D0%26h%3DziRBCO1ANbFMZIG1WexO0uv0bU5Ec9VOR_qJCuQoRFY%3D&twidth=1200&theight=1200&qlt=80&res_format=jpg&op=r
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTECTImfWp91v0x7fTfaWdnRpXHAUqkXC3Mdh8f3wArLl3Wd9-EfxDOgEE
+        width: '275'
+      metatags:
+      - fb:admins: '100002409002490'
+        fb:app_id: '115249445227759'
+        og:description: カフェ ソウル ツリー（Cafe Soul Tree） - 二子玉川/イタリアン [食べログ]
+        og:image: https://rr.img.naver.jp/mig?src=https%3A%2F%2Fmedia.gettyimages.com%2Fphotos%2Fman-in-empty-attic-picture-id83590562%3Fb%3D1%26k%3D6%26m%3D83590562%26s%3D612x612%26w%3D0%26h%3DziRBCO1ANbFMZIG1WexO0uv0bU5Ec9VOR_qJCuQoRFY%3D&twidth=1200&theight=1200&qlt=80&res_format=jpg&op=r
+        og:site_name: NAVER まとめ
+        og:title: 'カフェ ソウル ツリー（Cafe Soul Tree） - 二子玉川/イタリアン [食べログ] : 無骨さがカッコいい！人気の「倉庫」リノベーションまとめ
+          - NAVER まとめ'
+        og:type: article
+        og:url: https://matome.naver.jp/odai/2150529665689372501/2150710376659465503
+        referrer: unsafe-url
+        twitter:card: summary_large_image
+        twitter:description: カフェ ソウル ツリー（Cafe Soul Tree） - 二子玉川/イタリアン [食べログ]
+        twitter:image:src: https://rr.img.naver.jp/mig?src=https%3A%2F%2Fmedia.gettyimages.com%2Fphotos%2Fman-in-empty-attic-picture-id83590562%3Fb%3D1%26k%3D6%26m%3D83590562%26s%3D612x612%26w%3D0%26h%3DziRBCO1ANbFMZIG1WexO0uv0bU5Ec9VOR_qJCuQoRFY%3D&twidth=1200&theight=1200&qlt=80&res_format=jpg&op=r
+        twitter:site: '@matomenaver'
+        twitter:title: 'カフェ ソウル ツリー（Cafe Soul Tree） - 二子玉川/イタリアン [食べログ] : 無骨さがカッコいい！人気の「倉庫」リノベーションまとめ
+          - NAVER まとめ'
+    snippet: 2017年10月4日 ... カフェ ソウル ツリー（Cafe Soul Tree） - 二子玉川/イタリアン [食べログ]
+    title: カフェ ソウル ツリー（Cafe Soul Tree） - 二子玉川/イタリアン [食べログ ...
+  - displayLink: www.pinterest.jp
+    formattedUrl: https://www.pinterest.jp/pin/414260865705825419/
+    htmlFormattedUrl: https://www.pinterest.jp/pin/414260865705825419/
+    htmlSnippet: '東京・恵比寿のスペシャルティ・コーヒー専門店、猿田彦珈琲。TOPスペシャルティ<br>
+
+      コーヒーを、焙煎から抽出までこだわり、ドリップとエスプレッソマシンで、ハートフルな<br>
+
+      一杯を皆様にご提供します。'
+    htmlTitle: 東京・恵比寿のスペシャルティ・コーヒー専門店、猿田彦珈琲。TOP ...
+    kind: customsearch#result
+    link: https://www.pinterest.jp/pin/414260865705825419/
+    pagemap:
+      cse_image:
+      - src: https://i.pinimg.com/736x/3a/e6/65/3ae665c94b383a2c22b1bbb4b71ff587--tokyo-web-inspiration.jpg
+      cse_thumbnail:
+      - height: '184'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGVuKKONJp07r92nosfYAb6qjh_FBgCE-s-hpZjch756eYu_-5XmvZB5s
+        width: '274'
+      metatags:
+      - al:android:app_name: Pinterest
+        al:android:package: com.pinterest
+        al:android:url: pinterest://pin/414260865705825419
+        al:ios:app_name: Pinterest
+        al:ios:app_store_id: '429047995'
+        al:ios:url: pinterest://pin/414260865705825419
+        application-name: Pinterest
+        fb:app_id: '274266067164'
+        image_signature: 3ae665c94b383a2c22b1bbb4b71ff587
+        landing_page_info: '{''pin_id'': u''414260865705825419''}'
+        msapplication-tilecolor: '#ffffff'
+        msapplication-tileimage: https://s.pinimg.com/webapp/style/images/logo_trans_144x144-642179a1.png
+        naver-site-verification: 449f5675319d27f34f90dc99f63f1892389589fc
+        og:description: 東京・恵比寿のスペシャルティ・コーヒー専門店、猿田彦珈琲。TOPスペシャルティコーヒーを、焙煎から抽出までこだわり、ドリップとエスプレッソマシンで、ハートフルな一杯を皆様にご提供します。
+        og:image: https://i.pinimg.com/736x/3a/e6/65/3ae665c94b383a2c22b1bbb4b71ff587--tokyo-web-inspiration.jpg
+        og:image:height: '495'
+        og:image:width: '736'
+        og:see_also: http://sarutahiko.co/
+        og:site_name: Pinterest
+        og:title: 東京・恵比寿のスペシャルティ・コーヒー専門店、猿田彦珈琲。TOPスペシャルティコーヒーを、焙煎から抽出までこだわり、ドリップとエスプレッソマシンで、ハートフルな一杯を皆様にご提供します。
+          | THE THREE BEARS | Coffee、Tokyo restaurant、Tokyo
+        og:type: pinterestapp:pin
+        og:url: https://www.pinterest.com/pin/414260865705825419/
+        pinterest: nohover
+        pinterestapp:pinboard: https://www.pinterest.com/bookmantask6/the-three-bears/
+        pinterestapp:pinner: https://www.pinterest.com/bookmantask6/
+        pinterestapp:repins: '0'
+        pinterestapp:source: http://sarutahiko.co/
+        referrer: origin
+        theme-color: '#e60023'
+        twitter:app:android: com.pinterest
+        twitter:app:id:ipad: '429047995'
+        twitter:app:id:iphone: '429047995'
+        twitter:app:url:googleplay: pinterest://pin/414260865705825419
+        twitter:app:url:ipad: pinterest://pin/414260865705825419
+        twitter:app:url:iphone: pinterest://pin/414260865705825419
+        twitter:card: summary_large_image
+        twitter:description: 東京・恵比寿のスペシャルティ・コーヒー専門店、猿田彦珈琲。TOPスペシャルティコーヒーを、焙煎から抽出までこだわり、ドリップとエスプレッソマシンで、ハートフルな一杯を皆様にご提供します。
+        twitter:image:src: https://i.pinimg.com/736x/3a/e6/65/3ae665c94b383a2c22b1bbb4b71ff587--tokyo-web-inspiration.jpg
+        twitter:site: '@pinterest'
+        twitter:title: THE THREE BEARS
+        viewport: width=device-width, initial-scale=1
+    snippet: '東京・恵比寿のスペシャルティ・コーヒー専門店、猿田彦珈琲。TOPスペシャルティ
+
+      コーヒーを、焙煎から抽出までこだわり、ドリップとエスプレッソマシンで、ハートフルな
+
+      一杯を皆様にご提供します。'
+    title: 東京・恵比寿のスペシャルティ・コーヒー専門店、猿田彦珈琲。TOP ...
+  - cacheId: 8Fm0OPwLLmoJ
+    displayLink: ameblo.jp
+    formattedUrl: https://ameblo.jp/ohohohoho12345/entry-12382647006.html
+    htmlFormattedUrl: https://ameblo.jp/ohohohoho12345/entry-12382647006.html
+    htmlSnippet: '2018年6月9日 <b>...</b> 二子玉川の隠れ家カフェ. 「Cafe Soul Tree(<b>カフェ ソウル ツリー</b>)」.
+      東京都世田谷区<br>
+
+      鎌田3-2-15. <b>食べログ</b> https://<b>tabelog</b>.com/rvwr/000570275/rvwdtl/B359529845/.
+      <br>
+
+      東急田園都市線 大井町線「二子玉川駅 西口」より徒歩12分小田急線「&nbsp;...'
+    htmlTitle: 絶品なプリン 発見 倉庫カフェ <b>カフェ ソウルツリー</b> | 華麗なる ...
+    kind: customsearch#result
+    link: https://ameblo.jp/ohohohoho12345/entry-12382647006.html
+    pagemap:
+      cse_image:
+      - src: https://stat.ameba.jp/user_images/20180609/21/ohohohoho12345/0e/3c/j/o2976198414207936492.jpg
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlC4HW8_yiab056UqEDhRU6wY6QvcRzu9E1xELtpdud5KJetKMddSeabkO
+        width: '275'
+      metatags:
+      - al:ios:app_name: Ameba
+        al:ios:app_store_id: '349442137'
+        al:ios:url: jpameblo://ameblo/ohohohoho12345/entry/12382647006
+        fb:app_id: '311629842256842'
+        mixi-check-robots: nodescription, noimage
+        mixi:device-mobile: http://m.ameba.jp/m/blogArticle.do?unm=ohohohoho12345&articleId=12382647006&guid=ON
+        og:description: 倉庫カフェカフェ ソウルツリーのプリンが 超美味しいです！ ココはドラマの撮影でも使われる人気スポットでもあり築60年の古い倉庫をリノベーションしたカフェです…
+        og:image: https://stat.ameba.jp/user_images/20180609/21/ohohohoho12345/0e/3c/j/o2976198414207936492.jpg
+        og:locale: ja_JP
+        og:site_name: 華麗なるスターバックスマダムpowered by Amebaスターバックス研究家ぱぱらっちマダムオフィシャルブログ
+        og:title: 『絶品なプリン　発見　倉庫カフェ　カフェ ソウルツリー』
+        og:type: article
+        og:url: https://ameblo.jp/ohohohoho12345/entry-12382647006.html
+        referrer: origin
+        twitter:app:country: JP
+        twitter:app:id:googleplay: jp.ameba
+        twitter:app:id:iphone: '349442137'
+        twitter:app:name:googleplay: Ameba
+        twitter:app:name:iphone: Ameba
+        twitter:app:url:googleplay: jpameblo://ameblo/ohohohoho12345/entry/12382647006
+        twitter:app:url:iphone: jpameblo://ameblo/ohohohoho12345/entry/12382647006
+        twitter:card: summary_large_image
+        twitter:description: 倉庫カフェカフェ ソウルツリーのプリンが 超美味しいです！ ココはドラマの撮影でも使われる人気スポットでもあり築60年の古い倉庫をリノベーションしたカフェです…
+        twitter:image: https://stat.ameba.jp/user_images/20180609/21/ohohohoho12345/0e/3c/j/o2976198414207936492.jpg
+        twitter:title: スターバックスマダム(スターバックス研究家パパラッチマダム）：絶品なプリン　発見　倉庫カフェ　カフェ ソウルツリー
+        twitter:url: https://ameblo.jp/ohohohoho12345/entry-12382647006.html
+    snippet: "2018年6月9日 ... 二子玉川の隠れ家カフェ. 「Cafe Soul Tree(カフェ ソウル ツリー)」. 東京都世田谷区\n\
+      鎌田3-2-15. 食べログ https://tabelog.com/rvwr/000570275/rvwdtl/B359529845/. \n東急田園都市線\
+      \ 大井町線「二子玉川駅 西口」より徒歩12分小田急線「 ..."
+    title: 絶品なプリン 発見 倉庫カフェ カフェ ソウルツリー | 華麗なる ...
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: カフェ ソウルツリー 食べログ
+      startIndex: 11
+      title: Google Custom Search - カフェ ソウルツリー 食べログ
+      totalResults: '125000'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: カフェ ソウルツリー 食べログ
+      startIndex: 1
+      title: Google Custom Search - カフェ ソウルツリー 食べログ
+      totalResults: '125000'
+  searchInformation:
+    formattedSearchTime: '0.39'
+    formattedTotalResults: 125,000
+    searchTime: 0.389563
+    totalResults: '125000'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 19:43:33
+snapshot_ymd: '20190424'

@@ -45,6 +45,11 @@ def getRelatedImg(num):
     return 'success'
 
 if __name__ == '__main__':
-    num = int(sys.argv[1])
-    getTabelogUrl(num)
-    getRelatedImg(num)
+    num1 = int(sys.argv[1])
+    if len(sys.argv) == 3:
+        num2 = int(sys.argv[2])
+    else:
+        num2 = num1
+    for i in range(num1, num2+1):
+        getTabelogUrl(i)
+        getRelatedImg(i)

@@ -1,0 +1,634 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: jCGbolJFjsoJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/kyoto/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/kyoto/
+    htmlSnippet: 'お店選びで失敗したくない人のためのグルメサイト「<b>食べログ</b>」は京都にあるレストラン<br>
+
+      22296件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、<br>
+
+      様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
+    htmlTitle: 京都のグルメ・レストランガイド [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/kyoto/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      cse_image:
+      - src: https://tabelog.com/images/rst/area/fb_icon_kyoto.gif
+      cse_thumbnail:
+      - height: '180'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQilHRHe_SJwjaIRiX2BKwhRIbEjGnxMVUeaikeBc424P_60f2cVT8ZVvk7
+        width: '180'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: f0hAWXiX54bDW3/uSS19xPYRmWxP5w5GbexSRXJLXLS0kbjDN4IIC3eWBpAzwbFL+F9o3nOqLRDXPsLTBOHlaA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: 京都にあるレストラン22,296件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
+        og:image: https://tabelog.com/images/rst/area/fb_icon_kyoto.gif
+        og:site_name: 食べログ
+        og:title: 京都 グルメ・レストランガイド
+        og:type: website
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'お店選びで失敗したくない人のためのグルメサイト「食べログ」は京都にあるレストラン
+
+      22296件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、
+
+      様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
+    title: 京都のグルメ・レストランガイド [食べログ]
+  - cacheId: NhajjVTuxesJ
+    displayLink: qiita.com
+    formattedUrl: https://qiita.com/fdash/items/2c8f3f9389d3d844fcea
+    htmlFormattedUrl: https://qiita.com/fdash/items/2c8f3f9389d3d844fcea
+    htmlSnippet: '2018年12月25日 <b>...</b> はじめに. <b>食べログ</b>ではWeb開発(Ruby)→iOS開発(Obj-c/Swift)と経験して、現在は<br>
+
+      Android開発(Java/Kotlin)をメインでやっています。 ... val <b>hoge</b> = listOf(1, 2, 3) <b>hoge</b>.<br>
+
+      first{ it == 4 } // =&gt; NoSuchElementException！！ <b>hoge</b>.firstOrNull&nbsp;...'
+    htmlTitle: Kotlinに流れ着いたエンジニアがハマりがちなもの - Qiita
+    kind: customsearch#result
+    link: https://qiita.com/fdash/items/2c8f3f9389d3d844fcea
+    pagemap:
+      article:
+      - articlebody: Happy Holidays!! 24日目は食べログapp開発チームの@fdashです。よろしくお願いいたします。 はじめに
+          食べログではWeb開発(Ruby)→iOS開発(Obj-c/Swift)と経験...
+        datemodified: '2018-12-26T04:17:26Z'
+        datepublished: '2018-12-20T05:54:41Z'
+        headline: Kotlinに流れ着いたエンジニアがハマりがちなもの
+      cse_image:
+      - src: https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTho7Ci4BqiWx5vwfeo11BYT_qRwWY53ewEj1CJwunPKJyQTUk4axOsGMhz
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: t1wgBkktz7hZtVxjpxv6qYEeyquUoHefAFx3hDN2pjduFm4eTmVswvGN0mhnrcsexUYfO7ibHOpreszdMqPwng==
+        fb:admins: '564524038'
+        og:description: 'Happy Holidays!!
+
+          24日目は食べログapp開発チームの@fdashです。よろしくお願いいたします。
+
+
+          ## はじめに
+
+
+          食べログではWeb開発(Ruby)→iOS開発(Obj-c/Swift)と経験して、現在はAndr...'
+        og:image: https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png
+        og:site_name: Qiita
+        og:title: Kotlinに流れ着いたエンジニアがハマりがちなもの - Qiita
+        og:type: article
+        og:url: https://qiita.com/fdash/items/2c8f3f9389d3d844fcea
+        theme-color: '#55c500'
+        twitter:card: summary
+        twitter:site: '@Qiita'
+        viewport: width=device-width,initial-scale=1,shrink-to-fit=no
+      organization:
+      - image: https://s3-ap-northeast-1.amazonaws.com/qiita-organization-image/d9de21cb8423ed935d410897bb16d9a678f09c4f/original.jpg?1540880826
+        url: https://qiita.com/organizations/tabelog
+      - description: お店選びで失敗したくない人のためのグルメサイト「食べログ」を開発しています
+        image: https://s3-ap-northeast-1.amazonaws.com/qiita-organization-image/d9de21cb8423ed935d410897bb16d9a678f09c4f/original.jpg?1540880826
+        legalname: 食べログ
+        url: https://qiita.com/organizations/tabelog
+      person:
+      - image: https://avatars.githubusercontent.com/u/9676588?v=3
+        name: '@fdash'
+    snippet: '2018年12月25日 ... はじめに. 食べログではWeb開発(Ruby)→iOS開発(Obj-c/Swift)と経験して、現在は
+
+      Android開発(Java/Kotlin)をメインでやっています。 ... val hoge = listOf(1, 2, 3) hoge.
+
+      first{ it == 4 } // => NoSuchElementException！！ hoge.firstOrNull ...'
+    title: Kotlinに流れ着いたエンジニアがハマりがちなもの - Qiita
+  - cacheId: ORrJzuJv9EsJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/osaka/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/osaka/
+    htmlSnippet: 'お店選びで失敗したくない人のためのグルメサイト「<b>食べログ</b>」は大阪にあるレストラン<br>
+
+      69593件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、<br>
+
+      様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
+    htmlTitle: 大阪のグルメ・レストランガイド [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/osaka/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      cse_image:
+      - src: https://tabelog.com/images/rst/area/fb_icon_osaka.gif
+      cse_thumbnail:
+      - height: '180'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx9RHMUytgY0A7d3yg85cB39vtL571E3yZeAxrpC5FhKBX-JKKX7VBK25b
+        width: '180'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: 5EiOflbZ0xPoVz1D/VHrpPsVlrBjB5qnchCi+/Iz+R/31WprDFcJQSzIJHuW6/nL7ENSx/PnH5yNbGRFkKKkBw==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: 大阪にあるレストラン69,593件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
+        og:image: https://tabelog.com/images/rst/area/fb_icon_osaka.gif
+        og:site_name: 食べログ
+        og:title: 大阪 グルメ・レストランガイド
+        og:type: website
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'お店選びで失敗したくない人のためのグルメサイト「食べログ」は大阪にあるレストラン
+
+      69593件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、
+
+      様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
+    title: 大阪のグルメ・レストランガイド [食べログ]
+  - cacheId: xTpZSWJ1Uz0J
+    displayLink: hoge.blog
+    formattedUrl: https://hoge.blog/
+    htmlFormattedUrl: https://<b>hoge</b>.blog/
+    htmlSnippet: 'うしごろエス西麻布店 (<b>tabelog</b>) – うしごろ系列の高級ラインの […] Continue Reading
+      <br>
+
+      &quot;2月に食べたもの (2019年)&quot; &middot; 2019年2月16 ... 1月に食べたもの (2019年). 1月に<br>
+
+      食べたもののメモです。 鮨なんば@日比谷 (<b>tabelog</b>) – ミッドタウン日比谷のお鮨屋 […<br>
+
+      ].'
+    htmlTitle: ほげ.ブログ
+    kind: customsearch#result
+    link: https://hoge.blog/
+    pagemap:
+      cse_image:
+      - src: https://s0.wp.com/i/blank.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWFd3H4RHfOldxeesuf5INtso9lDvoaCpBocXJaRRmC-FLpHMaF4tw1Uk
+        width: '200'
+      metatags:
+      - msapplication-tileimage: https://en.wordpress.com/i/webclip.png
+        og:image: https://s0.wp.com/i/blank.jpg
+        og:locale: ja_JP
+        og:site_name: ほげ.ブログ
+        og:title: ほげ.ブログ
+        og:type: website
+        og:url: https://hoge.blog/
+        viewport: width=device-width, initial-scale=1
+    snippet: "うしごろエス西麻布店 (tabelog) – うしごろ系列の高級ラインの […] Continue Reading \n\"2月に食べたもの\
+      \ (2019年)\" · 2019年2月16 ... 1月に食べたもの (2019年). 1月に\n食べたもののメモです。 鮨なんば@日比谷 (tabelog)\
+      \ – ミッドタウン日比谷のお鮨屋 […\n]."
+    title: ほげ.ブログ
+  - cacheId: yD2TmaGjYmQJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/
+    htmlSnippet: 'お店選びで失敗したくない人のためのグルメサイト「<b>食べログ</b>」は東京にあるレストラン<br>
+
+      136185件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに<br>
+
+      、様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
+    htmlTitle: 東京のグルメ・レストランガイド [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      cse_image:
+      - src: https://tabelog.com/images/rst/area/fb_icon_tokyo.gif
+      cse_thumbnail:
+      - height: '180'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOkwpRJzqXBjQlw2F2KiQbSrT4b8eDlwKKBOzhecH7VfZOdGIMPqHlfGQN
+        width: '180'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: xk15y+6K1Ur3kQPxrxpjN28BWYE8sBsvHFKQWFpF1nFqbg7vwdjVcvgTRGaOk5qq2UgVCn0gTnsLuPQ99nkn4g==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: 東京にあるレストラン136,185件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
+        og:image: https://tabelog.com/images/rst/area/fb_icon_tokyo.gif
+        og:site_name: 食べログ
+        og:title: 東京 グルメ・レストランガイド
+        og:type: website
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'お店選びで失敗したくない人のためのグルメサイト「食べログ」は東京にあるレストラン
+
+      136185件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに
+
+      、様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
+    title: 東京のグルメ・レストランガイド [食べログ]
+  - cacheId: DRnvkltKqjwJ
+    displayLink: qiita.com
+    formattedUrl: https://qiita.com/sadashi/items/e359e533016e885bd899
+    htmlFormattedUrl: https://qiita.com/sadashi/items/e359e533016e885bd899
+    htmlSnippet: '2018年12月5日 <b>...</b> <b>食べログ</b> Advent Calendar 2018 6日目の記事ではKotlinでのCoding
+      Tipsについて<br>
+
+      書きたいと思います。 .... NGパターン class <b>Hoge</b> { var text = &quot;&quot; } fun init()
+      { var text = &quot;<br>
+
+      &quot; val <b>hoge</b> = <b>Hoge</b>().apply { text = &quot;<b>hoge</b>&quot;
+      } <b>hoge</b>.text // &quot;<b>hoge</b>&quot;に&nbsp;...'
+    htmlTitle: 自分なりのKotlin Coding Tips - Qiita
+    kind: customsearch#result
+    link: https://qiita.com/sadashi/items/e359e533016e885bd899
+    pagemap:
+      article:
+      - articlebody: 食べログのアプリDevOpsチームでAndroidエンジニアやっている @sadashi です。 最近はアプリアーキテクチャ設計やコーディング規約を考えたりしてい...
+        datemodified: '2018-12-05T22:02:26Z'
+        datepublished: '2018-12-03T07:10:22Z'
+        headline: 自分なりのKotlin Coding Tips
+      cse_image:
+      - src: https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTho7Ci4BqiWx5vwfeo11BYT_qRwWY53ewEj1CJwunPKJyQTUk4axOsGMhz
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: W192y28Obs6Mue+yjWBIwDtcQoBpyYZtqtmHs4WWJm5ZERk2fYm8swDHsO4H9W9AWkQRAU3howoyXczMUqzz2Q==
+        fb:admins: '564524038'
+        og:description: '食べログのアプリDevOpsチームでAndroidエンジニアやっている @sadashi です。
+
+          最近はアプリアーキテクチャ設計やコーディング規約を考えたりしています。
+
+          [食べログ Advent Calendar 2018](http...'
+        og:image: https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png
+        og:site_name: Qiita
+        og:title: 自分なりのKotlin Coding Tips - Qiita
+        og:type: article
+        og:url: https://qiita.com/sadashi/items/e359e533016e885bd899
+        theme-color: '#55c500'
+        twitter:card: summary
+        twitter:creator: '@sadashi_ota'
+        twitter:site: '@Qiita'
+        viewport: width=device-width,initial-scale=1,shrink-to-fit=no
+      organization:
+      - image: https://s3-ap-northeast-1.amazonaws.com/qiita-organization-image/d9de21cb8423ed935d410897bb16d9a678f09c4f/original.jpg?1540880826
+        url: https://qiita.com/organizations/tabelog
+      - description: お店選びで失敗したくない人のためのグルメサイト「食べログ」を開発しています
+        image: https://s3-ap-northeast-1.amazonaws.com/qiita-organization-image/d9de21cb8423ed935d410897bb16d9a678f09c4f/original.jpg?1540880826
+        legalname: 食べログ
+        url: https://qiita.com/organizations/tabelog
+      person:
+      - image: https://qiita-image-store.s3.amazonaws.com/0/189865/profile-images/1539880245
+        name: '@sadashi'
+    snippet: '2018年12月5日 ... 食べログ Advent Calendar 2018 6日目の記事ではKotlinでのCoding Tipsについて
+
+      書きたいと思います。 .... NGパターン class Hoge { var text = "" } fun init() { var text =
+      "
+
+      " val hoge = Hoge().apply { text = "hoge" } hoge.text // "hoge"に ...'
+    title: 自分なりのKotlin Coding Tips - Qiita
+  - cacheId: BTXfwFQeNjUJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/kanagawa/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/kanagawa/
+    htmlSnippet: 'お店選びで失敗したくない人のためのグルメサイト「<b>食べログ</b>」は神奈川にあるレストラン<br>
+
+      47775件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、<br>
+
+      様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
+    htmlTitle: 神奈川のグルメ・レストランガイド [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/kanagawa/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      cse_image:
+      - src: https://tabelog.com/images/rst/area/fb_icon_kanagawa.gif
+      cse_thumbnail:
+      - height: '180'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsiaprMQItp2qK4Bbms_EtBA_9G6yunao339PZMfEYdekMU8u-_VtVoTL0
+        width: '180'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: pzFrHMBtZ/1sYd+DRm9OjT5tzSGglhNyxcIiYXnNIiZsplMjZs4RNhzbd4qdIVG0GYxeI7ryr0sNPFYRC20lYQ==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: 神奈川にあるレストラン47,775件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
+        og:image: https://tabelog.com/images/rst/area/fb_icon_kanagawa.gif
+        og:site_name: 食べログ
+        og:title: 神奈川 グルメ・レストランガイド
+        og:type: website
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'お店選びで失敗したくない人のためのグルメサイト「食べログ」は神奈川にあるレストラン
+
+      47775件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、
+
+      様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
+    title: 神奈川のグルメ・レストランガイド [食べログ]
+  - cacheId: 1CiMS3wWubgJ
+    displayLink: qiita.com
+    formattedUrl: https://qiita.com/tayu1605/items/bab0cb3770e096069901
+    htmlFormattedUrl: https://qiita.com/tayu1605/items/bab0cb3770e096069901
+    htmlSnippet: '2018年12月21日 <b>...</b> こんにちは、<b>食べログ</b>でwebサービス開発している@tayu1605です。
+      去年入社し早くも <br>
+
+      ... ただ、ここでもメソッド探索を見ていくと、HogeChlid クラス、 <b>Hoge</b> クラスだけでは<br>
+
+      なく、その他のクラスへも探索しにいっています。 method3探索 1.'
+    htmlTitle: 【初心者必見】Rubyのメソッド探索備忘録 - Qiita
+    kind: customsearch#result
+    link: https://qiita.com/tayu1605/items/bab0cb3770e096069901
+    pagemap:
+      article:
+      - articlebody: こんにちは、食べログでwebサービス開発している@tayu1605です。 去年入社し早くもエンジニア歴(Ruby歴) 2年を迎えます。
+          そこで今回はRubyで重要な要...
+        datemodified: '2018-12-21T22:02:20Z'
+        datepublished: '2018-12-20T01:03:08Z'
+        headline: 【初心者必見】Rubyのメソッド探索備忘録
+      cse_image:
+      - src: https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTho7Ci4BqiWx5vwfeo11BYT_qRwWY53ewEj1CJwunPKJyQTUk4axOsGMhz
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: 9f3eOhz/SdD8fuYzHvEadYr37BfzQPqRyaIZ9T009Y4HEcSysdU2dEgaSi+LuykrHazXPh1COgXdQ9jDnLhOKw==
+        fb:admins: '564524038'
+        og:description: 'こんにちは、食べログでwebサービス開発している@tayu1605です。
+
+          去年入社し早くもエンジニア歴(Ruby歴) 2年を迎えます。
+
+          そこで今回はRubyで重要な要素である「メソッド探索」を整理していこうと思います。
+
+
+          #継承関...'
+        og:image: https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png
+        og:site_name: Qiita
+        og:title: 【初心者必見】Rubyのメソッド探索備忘録 - Qiita
+        og:type: article
+        og:url: https://qiita.com/tayu1605/items/bab0cb3770e096069901
+        theme-color: '#55c500'
+        twitter:card: summary
+        twitter:site: '@Qiita'
+        viewport: width=device-width,initial-scale=1,shrink-to-fit=no
+      organization:
+      - image: https://s3-ap-northeast-1.amazonaws.com/qiita-organization-image/d9de21cb8423ed935d410897bb16d9a678f09c4f/original.jpg?1540880826
+        url: https://qiita.com/organizations/tabelog
+      - description: お店選びで失敗したくない人のためのグルメサイト「食べログ」を開発しています
+        image: https://s3-ap-northeast-1.amazonaws.com/qiita-organization-image/d9de21cb8423ed935d410897bb16d9a678f09c4f/original.jpg?1540880826
+        legalname: 食べログ
+        url: https://qiita.com/organizations/tabelog
+      person:
+      - image: https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50
+        name: '@tayu1605'
+    snippet: "2018年12月21日 ... こんにちは、食べログでwebサービス開発している@tayu1605です。 去年入社し早くも \n...\
+      \ ただ、ここでもメソッド探索を見ていくと、HogeChlid クラス、 Hoge クラスだけでは\nなく、その他のクラスへも探索しにいっています。 method3探索\
+      \ 1."
+    title: 【初心者必見】Rubyのメソッド探索備忘録 - Qiita
+  - cacheId: 96XihDkqM7AJ
+    displayLink: www.slideshare.net
+    formattedUrl: https://www.slideshare.net/YoshieYamamoto/ss-83840311
+    htmlFormattedUrl: https://www.slideshare.net/YoshieYamamoto/ss-83840311
+    htmlSnippet: '2017年12月11日 <b>...</b> 自己紹介金野 淑恵（かねの よしえ） @empitsu88 Profile Career
+      <b>食べログ</b>システム<br>
+
+      本部FEチームリーダー<b>食べログ</b>の ... appliG appliH appliI appliJ appliK appliL <br>
+
+      main_service <b>hoge</b> fuga fega haga base_api faga micro_service; 15.'
+    htmlTitle: <b>食べログ</b>のフロントエンドエンジニアってめっちゃ大変やねん・・・
+    kind: customsearch#result
+    link: https://www.slideshare.net/YoshieYamamoto/ss-83840311
+    pagemap:
+      cse_image:
+      - height: '96'
+        src: https://cdn.slidesharecdn.com/ss_thumbnails/20171130-171211094544-thumbnail.jpg?cb=1512985753
+        type: '1'
+        width: '170'
+      hcard:
+      - fn: ssuser0dced5
+        photo: https://public.slidesharecdn.com/images/user-48x48.png
+        url: https://www.slideshare.net/ssuser0dced5?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
+      - fn: 彩華 浦
+        photo: https://media.licdn.com/dms/image/C4E03AQGRKc_9u7ntpg/profile-displayphoto-shrink_100_100/0?e=1561593600&v=beta&t=6qb1UOSYLi3HeijJrvzeF7ONlcAOKaDNgL-b0LsSUBo
+        url: https://www.slideshare.net/SaikaURA?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
+      - fn: TakahiroFujiyama
+        nickname: TakahiroFujiyama
+        photo: https://public.slidesharecdn.com/images/user-48x48.png
+        url: https://www.slideshare.net/TakahiroFujiyama?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
+      - fn: Masahiro Kimura
+        photo: https://cdn.slidesharecdn.com/profile-photo-masahirokimura790-48x48.jpg
+        url: https://www.slideshare.net/masahirokimura790?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
+      - fn: Masahiko Asai
+        photo: https://public.slidesharecdn.com/images/user-48x48.png
+        url: https://www.slideshare.net/masahikoasai?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
+      mediaobject:
+      - datepublished: Dec 11, 2017
+        embedurl: https://www.slideshare.net/slideshow/embed_code/key/1jrMSwpteALXqF
+        headline: 食べログのフロントエンドエンジニアってめっちゃ大変やねん･･･
+        image: https://image.slidesharecdn.com/20171130-171211094544/95/-1-638.jpg?cb=1512985753
+        inlanguage: en
+        interactioncount: UserComments:5
+        playertype: HTML5
+        text: 1. 食べログのフロントエンドエンジニアって めっちゃ大変やねん... 株式会社カカクコム 食べログシステム本部 システム開発1部 FEチーム
+          金野...
+        thumbnailurl: https://cdn.slidesharecdn.com/ss_thumbnails/20171130-171211094544-thumbnail.jpg?cb=1512985753
+      metatags:
+      - al:android:app_name: SlideShare Android
+        al:android:package: net.slideshare.mobile
+        al:android:url: slideshare-app://ss/83840311
+        al:ios:app_name: SlideShare iOS
+        al:ios:app_store_id: '917418728'
+        al:ios:url: slideshare-app://ss/83840311
+        apple-itunes-app: app-id=917418728, affiliate-data=ct=smart_banner&pt=10746,
+          app-argument=slideshare-app://ss/83840311
+        fb_app_id: '2490221586'
+        include_mode: async
+        og_description: 2017/11/30「【エンジニア交流会】食 Tech 〜 食系サービスにおけるテクノロジーの裏側 〜」での発表資料
+        og_image: https://cdn.slidesharecdn.com/ss_thumbnails/20171130-171211094544-thumbnail-4.jpg?cb=1512985753
+        og_title: 食べログのフロントエンドエンジニアってめっちゃ大変やねん･･･
+        og_type: slideshare:presentation
+        og_url: https://www.slideshare.net/YoshieYamamoto/ss-83840311
+        slideshow_author: https://www.slideshare.net/YoshieYamamoto
+        slideshow_category: Internet
+        slideshow_comment_count: '5'
+        slideshow_created_at: 2017-12-11 09:45:44 UTC
+        slideshow_download_count: '44'
+        slideshow_embed_count: '3007'
+        slideshow_favorites_count: '44'
+        slideshow_published_time: '2017-12-11T09:45:44Z'
+        slideshow_updated_at: 2017-12-11 09:49:13 UTC
+        slideshow_view_count: '328110'
+        ss-i18n-translations: '{"lynda.domain":"lynda","lynda.premium_video":"PREMIUM
+          VIDEO","lynda.tld":".com","right_rail.recommended":"Recommended","views.other":"views","share":"Share","select":"Select","selected":"Selected","clipping.select_clipboard_modal.select_another_clipboard":"Select
+          another clipboard","clipping.select_clipboard_modal.select_new_clipboard":"Select
+          a new clipboard","clipping.toast.change_clipboard":"Change clipboard","clipping.toast.share_clip":"Share
+          clip","clipping.toast.close":"Close","li_connect.slideshare_added":"Your
+          SlideShare was successfully added to your LinkedIn profile.","li_connect.login.no_match":"Login
+          does not match, please try again.","ajax_signup.login.download":"Login to
+          SlideShare to download\u2026","ajax_signup.login.addcontact":"Login to SlideShare
+          to follow\u2026","ajax_signup.login.favorite":"Login to SlideShare to like\u2026","ajax_signup.login.comments":"Login
+          to SlideShare to post a comment\u2026","ajax_signup.login.AddToCommunity":"Login
+          to SlideShare to add this document to a group/ev'
+        ss-svg-icons: https://public.slidesharecdn.com/images/artdeco/icons.svg?43e81fd2ef
+        thumbnail: https://cdn.slidesharecdn.com/ss_thumbnails/20171130-171211094544-thumbnail.jpg?cb=1512985753
+        twitter:app:id:googleplay: net.slideshare.mobile
+        twitter:app:id:ipad: '917418728'
+        twitter:app:id:iphone: '917418728'
+        twitter:app:name:googleplay: SlideShare Android
+        twitter:app:name:ipad: SlideShare iOS
+        twitter:app:name:iphone: SlideShare iOS
+        twitter:app:url:googleplay: https://www.slideshare.net/YoshieYamamoto/ss-83840311
+        twitter:app:url:ipad: slideshare-app://ss/83840311
+        twitter:app:url:iphone: slideshare-app://ss/83840311
+        viewport: width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no
+      person:
+      - image: https://cdn.slidesharecdn.com/profile-photo-YoshieYamamoto-48x48.jpg?cb=1554859176
+        jobtitle: ', Frontend Engineer'
+        name: Yoshie Kaneno
+        url: https://www.slideshare.net/YoshieYamamoto?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
+      - name: KendrickLamost
+        url: KendrickLamost
+      - name: KendrickLamost
+        url: KendrickLamost
+      - name: KendrickLamost
+        url: KendrickLamost
+      - name: katekoxx
+        url: katekoxx
+      - jobtitle: WEB屋サン？
+        name: 1000 VICKY
+        url: 1000 VICKY , WEB屋サン？ at 非公開
+        worksfor: 非公開
+      - image: https://public.slidesharecdn.com/images/user-48x48.png
+        name: ssuser0dced5
+        url: https://www.slideshare.net/ssuser0dced5?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
+      - image: https://media.licdn.com/dms/image/C4E03AQGRKc_9u7ntpg/profile-displayphoto-shrink_100_100/0?e=1561593600&v=beta&t=6qb1UOSYLi3HeijJrvzeF7ONlcAOKaDNgL-b0LsSUBo
+        name: 彩華 浦
+        url: https://www.slideshare.net/SaikaURA?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
+      - image: https://public.slidesharecdn.com/images/user-48x48.png
+        name: TakahiroFujiyama
+        url: https://www.slideshare.net/TakahiroFujiyama?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
+      - image: https://cdn.slidesharecdn.com/profile-photo-masahirokimura790-48x48.jpg
+        name: Masahiro Kimura
+        url: https://www.slideshare.net/masahirokimura790?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
+      - image: https://public.slidesharecdn.com/images/user-48x48.png
+        name: Masahiko Asai
+        url: https://www.slideshare.net/masahikoasai?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
+      thumbnail:
+      - src: https://cdn.slidesharecdn.com/ss_thumbnails/20171130-171211094544-thumbnail.jpg?cb=1512985753
+      usercomments:
+      - commenttext: Sex in your area for one night is there tinyurl.com/hotsexinarea
+          Copy and paste link in your browser to visit a site)
+        commenttime: 1 month ago
+        image: https://cdn.slidesharecdn.com/profile-photo-KendrickLamost-48x48.jpg
+        url: https://www.slideshare.net/KendrickLamost?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshare
+      - commenttext: Girls for sex are waiting for you https://bit.ly/2TQ8UAY
+        commenttime: 2 months ago
+        image: https://cdn.slidesharecdn.com/profile-photo-KendrickLamost-48x48.jpg
+        url: https://www.slideshare.net/KendrickLamost?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshare
+      - commenttext: 'Meetings for sex in your area are there: https://bit.ly/2TQ8UAY'
+        commenttime: 2 months ago
+        image: https://cdn.slidesharecdn.com/profile-photo-KendrickLamost-48x48.jpg
+        url: https://www.slideshare.net/KendrickLamost?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshare
+      - commenttext: Hey guys! Who wants to chat with me? More photos with me here
+          👉 http://www.bit.ly/katekoxx
+        commenttime: 11 months ago
+        image: https://cdn.slidesharecdn.com/profile-photo-katekoxx-48x48.jpg
+        url: https://www.slideshare.net/katekoxx?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshare
+      - commenttext: リッチカードのJSON-LDとかったフロントエンドのエンジニャーが実装刷るんですよね?
+        commenttime: 12 months ago
+        image: https://cdn.slidesharecdn.com/profile-photo-ssuser4a8235-48x48.jpg
+        url: https://www.slideshare.net/ssuser4a8235?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshare
+    snippet: "2017年12月11日 ... 自己紹介金野 淑恵（かねの よしえ） @empitsu88 Profile Career 食べログシステム\n\
+      本部FEチームリーダー食べログの ... appliG appliH appliI appliJ appliK appliL \nmain_service\
+      \ hoge fuga fega haga base_api faga micro_service; 15."
+    title: 食べログのフロントエンドエンジニアってめっちゃ大変やねん・・・
+  - cacheId: yKkUI4Oi67gJ
+    displayLink: thestartup.jp
+    formattedUrl: thestartup.jp/?p=16580
+    htmlFormattedUrl: thestartup.jp/?p=16580
+    htmlSnippet: 2016年5月16日 <b>...</b> 15名のうちの1名として初代？<b>食べログ</b>グルメ著名人に選ばれたよ！
+    htmlTitle: <b>食べログ</b>のグルメ著名人になったよ。 | The Startup
+    kind: customsearch#result
+    link: http://thestartup.jp/?p=16580
+    pagemap:
+      cse_image:
+      - src: https://i1.wp.com/thestartup.jp/wp-content/uploads/2016/05/11-e1463386453227.jpg?resize=600%2C315
+      cse_thumbnail:
+      - height: '163'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMiGs-u2tsQ0E1rXx5RLJLhyyvLLH1DJuf7InkplT3qNOAcT_o0dKe6eYK
+        width: '310'
+      metatags:
+      - article:modified_time: '2016-05-16T08:25:53+00:00'
+        article:published_time: '2016-05-16T08:17:07+00:00'
+        fb:app_id: '299218593474487'
+        og:description: 15名のうちの1名として初代？食べロググルメ著名人に選ばれたよ！
+        og:image: https://i1.wp.com/thestartup.jp/wp-content/uploads/2016/05/11-e1463386453227.jpg?resize=600%2C315
+        og:image:height: '317'
+        og:image:width: '600'
+        og:locale: ja_JP
+        og:site_name: The Startup
+        og:title: 食べログのグルメ著名人になったよ。 | The Startup
+        og:type: article
+        og:url: http://thestartup.jp/?p=16580
+        twitter:card: summary_large_image
+        twitter:image: https://i1.wp.com/thestartup.jp/wp-content/uploads/2016/05/11-e1463386453227.jpg?fit=600%2C317&w=640
+        viewport: width=device-width,user-scalable=no,maximum-scale=1
+    snippet: 2016年5月16日 ... 15名のうちの1名として初代？食べロググルメ著名人に選ばれたよ！
+    title: 食べログのグルメ著名人になったよ。 | The Startup
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: hoge 食べログ
+      startIndex: 11
+      title: Google Custom Search - hoge 食べログ
+      totalResults: '22300'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: hoge 食べログ
+      startIndex: 1
+      title: Google Custom Search - hoge 食べログ
+      totalResults: '22300'
+  searchInformation:
+    formattedSearchTime: '0.59'
+    formattedTotalResults: 22,300
+    searchTime: 0.586995
+    totalResults: '22300'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 19:36:14
+snapshot_ymd: '20190424'

@@ -1,0 +1,534 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: MOOUAzXOQ1YJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1303/A130303/13184722/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1303/A130303/13184722/
+    htmlSnippet: 'ガーデンハウス クラフツ/<b>GARDEN HOUSE CRAFTS</b> (代官山/パン)の店舗情報は<b>食べ</b><br>
+
+      <b>ログ</b>でチェック！自家製天然酵母と国産小麦でつくるこだわりのパン。 【禁煙】口コミや<br>
+
+      評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの<br>
+
+      &nbsp;...'
+    htmlTitle: ガーデンハウス クラフツ （<b>GARDEN HOUSE CRAFTS</b>） - 代官山/パン ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1303/A130303/13184722/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京パン
+        url: 東京パン
+      - title: 渋谷・恵比寿・代官山パン
+        url: 渋谷・恵比寿・代官山パン
+      - title: 代官山パン
+        url: 代官山パン
+      - title: 代官山駅パン
+        url: 代官山駅パン
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/55287/55287733.jpg?token=5421085&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vVEE7lNW0CXwfaDNGl3afbWestQRTRwuWjBrthPrO7ltJjfefmV6XKA
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: JDeJVQcFeGTG44GxtGEQip7dclPK677eTaIBFPBxNSam9y1N/IUK0sfXgGEO1CppZOJoKpA3hu75AE1YFu8rjQ==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.55 ■自家製天然酵母と国産小麦でつくるこだわりのパン。 ■予算(昼):～￥999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/55287/55287733.jpg?token=5421085&api=v2
+        og:title: ガーデンハウス クラフツ (代官山/パン)
+        og:url: https://tabelog.com/tokyo/A1303/A130303/13184722/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'ガーデンハウス クラフツ/GARDEN HOUSE CRAFTS (代官山/パン)の店舗情報は食べ
+
+      ログでチェック！自家製天然酵母と国産小麦でつくるこだわりのパン。 【禁煙】口コミや
+
+      評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの
+
+       ...'
+    title: ガーデンハウス クラフツ （GARDEN HOUSE CRAFTS） - 代官山/パン ...
+  - cacheId: bdMQk7AsQm0J
+    displayLink: press.chiku-wa.jp
+    formattedUrl: https://press.chiku-wa.jp/press_1664/
+    htmlFormattedUrl: https://press.chiku-wa.jp/press_1664/
+    htmlSnippet: '2018年4月14日 <b>...</b> ガーデンハウス カフェ（GARDEN HOUSE CAFE）」は、人気レストラン「GARDEN
+      <br>
+
+      HOUSE」の新業態として2017年8月30 ... の「<b>GARDEN HOUSE CRAFTS</b>」や都内の<br>
+
+      有名ベーカリーのパンやペストリーも販売しているところ。 出典： <b>食べログ</b>.'
+    htmlTitle: 東京駅構内で有名店のパンが買える！？『<b>GARDEN HOUSE</b> CAFE』を ...
+    kind: customsearch#result
+    link: https://press.chiku-wa.jp/press_1664/
+    pagemap:
+      breadcrumb:
+      - url: ホーム
+      - url: おでかけ情報
+      cse_image:
+      - src: https://chiku-wa.jp/system/press_image/2018/04/04/FU3XXPye8GceihfA41Y3NXbWQzfeb___GIzsTxX6AZo/extract/b9f3881478b856011a43fc86c74a70c8.jpg
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMJaN5SXlyLrEpSV6h5ZMbQ7Y8ngB5Pg9eeKmub4YorQlAVTHZwZ60GtUF
+        width: '225'
+      metatags:
+      - device: pc
+        fb:app_id: '1041338602571389'
+        og:description: 「東京駅構内で有名店のパンが買える！？『GARDEN HOUSE CAFE』をご紹介！」の記事です。東京駅周辺には美味しいパン屋さんが多く、どこへ行こうか迷ってしまうことがありますよね。そんなパン好きの人におすすめしたいのが、2017年8月30日に東京駅構内のグランスタ丸の内にオープンした「ガーデン…
+        og:image: https://chiku-wa.jp/system/press_image/2018/04/04/FU3XXPye8GceihfA41Y3NXbWQzfeb___GIzsTxX6AZo/extract/b9f3881478b856011a43fc86c74a70c8.jpg
+        og:site_name: ちくわ。
+        og:title: 東京駅構内で有名店のパンが買える！？『GARDEN HOUSE CAFE』をご紹介！｜ちくわ。
+        og:type: article
+        og:url: https://press.chiku-wa.jp/press_1664/
+        twitter:card: summary_large_image
+        twitter:site: '@CHIKU_WA_jp'
+        viewport: width=1060
+    snippet: "2018年4月14日 ... ガーデンハウス カフェ（GARDEN HOUSE CAFE）」は、人気レストラン「GARDEN \nHOUSE」の新業態として2017年8月30\
+      \ ... の「GARDEN HOUSE CRAFTS」や都内の\n有名ベーカリーのパンやペストリーも販売しているところ。 出典： 食べログ."
+    title: 東京駅構内で有名店のパンが買える！？『GARDEN HOUSE CAFE』を ...
+  - cacheId: ylOSRnFXQQsJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1304/A130403/13194170/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1304/A130403/13194170/
+    htmlSnippet: '2016年4月23日 <b>...</b> <b>GARDEN HOUSE CRAFTS</b> 新宿/ガーデンハウス クラフツ
+      (代々木/パン)の店舗情報<br>
+
+      は<b>食べログ</b>でチェック！ 【禁煙】口コミや評価、写真など、ユーザーによるリアルな情報<br>
+
+      が満載です！地図や料理メニューなどの詳細情報も充実。'
+    htmlTitle: <b>GARDEN HOUSE CRAFTS</b> 新宿 （ガーデンハウス クラフツ） - 代々木/パン
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1304/A130403/13194170/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京パン
+        url: 東京パン
+      - title: 新宿・代々木・大久保パン
+        url: 新宿・代々木・大久保パン
+      - title: 代々木パン
+        url: 代々木パン
+      - title: 新宿駅パン
+        url: 新宿駅パン
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/105337/105337343.jpg?token=cde8c68&api=v2
+      cse_thumbnail:
+      - height: '252'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyTDoQCFq4Al32A5BARjCu2omMqbnijFY68oeXXToDNgveZt-Q66TaBEZb
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: DjSjvuVrc8PPg0MSFXOt/JkRu1Yg7ZgvzY3U78frUCUXQygW46c143J+7Z4w7cCx7uOKFpJ3WC6RjEj7k0d9iA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.51 ■予算(夜):～￥999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/105337/105337343.jpg?token=cde8c68&api=v2
+        og:title: GARDEN HOUSE CRAFTS 新宿 (代々木/パン)
+        og:url: https://tabelog.com/tokyo/A1304/A130403/13194170/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: '2016年4月23日 ... GARDEN HOUSE CRAFTS 新宿/ガーデンハウス クラフツ (代々木/パン)の店舗情報
+
+      は食べログでチェック！ 【禁煙】口コミや評価、写真など、ユーザーによるリアルな情報
+
+      が満載です！地図や料理メニューなどの詳細情報も充実。'
+    title: GARDEN HOUSE CRAFTS 新宿 （ガーデンハウス クラフツ） - 代々木/パン
+  - cacheId: sctbMC5IzNwJ
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1304/A130403/.../B198693587/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1304/A130403/.../B198693587/
+    htmlSnippet: '詳しくはこちら. 「フルーツクチュールタカノ Newoman新宿店」の運営者様・オーナー様<br>
+
+      は<b>食べログ</b>店舗準会員（無料）になると、自分のお店の情報を編集することができます。 <br>
+
+      ... <b>GARDEN HOUSE CRAFTS</b> 新宿 （パン、ケーキ、スイーツ（その他））. 点数： 3.51.'
+    htmlTitle: '『くだものおいしいー』by てくてくもぐもぐ : フルーツクチュールタカノ ...'
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1304/A130403/13195561/dtlrvwlst/B198693587/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京ケーキ
+        url: 東京ケーキ
+      - title: 新宿・代々木・大久保ケーキ
+        url: 新宿・代々木・大久保ケーキ
+      - title: 代々木ケーキ
+        url: 代々木ケーキ
+      - title: 新宿駅ケーキ
+        url: 新宿駅ケーキ
+      - title: フルーツクチュールタカノ Newoman新宿店
+        url: フルーツクチュールタカノ Newoman新宿店
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/96979/200x200_square_96979569.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCcGEqVQJB1cw2BgLHwWfEzIk6WlfjMIHEjBp5wkQxRVTcsBZaAfD6wUg
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: jKGYPG5TWUCiS6KXnSWmT++kg2nsS/p5qSK5xSK9bgst062RxQgZ9Dx/5CIWOUu6bjwx3m4hJMoOVTzw/Jk/dg==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: くだものおいしいー
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/96979/200x200_square_96979569.jpg
+        og:site_name: 食べログ
+        og:title: くだものおいしいー(てくてくもぐもぐ)-フルーツクチュールタカノ Newoman新宿店
+        og:type: article
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - description: 新宿のニュウマンのエキナカにある新宿高野を覗きます。「ニュウマンオンリー」という札が掲げてあるケーキが3つあったかな。いちごのシュー...
+        reviewer: てくてくもぐもぐ
+    snippet: "詳しくはこちら. 「フルーツクチュールタカノ Newoman新宿店」の運営者様・オーナー様\nは食べログ店舗準会員（無料）になると、自分のお店の情報を編集することができます。\
+      \ \n... GARDEN HOUSE CRAFTS 新宿 （パン、ケーキ、スイーツ（その他））. 点数： 3.51."
+    title: '『くだものおいしいー』by てくてくもぐもぐ : フルーツクチュールタカノ ...'
+  - cacheId: X5t2etxnQbEJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1319/A131906/13215366/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1319/A131906/13215366/
+    htmlSnippet: 'ガーデンハウスクラフツ ルミネ荻窪店/<b>GARDEN HOUSE CRAFTS</b> (荻窪/カフェ)の<br>
+
+      店舗情報は<b>食べログ</b>でチェック！ 口コミや評価、写真など、ユーザーによるリアルな<br>
+
+      情報が満載です！地図や料理メニューなどの詳細情報も充実。'
+    htmlTitle: ガーデンハウスクラフツ ルミネ荻窪店 （<b>GARDEN HOUSE CRAFTS</b> ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1319/A131906/13215366/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 中野～西荻窪カフェ
+        url: 中野～西荻窪カフェ
+      - title: 荻窪カフェ
+        url: 荻窪カフェ
+      - title: 荻窪駅カフェ
+        url: 荻窪駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/94596/94596568.jpg?token=9253bf5&api=v2
+      cse_thumbnail:
+      - height: '194'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiN_dv_Rbx_GWyoZRDDEmxasaI0v4_EP1656TGGDiZOu9QFwu17n-Itx4
+        width: '259'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: s4UZTXBCekuy+663l571cnC1uouhVlqGMpnblp9dwlogkVs1sKbL9txfaS9NHRCgDlie65WXXpFzQ0DA1Eme5w==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.08 ■予算(昼):～￥999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/94596/94596568.jpg?token=9253bf5&api=v2
+        og:title: ガーデンハウスクラフツ ルミネ荻窪店 (荻窪/カフェ)
+        og:url: https://tabelog.com/tokyo/A1319/A131906/13215366/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'ガーデンハウスクラフツ ルミネ荻窪店/GARDEN HOUSE CRAFTS (荻窪/カフェ)の
+
+      店舗情報は食べログでチェック！ 口コミや評価、写真など、ユーザーによるリアルな
+
+      情報が満載です！地図や料理メニューなどの詳細情報も充実。'
+    title: ガーデンハウスクラフツ ルミネ荻窪店 （GARDEN HOUSE CRAFTS ...
+  - cacheId: HmKT8mc8QIAJ
+    displayLink: goodpatch.com
+    formattedUrl: https://goodpatch.com/blog/recommend_cafe_office/
+    htmlFormattedUrl: https://goodpatch.com/blog/recommend_cafe_office/
+    htmlSnippet: '2018年4月26日 <b>...</b> ... 24/7 KIOSK：Goodpatch徒歩3分; FLUX CAFE：Goodpatch徒歩5分;
+      <b>GARDEN</b> <br>
+
+      <b>HOUSE CRAFTS</b>：Goodpatch徒歩7 ... 東京都渋谷区鶯谷町3-4 ピンキーハウス 1F ... <br>
+
+      【<b>食べログ</b>】https://<b>tabelog</b>.com/tokyo/A1303/A130303/13134654/.'
+    htmlTitle: 【イベント前の一息】Goodpatchメンバーおすすめ！オフィス周辺のカフェ ...
+    kind: customsearch#result
+    link: https://goodpatch.com/blog/recommend_cafe_office/
+    pagemap:
+      breadcrumb:
+      - title: HOME
+        url: HOME
+      - title: ナレッジ・ノウハウ共有
+        url: ナレッジ・ノウハウ共有
+      cse_image:
+      - src: https://goodpatch.com/blog/wp-content/uploads/2019/03/bd33191381b8912d014a987300f7a85d.png
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnG71Zdr52EngfZXAPXC6NAF--g6-OfSWjIm2q93pR0IRoNQuQBHwwqKw
+        width: '275'
+      hcard:
+      - fn: mina
+        nickname: mina
+      imageobject:
+      - url: https://goodpatch.com/blog/wp-content/uploads/2017/04/logo.png
+      metatags:
+      - article:modified_time: '2019-01-23T04:57:48Z'
+        article:published_time: '2018-04-26T10:00:21Z'
+        article:publisher: https://www.facebook.com/goodpatch
+        fb:admins: '114724488626495'
+        fb:app_id: '1945123405723416'
+        fb:pages: '114724488626495'
+        handheldfriendly: 'True'
+        mobileoptimized: '320'
+        msapplication-tileimage: https://goodpatch.com/blog/wp-content/uploads/2017/04/cropped-logo-400x400.png
+        og:description: Goodpatchでは日々様々なイベントやミートアップが開催されています。来場者の中には早めに着いてしまい、時間を持て余してしまった！少しの間でも作業をしたい！という方も多いのではないでしょうか？
+          そこで今回は、Goodpatchメンバーがコーヒータイムやランチで立ち寄るオフィス周辺（渋谷鶯町・代官山町周辺）のおすすめカフェやコーヒースタンドをご紹介します！
+        og:image: https://goodpatch.com/blog/wp-content/uploads/2018/04/TOP.jpeg
+        og:site_name: Goodpatch Blog
+        og:title: 【イベント前の一息】Goodpatchメンバーおすすめ！オフィス周辺のカフェ | Goodpatch Blog
+        og:type: article
+        og:url: https://goodpatch.com/blog/recommend_cafe_office/
+        twitter:card: summary_large_image
+        twitter:description: Goodpatchでは日々様々なイベントやミートアップが開催されています。来場者の中には早めに着いてしまい、時間を持て余してしまった！少しの間でも作業をしたい！という方も多いのではないでしょうか？
+          そこで今回は、Goodpatchメンバーがコーヒータイムやランチで立ち寄るオフィス周辺（渋谷鶯町・代官山町周辺）のおすすめカフェやコーヒースタンドをご紹介します！
+        twitter:domain: GoodpatchTokyo
+        twitter:image: https://goodpatch.com/blog/wp-content/uploads/2018/04/TOP.jpeg
+        twitter:site: '@GoodpatchTokyo'
+        twitter:title: 【イベント前の一息】Goodpatchメンバーおすすめ！オフィス周辺のカフェ | Goodpatch Blog
+        viewport: width=device-width, initial-scale=1
+      organization:
+      - name: Goodpatch Blog
+    snippet: "2018年4月26日 ... ... 24/7 KIOSK：Goodpatch徒歩3分; FLUX CAFE：Goodpatch徒歩5分;\
+      \ GARDEN \nHOUSE CRAFTS：Goodpatch徒歩7 ... 東京都渋谷区鶯谷町3-4 ピンキーハウス 1F ... \n【食べログ】https://tabelog.com/tokyo/A1303/A130303/13134654/."
+    title: 【イベント前の一息】Goodpatchメンバーおすすめ！オフィス周辺のカフェ ...
+  - cacheId: dIJbcR29yPYJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1306/A130601/13194335/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1306/A130601/13194335/
+    htmlSnippet: 'ガーデンハウスクラフツ CPCM店/<b>GARDEN HOUSE CRAFTS</b> (明治神宮前/カフェ)の<br>
+
+      店舗情報は<b>食べログ</b>でチェック！ 【禁煙】口コミや評価、写真など、ユーザーによる<br>
+
+      リアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。'
+    htmlTitle: 【閉店】ガーデンハウスクラフツ CPCM店 （<b>GARDEN HOUSE CRAFTS</b> ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1306/A130601/13194335/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 原宿・表参道・青山カフェ
+        url: 原宿・表参道・青山カフェ
+      - title: 原宿カフェ
+        url: 原宿カフェ
+      - title: 明治神宮前駅カフェ
+        url: 明治神宮前駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/78713/78713030.jpg?token=e979128&api=v2
+      cse_thumbnail:
+      - height: '194'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRnsK5Wzz0FbEP_prycUbX3nS4KqsHcazzVVYT4T-Q4oOqPLiwUoCTgAE
+        width: '259'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: R1nObxjfdhwvJKefAC6FCTzcZ6j9z1Cam1/3uZcfT+bR6VTXZV7cc2U0WeLg25/zNxZWMjq+6lY4AK7ClAMEvw==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.17 ■予算(夜):～￥999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/78713/78713030.jpg?token=e979128&api=v2
+        og:title: ガーデンハウスクラフツ CPCM店 (明治神宮前/カフェ)
+        og:url: https://tabelog.com/tokyo/A1306/A130601/13194335/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'ガーデンハウスクラフツ CPCM店/GARDEN HOUSE CRAFTS (明治神宮前/カフェ)の
+
+      店舗情報は食べログでチェック！ 【禁煙】口コミや評価、写真など、ユーザーによる
+
+      リアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。'
+    title: 【閉店】ガーデンハウスクラフツ CPCM店 （GARDEN HOUSE CRAFTS ...
+  - cacheId: mKVC8WRXOogJ
+    displayLink: b.hatena.ne.jp
+    formattedUrl: b.hatena.ne.jp/entry/293026248/comment/donotthinkfeel
+    htmlFormattedUrl: b.hatena.ne.jp/entry/293026248/comment/donotthinkfeel
+    htmlSnippet: 'ガーデンハウス クラフツ （<b>GARDEN HOUSE CRAFTS</b>） - 代官山/パン [<b>食べログ</b>].
+      <br>
+
+      Twitterでシェア &middot; Facebookでシェア .... ヒッコリー ソラリアステージ店 （HICKORY） - <br>
+
+      天神/イタリアン [<b>食べログ</b>] &middot; 1 users &middot; <b>tabelog</b>.com&nbsp;...'
+    htmlTitle: ガーデンハウス クラフツ （<b>GARDEN HOUSE CRAFTS</b>） - 代官山/パン
+    kind: customsearch#result
+    link: http://b.hatena.ne.jp/entry/293026248/comment/donotthinkfeel
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/55287/55287733.jpg?token=5421085&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vVEE7lNW0CXwfaDNGl3afbWestQRTRwuWjBrthPrO7ltJjfefmV6XKA
+        width: '225'
+      metatags:
+      - apple-itunes-app: app-id=354976659, affiliate-data=at=10l8JW&ct=b_touch_sap&pt=329151
+        hatena-google-play-app: app-id=com.hatena.android.bookmark,title=はてなブックマーク,description=,icon-url=https://lh6.ggpht.com/quP_724GIJfVa3AiNfXeNkmoHueiQIfC59upF8A3ET5lx8yw8O32Hkw7CjxPQYW3TLNK=w124,author=株式会社はてな,campaign=
+        msapplication-navbutton-color: '#2C6EBD'
+        msapplication-task: name=はてなブックマーク; action-uri=/; icon-uri=/images/icons/bookmark.ico
+        og:description: この記事に対して2件のブックマークがあります。
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/55287/55287733.jpg?token=5421085&api=v2
+        og:site_name: はてなブックマーク
+        og:title: 『ガーデンハウス クラフツ （GARDEN HOUSE CRAFTS） - 代官山/パン [食べログ]』へのコメント
+        og:type: article
+        og:url: http://b.hatena.ne.jp/entry/tabelog.com/tokyo/A1303/A130303/13184722/
+        twitter:card: summary
+        twitter:description: 2件のブックマークがあります。
+        twitter:image:src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/55287/55287733.jpg?token=5421085&api=v2
+        twitter:site: '@HatenaBookmark'
+        twitter:title: 『ガーデンハウス クラフツ （GARDEN HOUSE CRAFTS） - 代官山/パン [食べログ]』へのコメント
+        viewport: width=device-width
+    snippet: "ガーデンハウス クラフツ （GARDEN HOUSE CRAFTS） - 代官山/パン [食べログ]. \nTwitterでシェア ·\
+      \ Facebookでシェア .... ヒッコリー ソラリアステージ店 （HICKORY） - \n天神/イタリアン [食べログ] · 1 users\
+      \ · tabelog.com ..."
+    title: ガーデンハウス クラフツ （GARDEN HOUSE CRAFTS） - 代官山/パン
+  - cacheId: ws2yjKnc0IcJ
+    displayLink: haraheri.net
+    formattedUrl: https://haraheri.net/article/27/daikanyama_oshare_cafe
+    htmlFormattedUrl: https://haraheri.net/article/27/daikanyama_oshare_cafe
+    htmlSnippet: '<b>Garden House Crafts</b>. 5. Bird. 6. BOMBAY BAZAR. 7. 松之助 N.Y.
+      代官山店 ... <br>
+
+      IvyPlace <b>食べログ</b>. TSUTAYA代官山の近くにあるラグジュアリー感の漂う「Ivy Place」<br>
+
+      はオシャレな人で賑わう人気店。 カフェ、ダイニング、バーの3つの空間からなるここ<br>
+
+      では、&nbsp;...'
+    htmlTitle: 代官山のカフェ13選！女子会にもデートにも！ | はらへり
+    kind: customsearch#result
+    link: https://haraheri.net/article/27/daikanyama_oshare_cafe
+    pagemap:
+      cse_image:
+      - src: https://s3-ap-northeast-1.amazonaws.com/haraheri-fullhouse/upload_by_admin/ivyplace_daikanyama_image_800.jpg
+      cse_thumbnail:
+      - height: '194'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQacfd0tAXkQ5A0xqUDbKOR2bA41WrDOEF_uJlgpH_69ugGiyasK0WFcxY
+        width: '259'
+      metatags:
+      - msvalidate.01: EA0C661DB26BE6C4B3D5C5563F0A18BD
+        og:app_id: '1559436677684165'
+        og:description: "代官山と言えば、セレクトショップやカフェがたくさん並ぶおしゃれ好きにはたまらない街。\r\n高級感があり、敷居が高いイメージを持っている方も多いのではないでしょうか。\r\
+          \n\r\nそんな代官山には、店主さんがメニューはもちろん、外観やインテリアにもこだわりを込めた温かいお店がたくさんあります♡\r\n本記事では、デートやお買い物の途中にほっと一息つける代官山のカフェをご紹介します♪\r\
+          \n\r\nスイーツの美味しいカフェから、隠れ家的なおしゃれカフェまで盛りだくさん！\r\nテラス席からの景色が良いところやインスタ映え必至のカフェにも注目です。"
+        og:image: https://s3-ap-northeast-1.amazonaws.com/haraheri-fullhouse/upload_by_admin/ivyplace_daikanyama_image_800.jpg
+        og:title: 代官山のカフェ13選！女子会にもデートにも！ | はらへり
+        twitter:card: summary_large_image
+        twitter:site: '@haraheri32'
+        viewport: width=device-width, initial-scale=1
+    snippet: "Garden House Crafts. 5. Bird. 6. BOMBAY BAZAR. 7. 松之助 N.Y. 代官山店 ...\
+      \ \nIvyPlace 食べログ. TSUTAYA代官山の近くにあるラグジュアリー感の漂う「Ivy Place」\nはオシャレな人で賑わう人気店。 カフェ、ダイニング、バーの3つの空間からなるここ\n\
+      では、 ..."
+    title: 代官山のカフェ13選！女子会にもデートにも！ | はらへり
+  - cacheId: jf2zbAzj8-cJ
+    displayLink: award.tabelog.com
+    formattedUrl: https://award.tabelog.com/cn/2016/sweets
+    htmlFormattedUrl: https://award.<b>tabelog</b>.com/cn/2016/sweets
+    htmlSnippet: 'SWEETS <b>garden</b> YUJI AJIKI. スイーツガーデンユウジアジキ. 14. AREA: 神奈川.
+      店铺<br>
+
+      详细信息 &middot; 图片库. 神奈川 第一位. GELATERIA ACQUOLINA. ジェラテリアアクオ<br>
+
+      リーナ. 15. AREA: 东京. 店铺详细信息 &middot; 图片库. Poche du Reve Ashiya. Poche du&nbsp;...'
+    htmlTitle: <b>食べログ</b> JAPAN SWEETS AWARD 2016
+    kind: customsearch#result
+    link: https://award.tabelog.com/cn/2016/sweets
+    pagemap:
+      cse_image:
+      - src: https://d2py3gk9dukd01.cloudfront.net/assets/japan_restaurant_award2016/sweets/ranking/rank_26001672_1-b867ebff7f7dd5d91ec75bfa22ed26678d67314d34e16ed1ee0e75dc8f4ba64b.jpg
+      cse_thumbnail:
+      - height: '135'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8l7Wp99RS8qJobVh486Wus6V-KmRvd0jLkK_HX9HiXgx4iQ9LZ_IZtoQz
+        width: '373'
+      metatags:
+      - fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        og:description: 根据食べログ用户投票评选的年度甜品店排名「食べログ JAPAN SWEETS AWARD 2016」发表！站在5万4千家店铺的顶点，真正的美食店排名。
+        og:image: //d2py3gk9dukd01.cloudfront.net/assets/japan_restaurant_award2016/tjsa_logo_og-c7ef647c00719d3b8ea0abd6c82e282c22fbfd8763209af042e143a65cf8100a.jpg
+        og:site_name: 食べログ
+        og:title: 食べログ JAPAN SWEETS AWARD 2016
+        og:type: article
+        og:url: https://award.tabelog.com/cn/2016/sweets
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1024
+    snippet: 'SWEETS garden YUJI AJIKI. スイーツガーデンユウジアジキ. 14. AREA: 神奈川. 店铺
+
+      详细信息 · 图片库. 神奈川 第一位. GELATERIA ACQUOLINA. ジェラテリアアクオ
+
+      リーナ. 15. AREA: 东京. 店铺详细信息 · 图片库. Poche du Reve Ashiya. Poche du ...'
+    title: 食べログ JAPAN SWEETS AWARD 2016
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: GARDEN HOUSE CRAFTS 食べログ
+      startIndex: 11
+      title: Google Custom Search - GARDEN HOUSE CRAFTS 食べログ
+      totalResults: '83900'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: GARDEN HOUSE CRAFTS 食べログ
+      startIndex: 1
+      title: Google Custom Search - GARDEN HOUSE CRAFTS 食べログ
+      totalResults: '83900'
+  searchInformation:
+    formattedSearchTime: '0.55'
+    formattedTotalResults: 83,900
+    searchTime: 0.548684
+    totalResults: '83900'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 19:41:56
+snapshot_ymd: '20190424'

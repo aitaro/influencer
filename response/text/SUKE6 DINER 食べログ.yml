@@ -1,0 +1,492 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: ia5AycFj0RIJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1311/A131102/13180333/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1311/A131102/13180333/
+    htmlSnippet: 'スケロク ダイナー/<b>SUKE6 DINER</b> (浅草/カフェ)の店舗情報は<b>食べログ</b>でチェック！ 【<br>
+
+      禁煙】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理<br>
+
+      メニューなどの詳細情報も充実。'
+    htmlTitle: スケロク ダイナー （<b>SUKE6 DINER</b>） - 浅草/カフェ [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1311/A131102/13180333/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 上野カフェ
+        url: 上野カフェ
+      - title: 浅草カフェ
+        url: 浅草カフェ
+      - title: 浅草駅（東武・都営・メトロ）カフェ
+        url: 浅草駅（東武・都営・メトロ）カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/105364/105364817.jpg?token=66218e6&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTm909fymxyK8DbwtYTEr5ZLJlX9R_irVGOZ27wbVAc665FQxlidu4CZse
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: 0mjRIdA2AVK83qp57oXoj3x562QHtGTvHz+deu9ggv5JmHBhznSRT7UYiwgOSudhfn7oiMWHvBtMNpuVTWfEEw==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.58 ■予算(夜):￥2,000～￥2,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/105364/105364817.jpg?token=66218e6&api=v2
+        og:title: スケロク ダイナー (浅草/カフェ)
+        og:url: https://tabelog.com/tokyo/A1311/A131102/13180333/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'スケロク ダイナー/SUKE6 DINER (浅草/カフェ)の店舗情報は食べログでチェック！ 【
+
+      禁煙】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理
+
+      メニューなどの詳細情報も充実。'
+    title: スケロク ダイナー （SUKE6 DINER） - 浅草/カフェ [食べログ]
+  - cacheId: G1f8bURuy44J
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1311/A131102/.../B412719050/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1311/A131102/.../B412719050/
+    htmlSnippet: スケロク ダイナー/<b>SUKE6 DINER</b> (浅草/カフェ)へのUltlaLightRCさんの口コミです。
+    htmlTitle: '『ランチは予約しましょう』by UltlaLightRC : スケロク <b>ダイナー</b> （<b>SUKE6</b> ...'
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1311/A131102/13180333/dtlrvwlst/B412719050/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 上野カフェ
+        url: 上野カフェ
+      - title: 浅草カフェ
+        url: 浅草カフェ
+      - title: 浅草駅（東武・都営・メトロ）カフェ
+        url: 浅草駅（東武・都営・メトロ）カフェ
+      - title: スケロク ダイナー
+        url: スケロク ダイナー
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/94169/200x200_square_94169320.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7uvpnfT_fNt1dYdcGlLDXOdDz_hQvSeGI3cZPkGky42N64rxB_jSjLcHe
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: B3K1QfZ1UF0RpmSMPfCMfMaWGC2XOA1DeuskzVEsUEOMriNLVZTjZb3Io2Pl85AfdJUTS7lAfR47cG2IxbRGvA==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ランチは予約しましょう
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/94169/200x200_square_94169320.jpg
+        og:site_name: 食べログ
+        og:title: ランチは予約しましょう(UltlaLightRC)-スケロク ダイナー
+        og:type: article
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - description: 日曜13:00予約で訪問。 お店の前には人集り。 予約しないとこの時間は入れないよう。 アボカドトーストのみ売り切れ。 狙っていたので、残念。...
+        reviewer: UltlaLightRC
+    snippet: スケロク ダイナー/SUKE6 DINER (浅草/カフェ)へのUltlaLightRCさんの口コミです。
+    title: '『ランチは予約しましょう』by UltlaLightRC : スケロク ダイナー （SUKE6 ...'
+  - cacheId: cJIVP_Lf4PkJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/en/tokyo/A1311/A131102/.../dtlrvwlst/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/en/tokyo/A1311/A131102/.../dtlrvwlst/
+    htmlSnippet: 'スケロクダイナーさんにお邪魔しました。 ちょっと寒い日だったにもかかわらず、 テラス<br>
+
+      席は満席！ 店内は1階と2階にダイニングスペースがあり、 3階で... <b>SUKE6 DINER</b> - <br>
+
+      店内; <b>SUKE6 DINER</b> - カウンター席; <b>SUKE6 DINER</b> - アボカドトーストとフレッシュ&nbsp;...'
+    htmlTitle: <b>SUKE6 DINER</b>[<b>Tabelog</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/en/tokyo/A1311/A131102/13180333/dtlrvwlst/
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/105364/200x200_square_105364817.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSs55hNgakW94BF-uAz6hnWgB68-8kLreBgHtr5uEm5TDbNTjMwos1R0uvj
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: RlPqDrGEWlLfVcRyTwjFqaloVdKMljTLRbO5HL0VsbvClQnuneWwSClcZ8w8mlworCoOKJes7t1u49WjZZ4mEw==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: Reviews on SUKE6 DINER (Asakusa/Cafe)
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/105364/200x200_square_105364817.jpg
+        og:site_name: Tabelog
+        og:title: 'Review list: SUKE6 DINER[Tabelog]'
+        og:type: website
+        tblg-ajax-token: 6147334068811279c6e810f9acc5bd5d1667f35e
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1024
+        y_key: 6b4002d5be0a5d72
+    snippet: "スケロクダイナーさんにお邪魔しました。 ちょっと寒い日だったにもかかわらず、 テラス\n席は満席！ 店内は1階と2階にダイニングスペースがあり、\
+      \ 3階で... SUKE6 DINER - \n店内; SUKE6 DINER - カウンター席; SUKE6 DINER - アボカドトーストとフレッシュ ..."
+    title: SUKE6 DINER[Tabelog]
+  - cacheId: V5TC5mXF6MIJ
+    displayLink: www.suke6diner.com
+    formattedUrl: https://www.suke6diner.com/
+    htmlFormattedUrl: https://www.<b>suke6diner</b>.com/
+    htmlSnippet: 'Morning 8:00～11:00. Homemade Bagel&amp;Granola with Milk 自家製グラノーラと<br>
+
+      ミルク、ベーグルのセット コーヒー付. ¥ 800. DINNER 17:00～L.O. Grass fed beef <br>
+
+      steak. And grilled vegetable グラスフェッドビーフのステーキ グリル野菜 添え. ¥ 2400<br>
+
+      .'
+    htmlTitle: 東京で一番美味しいブランチ <b>SUKE6 DINER</b> &amp; Manufacture
+    kind: customsearch#result
+    link: https://www.suke6diner.com/
+    pagemap:
+      cse_image:
+      - src: https://www.suke6diner.com/images/topimg/02.jpg
+      cse_thumbnail:
+      - height: '140'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_2au40nujvKiuaa7bq1LGpuhqgk0xFRXAiRBsF1tfqurxy_qYVw7KOpCz
+        width: '359'
+      metatags:
+      - viewport: width=1100
+    snippet: "Morning 8:00～11:00. Homemade Bagel&Granola with Milk 自家製グラノーラと\nミルク、ベーグルのセット\
+      \ コーヒー付. ¥ 800. DINNER 17:00～L.O. Grass fed beef \nsteak. And grilled vegetable\
+      \ グラスフェッドビーフのステーキ グリル野菜 添え. ¥ 2400\n."
+    title: 東京で一番美味しいブランチ SUKE6 DINER & Manufacture
+  - cacheId: EhA-mUQydBkJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1311/A131102/.../dtlrvwlst/?smp=1
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1311/A131102/.../dtlrvwlst/?smp=1
+    htmlSnippet: 'スケロク ダイナー/<b>SUKE6 DINER</b> (浅草/カフェ)への口コミです。日本最大級のグルメ<br>
+
+      サイト「<b>食べログ</b>」では、スケロク ダイナー/<b>SUKE6 DINER</b>の口コミ115件を掲載中。'
+    htmlTitle: '口コミ一覧 : スケロク ダイナー （<b>SUKE6 DINER</b>） - 浅草/カフェ [<b>食べログ</b>]'
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1311/A131102/13180333/dtlrvwlst/?smp=1
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 上野カフェ
+        url: 上野カフェ
+      - title: 浅草カフェ
+        url: 浅草カフェ
+      - title: 浅草駅（東武・都営・メトロ）カフェ
+        url: 浅草駅（東武・都営・メトロ）カフェ
+      - title: スケロク ダイナー
+        url: スケロク ダイナー
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/94169/94169320.jpg?token=519d530&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxgWKGfylEoXZPS39rXGC11ste8AaB6nWNCgg0ekacmwPgNmDfnJcKRN2D
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: sJtZ+QOR64qrOfwiPa1SsF/B0HIeiUmmbn9pB2rHEeo9ObWJH6HmvSZ0i8mD05IhIezOc/19ozt1sDoqPkUVdQ==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.58 ■予算(夜):￥2,000～￥2,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/94169/94169320.jpg?token=519d530&api=v2
+        og:title: スケロク ダイナー (浅草/カフェ)
+        og:url: https://tabelog.com/tokyo/A1311/A131102/13180333/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - ratingcount: '115'
+        reviewer: coco-chaud
+      review-aggregate:
+      - count: '115'
+        reviewer: coco-chaud
+    snippet: 'スケロク ダイナー/SUKE6 DINER (浅草/カフェ)への口コミです。日本最大級のグルメ
+
+      サイト「食べログ」では、スケロク ダイナー/SUKE6 DINERの口コミ115件を掲載中。'
+    title: '口コミ一覧 : スケロク ダイナー （SUKE6 DINER） - 浅草/カフェ [食べログ]'
+  - cacheId: zMFwiiqhgF4J
+    displayLink: press.chiku-wa.jp
+    formattedUrl: https://press.chiku-wa.jp/spot_2483/
+    htmlFormattedUrl: https://press.chiku-wa.jp/spot_2483/
+    htmlSnippet: '住所: 東京都台東区花川戸1-11-1 あゆみビル 1F・2F. 電話番号: 03-5830-3367. 詳細<br>
+
+      情報: <b>食べログ</b>を見る. 営業時間: [月～金] 8:00～22:00（L.O.21:00） [土・日・祝] 8:00～<br>
+
+      21:00（L.O.20:00）. 定休日: 月曜日（祝日の場合は翌平日）. 平均予算&nbsp;...'
+    htmlTitle: スケロク <b>ダイナー</b>に関するおでかけ情報｜ちくわ。
+    kind: customsearch#result
+    link: https://press.chiku-wa.jp/spot_2483/
+    pagemap:
+      breadcrumb:
+      - url: ホーム
+      - url: おでかけ情報
+      cse_image:
+      - src: https://mapcache.e-map.ne.jp/ond/65/20190327/16/5339/46/54/16_1632_296.png
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU8h99Z93wyAjlHDf3xuUJ9_Lqz-cmMMvWxmeSz5eeok8Zy5tqY3Qxfjs
+        width: '225'
+      metatags:
+      - device: pc
+        fb:app_id: '1041338602571389'
+        og:description: スケロク ダイナー（東京都 台東区）に関するおでかけ情報です。スケロク ダイナーにお出かけするときに一緒に行きたいスポットや、スケロク
+          ダイナーに立ち寄りながら巡るおすすめのお散歩コースが分かるお出かけ情報も合わせてご紹介！
+        og:image: https://chiku-wa.jp/pc/images/ogimage.png
+        og:site_name: ちくわ。
+        og:title: スケロク ダイナーに関するおでかけ情報｜ちくわ。
+        og:type: article
+        og:url: https://press.chiku-wa.jp/spot_2483/
+        viewport: width=1060
+    snippet: '住所: 東京都台東区花川戸1-11-1 あゆみビル 1F・2F. 電話番号: 03-5830-3367. 詳細
+
+      情報: 食べログを見る. 営業時間: [月～金] 8:00～22:00（L.O.21:00） [土・日・祝] 8:00～
+
+      21:00（L.O.20:00）. 定休日: 月曜日（祝日の場合は翌平日）. 平均予算 ...'
+    title: スケロク ダイナーに関するおでかけ情報｜ちくわ。
+  - cacheId: xx2lvrxAMWUJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1311/A131102/13180333/dtlratings/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1311/A131102/13180333/dtlratings/
+    htmlSnippet: スケロク ダイナー/<b>SUKE6 DINER</b> (浅草/カフェ)の評価分析です。
+    htmlTitle: '評価分布 : スケロク ダイナー （<b>SUKE6 DINER</b>） - 浅草/カフェ [<b>食べログ</b>]'
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1311/A131102/13180333/dtlratings/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 上野カフェ
+        url: 上野カフェ
+      - title: 浅草カフェ
+        url: 浅草カフェ
+      - title: 浅草駅（東武・都営・メトロ）カフェ
+        url: 浅草駅（東武・都営・メトロ）カフェ
+      - title: スケロク ダイナー
+        url: スケロク ダイナー
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/94169/94169320.jpg?token=519d530&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxgWKGfylEoXZPS39rXGC11ste8AaB6nWNCgg0ekacmwPgNmDfnJcKRN2D
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: mYik/ur1TkZR2TzWta6M4+Ah+k6xLlV76YOx3I2fhNa/CI4w4/JRiZNkrB/hiMf6IbeTj3zwHFtMMY+r3vUmWw==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.58 ■予算(夜):￥2,000～￥2,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/94169/94169320.jpg?token=519d530&api=v2
+        og:title: スケロク ダイナー (浅草/カフェ)
+        og:url: https://tabelog.com/tokyo/A1311/A131102/13180333/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review-aggregate:
+      - count: '112'
+    snippet: スケロク ダイナー/SUKE6 DINER (浅草/カフェ)の評価分析です。
+    title: '評価分布 : スケロク ダイナー （SUKE6 DINER） - 浅草/カフェ [食べログ]'
+  - cacheId: rYUpyE_zdcYJ
+    displayLink: matome.miil.me
+    formattedUrl: https://matome.miil.me/miil/venues/726873
+    htmlFormattedUrl: https://matome.miil.me/miil/venues/726873
+    htmlSnippet: '<b>SUKE6 DINER</b> (カフェ) グルメと手料理のおすすめ情報サイト - ミイルまとめ. ... 【<br>
+
+      ぐるなびの店舗ページ】でネット予約. 【<b>食べログ</b>】でネット予約 ... 前に来た時はオープン<br>
+
+      サンドを食べたので今回はパンが食べ放題のサラダをいただきました。最初にパンは3<br>
+
+      種類。'
+    htmlTitle: <b>SUKE6 DINER</b> (カフェ)
+    kind: customsearch#result
+    link: https://matome.miil.me/miil/venues/726873
+    pagemap:
+      cse_image:
+      - src: https://images.miil.me/j/39068ebc-a423-11e8-a437-063156848c8c.jpg
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxtxggcjH30IKVe3meg4OSm7IghUWkzw4BquUUcmzSGOtTUVAdi91eKyA
+        width: '225'
+      imageobject:
+      - height: '19'
+        url: https://images.miil.me/matome/system_images/logo_xs.png
+        width: '100'
+      listitem:
+      - item: Home
+        name: Home
+        position: '1'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: d6/TgxI+sUZxvct5n0+XqybVTHMUN1fMSo0nBtQmfZiaI/WiLi8WYRUzftCLSqIJ5J53eiFNoeWJMwQY31wrKg==
+        og:description: SUKE6 DINER  (カフェ) グルメと手料理のおすすめ情報サイト
+        og:image: https://images.miil.me/j/39068ebc-a423-11e8-a437-063156848c8c.jpg
+        og:site_name: ミイルまとめ
+        og:title: SUKE6 DINER
+        og:type: website
+        og:url: https://matome.miil.me/miil/venues/726873
+        twitter:card: summary
+        twitter:description: SUKE6 DINER  (カフェ) グルメと手料理のおすすめ情報サイト
+        twitter:domain: matome.miil.me
+        twitter:image: https://images.miil.me/j/39068ebc-a423-11e8-a437-063156848c8c.jpg
+        twitter:title: SUKE6 DINER - ミイルまとめ
+      organization:
+      - name: ミイルまとめ
+        url: https://matome.miil.me/
+    snippet: 'SUKE6 DINER (カフェ) グルメと手料理のおすすめ情報サイト - ミイルまとめ. ... 【
+
+      ぐるなびの店舗ページ】でネット予約. 【食べログ】でネット予約 ... 前に来た時はオープン
+
+      サンドを食べたので今回はパンが食べ放題のサラダをいただきました。最初にパンは3
+
+      種類。'
+    title: SUKE6 DINER (カフェ)
+  - cacheId: ISuRLJvg0csJ
+    displayLink: 4travel.jp
+    formattedUrl: https://4travel.jp/travelogue/11352784
+    htmlFormattedUrl: https://4travel.jp/travelogue/11352784
+    htmlSnippet: '2018年4月28日 <b>...</b> あさく散歩＠<b>SUKE6 DINER</b>＊フルーツパーラーゴトー＊亀十＊Smile
+      and Sweets＊<br>
+
+      浅草浪花家. 81いいね ... はこちら！ フルーツパーラーゴトー 待ちがない！ラッキー☆ <br>
+
+      <b>食べログ</b>↓ https://<b>tabelog</b>.com/tokyo/A1311/A131102/13095672/.'
+    htmlTitle: 『フルーツパフェを<b>食べ</b>に...  あさく散歩＠<b>SUKE6 DINER</b>＊フルーツ ...
+    kind: customsearch#result
+    link: https://4travel.jp/travelogue/11352784
+    pagemap:
+      Breadcrumb:
+      - title: ホーム
+        url: ホーム
+      - title: 国内
+        url: 国内
+      - title: 関東地方
+        url: 関東地方
+      - title: 東京
+        url: 東京
+      - title: 浅草
+        url: 浅草
+      - title: 浅草 旅行記
+        url: 浅草 旅行記
+      cse_image:
+      - src: https://cdn.4travel.jp/img/tcs/t/album/lrg/11/35/27/lrg_11352784.jpg?updated_at=1527298290
+      cse_thumbnail:
+      - height: '259'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxxTYLbcVmyagfQUMhZljhStECDthlyP2_q1i6ae1dnlPWIb7jPBlq1SmP
+        width: '194'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: Pf1aNoYpmHxuAN2ey7ixOAQIW53JmXWZwm5W0PL3RNlB9+jFrNlSyuuTz+1QbBCL1mPa2v7bh3yDRJMO7KpdSw==
+        fb:app_id: '236780919753578'
+        format-detection: telephone=no
+        og:description: 浅草でのmoeさんの旅行記です。
+        og:image: https://cdn.4travel.jp/img/tcs/t/album/lrg/11/35/27/lrg_11352784.jpg?updated_at=1527298290
+        og:locale: ja_JP
+        og:site_name: 旅行のクチコミサイト フォートラベル
+        og:title: フルーツパフェを食べに...♪あさく散歩＠SUKE6 DINER＊フルーツパーラーゴトー＊亀十＊Smile and Sweets＊浅草浪花家
+          (浅草) - 旅行のクチコミサイト フォートラベル
+        og:type: article
+        og:url: https://4travel.jp/travelogue/11352784
+        viewport: width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1
+    snippet: "2018年4月28日 ... あさく散歩＠SUKE6 DINER＊フルーツパーラーゴトー＊亀十＊Smile and Sweets＊\n\
+      浅草浪花家. 81いいね ... はこちら！ フルーツパーラーゴトー 待ちがない！ラッキー☆ \n食べログ↓ https://tabelog.com/tokyo/A1311/A131102/13095672/."
+    title: 『フルーツパフェを食べに...  あさく散歩＠SUKE6 DINER＊フルーツ ...
+  - cacheId: IUaNQdfn_vMJ
+    displayLink: www.kojimachi-cafe.com
+    formattedUrl: https://www.kojimachi-cafe.com/
+    htmlFormattedUrl: https://www.kojimachi-cafe.com/
+    htmlSnippet: 'Dinner : 17:30 - 22:00 ( L.O.21:15 ). [Sun] Closed [Holiday] Brunch
+      : 12:00 - 18:00 <br>
+
+      ( L.O.17:30 ). L&#39;ATELIER EAT GOOD - Epietriz Group - &middot; Kudan-Minami
+      Factory <br>
+
+      Kudan-Minami Chili Parlor 9 &middot; Asakusa <b>Suke6 Diner</b> Asakusa Manufacture.'
+    htmlTitle: 麹町カフェ Kojimachi Cafe
+    kind: customsearch#result
+    link: https://www.kojimachi-cafe.com/
+    pagemap:
+      cse_image:
+      - src: http://www.kojimachi-cafe.com/blog/assets_c/2019/04/4marche-min-2019-thumb-400x400-671.jpg
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJA_oAlOEc02joP2dD7LELekLrimZl2Vh4dnQlpctO5sCkZLMfhumEzFA
+        width: '225'
+      metatags:
+      - viewport: width=device-width, initial-scale=1
+    snippet: "Dinner : 17:30 - 22:00 ( L.O.21:15 ). [Sun] Closed [Holiday] Brunch\
+      \ : 12:00 - 18:00 \n( L.O.17:30 ). L'ATELIER EAT GOOD - Epietriz Group - · Kudan-Minami\
+      \ Factory \nKudan-Minami Chili Parlor 9 · Asakusa Suke6 Diner Asakusa Manufacture."
+    title: 麹町カフェ Kojimachi Cafe
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: SUKE6 DINER 食べログ
+      startIndex: 11
+      title: Google Custom Search - SUKE6 DINER 食べログ
+      totalResults: '442'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: SUKE6 DINER 食べログ
+      startIndex: 1
+      title: Google Custom Search - SUKE6 DINER 食べログ
+      totalResults: '442'
+  searchInformation:
+    formattedSearchTime: '0.56'
+    formattedTotalResults: '442'
+    searchTime: 0.563881
+    totalResults: '442'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 19:42:46
+snapshot_ymd: '20190424'

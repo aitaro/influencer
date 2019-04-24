@@ -1,0 +1,516 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: VxheWqXQUxYJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1317/A131703/13102293/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1317/A131703/13102293/
+    htmlSnippet: '<b>Jiyugaoka BAKE SHOP</b> (自由が丘/カフェ)の店舗情報は<b>食べログ</b>でチェック！お手頃<br>
+
+      プライスで本格料理を楽しめる♪女子会にぴったりのお洒落な空間。貸切もお承りし<br>
+
+      ます！ 【禁煙 / 飲み放題あり / ネット予約可】口コミや評価、写真など、ユーザーによる&nbsp;...'
+    htmlTitle: <b>Jiyugaoka BAKE SHOP</b> - 自由が丘/カフェ [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1317/A131703/13102293/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 東急沿線カフェ
+        url: 東急沿線カフェ
+      - title: 自由が丘カフェ
+        url: 自由が丘カフェ
+      - title: 自由が丘駅カフェ
+        url: 自由が丘駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/105987/105987302.jpg?token=8b2286b&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ahh6sBMM9G8v2r3kGr3Mi1P8UAywNt34IOFVx6VRKZx33lwUd3eS0xU
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: ddd7Wkc+jsCxynXiXCjzCRQ8vQBxtxbR8S5dgWcYudfLSIKGdKdwIo5LzeYm/PQaUfq8e2szD6mFIOcM0q2xSA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.55 ■お手頃プライスで本格料理を楽しめる♪女子会にぴったりのお洒落な空間。貸切もお承りします！ ■予算(夜):￥2,000～￥2,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/105987/105987302.jpg?token=8b2286b&api=v2
+        og:title: Jiyugaoka BAKE SHOP (自由が丘/カフェ)
+        og:url: https://tabelog.com/tokyo/A1317/A131703/13102293/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'Jiyugaoka BAKE SHOP (自由が丘/カフェ)の店舗情報は食べログでチェック！お手頃
+
+      プライスで本格料理を楽しめる♪女子会にぴったりのお洒落な空間。貸切もお承りし
+
+      ます！ 【禁煙 / 飲み放題あり / ネット予約可】口コミや評価、写真など、ユーザーによる ...'
+    title: Jiyugaoka BAKE SHOP - 自由が丘/カフェ [食べログ]
+  - cacheId: 102FrdRzpRMJ
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1317/A131703/.../B382091545/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1317/A131703/.../B382091545/
+    htmlSnippet: <b>Jiyugaoka BAKE SHOP</b> (自由が丘/カフェ)へのハラペコミサイルさんの口コミです。
+    htmlTitle: '『ランチはお得  』by ハラペコミサイル : <b>Jiyugaoka BAKE SHOP</b> ...'
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1317/A131703/13102293/dtlrvwlst/B382091545/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 東急沿線カフェ
+        url: 東急沿線カフェ
+      - title: 自由が丘カフェ
+        url: 自由が丘カフェ
+      - title: 自由が丘駅カフェ
+        url: 自由が丘駅カフェ
+      - title: Jiyugaoka BAKE SHOP
+        url: Jiyugaoka BAKE SHOP
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/105728/150x150_square_105728025.jpg
+      cse_thumbnail:
+      - height: '150'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2YDfw2W0iXL_Bj1qcDMpjjfAWCD1wYw69JjaDMz7JwHaMFnzNFK8mtse2
+        width: '150'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: C8RAR4CJW4ejgwL4WMmWUsPfVm1zyoOmgcu1uDaBc53/QmKH4Wt91P6qEd7gAuepU0ew8JJ8gg3FKh7pH2z+aA==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ランチはお得♪
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/103256/200x200_square_103256660.jpg
+        og:site_name: 食べログ
+        og:title: ランチはお得♪(ハラペコミサイル)-Jiyugaoka BAKE SHOP
+        og:type: article
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - description: 土曜日 正午<br />ほぼ満席です。おひとりさまは予約なしでも滑り込める可能性がメリットですね。 シェフのオススメパスタランチ…だったか名前...
+        reviewer: ハラペコミサイル
+    snippet: Jiyugaoka BAKE SHOP (自由が丘/カフェ)へのハラペコミサイルさんの口コミです。
+    title: '『ランチはお得  』by ハラペコミサイル : Jiyugaoka BAKE SHOP ...'
+  - cacheId: GK0EP3wQA3wJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/en/tokyo/A1317/A131703/13102293/.../1/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/en/tokyo/A1317/A131703/13102293/.../1/
+    htmlSnippet: Photo of Food which is posted to <b>Jiyugaoka BAKE SHOP</b> (Jiyugaoka/Cafe).
+    htmlTitle: 'The photo of Food: <b>Jiyugaoka BAKE SHOP</b>[<b>Tabelog</b>]'
+    kind: customsearch#result
+    link: https://tabelog.com/en/tokyo/A1317/A131703/13102293/dtlphotolst/1/
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/96559/150x150_square_96559977.jpg
+      cse_thumbnail:
+      - height: '150'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5CLvmo0dEoUi31uiKNk70vcfD7GSWHF9NsHLsrZtsi27NFGNwoC3oClM
+        width: '150'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: R4tul/6dEIDEHfix/zQYqW1aG+fngRAdecbnKcw0rjHf1D8TJlFC3CxS/X729dpvc+DxHsWLM2qdj0AJdkOc7g==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: Photo of Food which is posted to Jiyugaoka BAKE SHOP (Jiyugaoka/Cafe).
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/105987/200x200_square_105987302.jpg
+        og:site_name: Tabelog
+        og:title: 'The photo of Food: Jiyugaoka BAKE SHOP[Tabelog]'
+        og:type: website
+        tblg-ajax-token: e6a757a1f8441b8d2a7cce3dfa56973880fd80b2
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1024
+        y_key: 6b4002d5be0a5d72
+    snippet: Photo of Food which is posted to Jiyugaoka BAKE SHOP (Jiyugaoka/Cafe).
+    title: 'The photo of Food: Jiyugaoka BAKE SHOP[Tabelog]'
+  - cacheId: kxsMUNDW6lgJ
+    displayLink: icotto.jp
+    formattedUrl: https://icotto.jp/restaurants/540
+    htmlFormattedUrl: https://icotto.jp/restaurants/540
+    htmlSnippet: '東京都内で本当に美味しいパンが食べられるベーカリーレストラン5店. 焼き上がった<br>
+
+      パンの香りっ ... 住所: 東京都目黒区自由が丘2-16-29 IDEE SHOP Jiyugaoka 4F. <br>
+
+      周辺マップ ... データ提供： <b>Jiyugaoka BAKE SHOP</b>（ジユウガオカベイクショップ） - <br>
+
+      <b>食べログ</b>.'
+    htmlTitle: <b>Jiyugaoka BAKE SHOP</b>の詳細情報 | icotto（イコット）
+    kind: customsearch#result
+    link: https://icotto.jp/restaurants/540
+    pagemap:
+      cse_image:
+      - src: https://icotto.k-img.com/system/restaurants/000/001/702/768d1932e4e683b88e8e050cdfeda7488afdcb83.jpg?1489717430
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe8GTxgaXwi7HfDRZx_bz4TpHLwZc9dgBShaNGXGZpRrUbNWQ46zVla0Q
+        width: '275'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: +VNEdzP7DYKDpHN3/p3AQfzb4nVw9WsT8/7L7MNCCPQp8qn0YijBdHLdOUJP5eA6f/FP3PU2mKMUi2n8+dGSEw==
+        fb:app_id: '461760060690819'
+        msapplication-tilecolor: '#FF6726'
+        msapplication-tileimage: https://icotto.k-img.com/assets/favicon/mstile-144x144-5be26d0c0a73cb53f2dbdfe209d94bd89f57142d4df79c414ce117e46473f8b2.png
+        og:description: 平均予算 (昼)￥1,000～￥1,999 (夜)￥1,000～￥1,999
+        og:image: https://icotto.k-img.com/system/restaurants/000/001/702/768d1932e4e683b88e8e050cdfeda7488afdcb83.jpg?1489717430
+        og:locale: ja_JP
+        og:site_name: icotto（イコット） - 心みちるたび - 女性向け旅行・宿泊情報メディア
+        og:title: 'icotto : Jiyugaoka BAKE SHOP（自由が丘、九品仏、奥沢/カフェ、イタリアン、ビストロ）'
+        og:type: article
+        og:url: https://icotto.jp/restaurants/540
+        theme-color: '#19bfbf'
+        twitter:card: summary
+        twitter:site: '@icotto_official'
+        viewport: width=device-width,minimum-scale=1,initial-scale=1
+    snippet: "東京都内で本当に美味しいパンが食べられるベーカリーレストラン5店. 焼き上がった\nパンの香りっ ... 住所: 東京都目黒区自由が丘2-16-29\
+      \ IDEE SHOP Jiyugaoka 4F. \n周辺マップ ... データ提供： Jiyugaoka BAKE SHOP（ジユウガオカベイクショップ）\
+      \ - \n食べログ."
+    title: Jiyugaoka BAKE SHOPの詳細情報 | icotto（イコット）
+  - cacheId: meDCe1ptCPEJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/en/tokyo/A1317/A131703/13102293/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/en/tokyo/A1317/A131703/13102293/
+    htmlSnippet: '<b>Jiyugaoka</b> BAKE SHOPCheck out the information about Cafe restaurants
+      in <br>
+
+      <b>Jiyugaoka</b> at <b>Tabelog</b>! It&#39;s full of real information like reviews,
+      ratings, and photos <br>
+
+      posted by users! It also has enough detailed information like maps and menus.'
+    htmlTitle: <b>Jiyugaoka BAKE SHOP</b> - Jiyugaoka/Cafe [<b>Tabelog</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/en/tokyo/A1317/A131703/13102293/
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/96563/200x200_square_96563844.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtsTUxDUa3ZDHLhzqnrKe3b1IoYneVZHIpT__pENKJge6ePK1EeVWjpZY
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: lWKBTJCtWNAERwI14MLCxeBppe49qrLjoaxgvtipe/ljoSdq4GDP5EMbJlZta3mn7wIM65Mgj9T1CRaorWH/iQ==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: Jiyugaoka BAKE SHOPCheck out the information about Cafe restaurants
+          in Jiyugaoka at Tabelog! It's full of real information like reviews, ratings,
+          and photos posted by users! It also has enough detailed information like
+          maps and menus.
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/96563/200x200_square_96563844.jpg
+        og:site_name: Tabelog
+        og:title: Jiyugaoka BAKE SHOP - Jiyugaoka/Cafe [Tabelog]
+        og:type: website
+        tblg-ajax-token: bf0f72dc8bbbe05da90dd8a08e5a2a3a9523d856
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1024
+        y_key: 6b4002d5be0a5d72
+    snippet: "Jiyugaoka BAKE SHOPCheck out the information about Cafe restaurants\
+      \ in \nJiyugaoka at Tabelog! It's full of real information like reviews, ratings,\
+      \ and photos \nposted by users! It also has enough detailed information like\
+      \ maps and menus."
+    title: Jiyugaoka BAKE SHOP - Jiyugaoka/Cafe [Tabelog]
+  - cacheId: JxgMBId1X2YJ
+    displayLink: haraheri.net
+    formattedUrl: https://haraheri.net/article/58/jiyugaoka_cafe?page=3
+    htmlFormattedUrl: https://haraheri.net/article/58/<b>jiyugaoka</b>_cafe?page=3
+    htmlSnippet: '<b>Jiyugaoka BAKE SHOP</b>. BAKESHOP内観 <b>食べログ</b>. 自由が丘のランドマークの<br>
+
+      ひとつとも言えるインテリアショップ、「IDEE SHOP」の4階にあるカフェ「<b>Jiyugaoka</b> <br>
+
+      <b>BAKE SHOP</b>」。 ガラス張りでとっても開放的な店内は、太陽の日差しが差し込んで<br>
+
+      明るい空間&nbsp;...'
+    htmlTitle: 自由が丘カフェ20選！デートにも作業にもぴったりなおしゃれカフェ | はら ...
+    kind: customsearch#result
+    link: https://haraheri.net/article/58/jiyugaoka_cafe?page=3
+    pagemap:
+      cse_image:
+      - src: https://s3-ap-northeast-1.amazonaws.com/haraheri-fullhouse/upload_by_admin/rondo3_800.png
+      cse_thumbnail:
+      - height: '194'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPJWBT7QMgSvCUChQiCa2n_BOZHWSAfKv-UZRmFm-Kf7zD7MN2mvg8w9g
+        width: '259'
+      metatags:
+      - msvalidate.01: EA0C661DB26BE6C4B3D5C5563F0A18BD
+        og:app_id: '1559436677684165'
+        og:description: "住みたい街・住みやすい街として人気の街でありながら、どこかゆったりした雰囲気が魅力の自由が丘。\r\n渋谷や新宿までは電車で10分以内、横浜までも20分以内という好アクセスも魅力のひとつです。\r\
+          \n\r\nスイーツショップやカフェのクオリティの高さは、自由が丘最大の魅力と言っても過言ではありません。\r\n今回はそんな自由が丘のカフェをご紹介。\r\
+          \n\r\nゆったりとティータイムを過ごすことができるお店から、作業にも使える利便性の高いまで、自由が丘駅の3つの出口の周辺エリアに分けてご紹介します。"
+        og:image: https://s3-ap-northeast-1.amazonaws.com/haraheri-fullhouse/upload_by_admin/rondo3_800.png
+        og:title: 自由が丘カフェ20選！デートにも作業にもぴったりなおしゃれカフェ | はらへり
+        twitter:card: summary_large_image
+        twitter:site: '@haraheri32'
+        viewport: width=device-width, initial-scale=1
+    snippet: "Jiyugaoka BAKE SHOP. BAKESHOP内観 食べログ. 自由が丘のランドマークの\nひとつとも言えるインテリアショップ、「IDEE\
+      \ SHOP」の4階にあるカフェ「Jiyugaoka \nBAKE SHOP」。 ガラス張りでとっても開放的な店内は、太陽の日差しが差し込んで\n明るい空間 ..."
+    title: 自由が丘カフェ20選！デートにも作業にもぴったりなおしゃれカフェ | はら ...
+  - cacheId: QgUF8uQOpp4J
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1317/A131703/13102293/.../smp2/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1317/A131703/13102293/.../smp2/
+    htmlSnippet: '<b>Jiyugaoka BAKE SHOP</b> (自由が丘/カフェ)の投稿された料理写真です。日本最大級の<br>
+
+      グルメサイト「<b>食べログ</b>」では、<b>Jiyugaoka BAKE SHOP</b>の料理写真926件を掲載中。'
+    htmlTitle: '料理写真 : <b>Jiyugaoka BAKE SHOP</b> - 自由が丘/カフェ [<b>食べログ</b>]'
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1317/A131703/13102293/dtlphotolst/1/smp2/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 東急沿線カフェ
+        url: 東急沿線カフェ
+      - title: 自由が丘カフェ
+        url: 自由が丘カフェ
+      - title: 自由が丘駅カフェ
+        url: 自由が丘駅カフェ
+      - title: Jiyugaoka BAKE SHOP
+        url: Jiyugaoka BAKE SHOP
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/96559/150x150_square_96559977.jpg
+      cse_thumbnail:
+      - height: '150'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5CLvmo0dEoUi31uiKNk70vcfD7GSWHF9NsHLsrZtsi27NFGNwoC3oClM
+        width: '150'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: +vjEQ7zaXb3yx1CBwPwu4K/dk7JnwHAyM7Gjz28WumRGS4lUeEsSwMqxTLeZ3D+R0H1wklz8Spr/QrcRhxTb+w==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.55 ■お手頃なコースとオーガニックワイン♪お酒やコーヒーを片手に大人のカフェでお寛ぎください ■予算(夜):￥2,000～￥2,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/103256/103256660.jpg?token=12bc3e0&api=v2
+        og:title: Jiyugaoka BAKE SHOP (自由が丘/カフェ)
+        og:url: https://tabelog.com/tokyo/A1317/A131703/13102293/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review-aggregate:
+      - count: '278'
+    snippet: 'Jiyugaoka BAKE SHOP (自由が丘/カフェ)の投稿された料理写真です。日本最大級の
+
+      グルメサイト「食べログ」では、Jiyugaoka BAKE SHOPの料理写真926件を掲載中。'
+    title: '料理写真 : Jiyugaoka BAKE SHOP - 自由が丘/カフェ [食べログ]'
+  - cacheId: xYpT2XpaPEoJ
+    displayLink: retty.me
+    formattedUrl: https://retty.me/area/PRE13/ARE665/SUB2001/100000451684/
+    htmlFormattedUrl: https://retty.me/area/PRE13/ARE665/SUB2001/100000451684/
+    htmlSnippet: '2019年3月20日 <b>...</b> 【東京都目黒区自由が丘】 ◇キッシュプレート １１００円 コーヒー３５０円ニューヨークの<br>
+
+      新世代<b>ベイクショップ</b>文化を愉しむ♪ ... おしゃれな; オーガニック料理; 朝食が<b>食べ</b><br>
+
+      られる; ブランチ; テラスのある; ご飯; おひとりさまOK; 禁煙; フォトジェニック&nbsp;...'
+    htmlTitle: <b>ベイクショップ</b> （<b>BAKE SHOP</b>） (自由が丘/カフェ) - Retty
+    kind: customsearch#result
+    link: https://retty.me/area/PRE13/ARE665/SUB2001/100000451684/
+    pagemap:
+      cse_image:
+      - src: https://ximg.retty.me/crop/s600x600/-/retty/img_repo/l/01/2702787.jpg
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG6VpiwqMO8boMAKWk-zVJ0dLaXq_yxEVh_BIMORWR7hMeZcjNGqPkqyMx
+        width: '225'
+      metatags:
+      - al:ios:app_name: Retty
+        al:ios:app_store_id: '473919569'
+        al:ios:url: retty://?page=restaurant&restaurant_id=100000451684
+        fb:app_id: '218159034880392'
+        og:description: インテリアショップに併設しているお洒落なベイクカフェ。天気もよく爽やかな休日、そんな時に行って頂きたいのがここ。お店の雰囲気もとても良く、種類豊富なパンや焼き菓子はどれも美味しく、その可愛さに見ているだけでワクワクしてしまう。
+        og:image: https://ximg.retty.me/crop/s600x600/-/retty/img_repo/l/01/2702787.jpg
+        og:locale: ja_JP
+        og:site_name: Retty（レッティ）
+        og:title: ベイクショップ  - Retty(レッティ)
+        og:type: rettyme:restaurant
+        og:url: https://retty.me/area/PRE13/ARE665/SUB2001/100000451684/
+        twitter:card: summary_large_image
+        twitter:description: インテリアショップに併設しているお洒落なベイクカフェ。天気もよく爽やかな休日、そんな時に行って頂きたいのがここ。お店の雰囲気もとても良く、種類豊富なパンや焼き菓子はどれも美味しく、その可愛さに見ているだけでワクワクしてしまう。
+        twitter:image: https://ximg.retty.me/crop/s600x600/-/retty/img_repo/l/01/2702787.jpg
+        twitter:site: '@Retty_jp'
+        twitter:title: ベイクショップ  - Retty(レッティ)
+        twitter:url: https://retty.me/area/PRE13/ARE665/SUB2001/100000451684/
+    snippet: '2019年3月20日 ... 【東京都目黒区自由が丘】 ◇キッシュプレート １１００円 コーヒー３５０円ニューヨークの
+
+      新世代ベイクショップ文化を愉しむ♪ ... おしゃれな; オーガニック料理; 朝食が食べ
+
+      られる; ブランチ; テラスのある; ご飯; おひとりさまOK; 禁煙; フォトジェニック ...'
+    title: ベイクショップ （BAKE SHOP） (自由が丘/カフェ) - Retty
+  - cacheId: vqHMrgB1rR8J
+    displayLink: ameblo.jp
+    formattedUrl: https://ameblo.jp/coucou-boulangerie/entry-12358333757.html
+    htmlFormattedUrl: https://ameblo.jp/coucou-boulangerie/entry-12358333757.html
+    htmlSnippet: '2018年3月6日 <b>...</b> 2018年3月6日：【自由が丘】<b>Jiyugaoka BAKE SHOP</b>
+      ... 明日も美味しいパンが食べ<br>
+
+      られますように♪. ＜<b>Jiyugaoka BAKE SHOP</b>＞. 公式サイト：http://bakeshop.jp/. <b>食べ</b><br>
+
+      <b>ログ</b>：https://<b>tabelog</b>.com/tokyo/A1317/A131703/13102293/.'
+    htmlTitle: 2018年3月6日：【自由が丘】<b>Jiyugaoka BAKE SHOP</b> | 東京パン屋さん ...
+    kind: customsearch#result
+    link: https://ameblo.jp/coucou-boulangerie/entry-12358333757.html
+    pagemap:
+      cse_image:
+      - src: https://stat.ameba.jp/user_images/20180307/16/coucou-boulangerie/21/97/j/o2000263414144897575.jpg
+      cse_thumbnail:
+      - height: '258'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOyzkiSoKUk-O9Y-ZVGyeNay_rSxK76XVzc_1O_Jb1dV3eOUWOvdCp9hE
+        width: '196'
+      metatags:
+      - al:ios:app_name: Ameba
+        al:ios:app_store_id: '349442137'
+        al:ios:url: jpameblo://ameblo/coucou-boulangerie/entry/12358333757
+        fb:app_id: '311629842256842'
+        mixi-check-robots: nodescription, noimage
+        mixi:device-mobile: http://m.ameba.jp/m/blogArticle.do?unm=coucou-boulangerie&articleId=12358333757&guid=ON
+        og:description: 昨日自由が丘に用事があったので、IDEE SHOPの4階にある、Jiyugaoka BAKE SHOPに寄り道。 1階から3階までは家具や生活雑貨を販売。4階…
+        og:image: https://stat.ameba.jp/user_images/20180307/16/coucou-boulangerie/21/97/j/o2000263414144897575.jpg
+        og:locale: ja_JP
+        og:site_name: 東京パン屋さん巡りレポート
+        og:title: 『2018年3月6日：【自由が丘】Jiyugaoka BAKE SHOP』
+        og:type: article
+        og:url: https://ameblo.jp/coucou-boulangerie/entry-12358333757.html
+        referrer: origin
+        twitter:app:country: JP
+        twitter:app:id:googleplay: jp.ameba
+        twitter:app:id:iphone: '349442137'
+        twitter:app:name:googleplay: Ameba
+        twitter:app:name:iphone: Ameba
+        twitter:app:url:googleplay: jpameblo://ameblo/coucou-boulangerie/entry/12358333757
+        twitter:app:url:iphone: jpameblo://ameblo/coucou-boulangerie/entry/12358333757
+        twitter:card: summary_large_image
+        twitter:description: 昨日自由が丘に用事があったので、IDEE SHOPの4階にある、Jiyugaoka BAKE SHOPに寄り道。 1階から3階までは家具や生活雑貨を販売。4階…
+        twitter:image: https://stat.ameba.jp/user_images/20180307/16/coucou-boulangerie/21/97/j/o2000263414144897575.jpg
+        twitter:title: coucou-boulangerie：2018年3月6日：【自由が丘】Jiyugaoka BAKE SHOP
+        twitter:url: https://ameblo.jp/coucou-boulangerie/entry-12358333757.html
+    snippet: '2018年3月6日 ... 2018年3月6日：【自由が丘】Jiyugaoka BAKE SHOP ... 明日も美味しいパンが食べ
+
+      られますように♪. ＜Jiyugaoka BAKE SHOP＞. 公式サイト：http://bakeshop.jp/. 食べ
+
+      ログ：https://tabelog.com/tokyo/A1317/A131703/13102293/.'
+    title: 2018年3月6日：【自由が丘】Jiyugaoka BAKE SHOP | 東京パン屋さん ...
+  - cacheId: EtVwJd3-OQwJ
+    displayLink: cookbiz.jp
+    formattedUrl: https://cookbiz.jp/job/job40145_shop.html
+    htmlFormattedUrl: https://cookbiz.jp/job/job40145_shop.html
+    htmlSnippet: '有限会社 KURANO DESIGN CONSULTANT 「<b>Jiyugaoka BAKE SHOP</b>」 ... それが「<br>
+
+      <b>Jiyugaoka BAKE SHOP</b>」です。 ... ランチ／1,000円〜2,000円ディナー／2,000円〜<br>
+
+      3,000円. 席数, 40 席. SNS. facebook <b>食べログ</b> その他. 店舗URL, http://bakeshop.jp<br>
+
+      /&nbsp;...'
+    htmlTitle: 有限会社 KURANO DESIGN CONSULTANT 「<b>Jiyugaoka BAKE SHOP</b>」
+    kind: customsearch#result
+    link: https://cookbiz.jp/job/job40145_shop.html
+    pagemap:
+      breadcrumb:
+      - title: 飲食求人ホーム
+        url: 飲食求人ホーム
+      - title: 飲食アルバイト・パート情報ホーム
+        url: 飲食アルバイト・パート情報ホーム
+      - title: 求人検索 (アルバイト・パート)
+        url: 求人検索 (アルバイト・パート)
+      - title: 関東
+        url: 関東
+      - title: 東京23区
+        url: 東京23区
+      - title: 目黒区、世田谷区
+        url: 目黒区、世田谷区
+      - title: 飲食求人ホーム
+        url: 飲食求人ホーム
+      - title: 飲食アルバイト・パート情報ホーム
+        url: 飲食アルバイト・パート情報ホーム
+      - title: 求人検索 (アルバイト・パート)
+        url: 求人検索 (アルバイト・パート)
+      - title: 関東
+        url: 関東
+      - title: 東京23区
+        url: 東京23区
+      - title: 目黒区、世田谷区
+        url: 目黒区、世田谷区
+      cse_image:
+      - src: https://cdn.cookbiz.jp/organization_images/e04f6ca245afef7acd19c1ec8d900ecbf0107cd6/large_0f12af5d7113782ef35443b5d323e698b701ce24.jpg
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRY3YyIiK6qZRBqh5USJzFM0rZwmslE8BD3NJsIMUfmxgsYE7ggjQ9l4QAJ
+        width: '275'
+      metatags:
+      - og:description: 飲食店の正社員求人情報が豊富なクックビズでアナタにピッタリのお仕事探ししませんか？まずはお気軽に無料会員登録！プロのコンサルタントによる転職相談が無料で受けられます♪
+        og:image: https://cdn.cookbiz.jp/organization_images/e04f6ca245afef7acd19c1ec8d900ecbf0107cd6/large_0f12af5d7113782ef35443b5d323e698b701ce24.jpg
+        og:site_name: 飲食の求人・転職ならクックビズ
+        og:title: 「Jiyugaoka BAKE SHOP」｜有限会社 KURANO DESIGN CONSULTANT｜飲食店の求人・転職情報サイトならクックビズ
+        og:url: https://cookbiz.jp/job/job40145.html
+    snippet: '有限会社 KURANO DESIGN CONSULTANT 「Jiyugaoka BAKE SHOP」 ... それが「
+
+      Jiyugaoka BAKE SHOP」です。 ... ランチ／1,000円〜2,000円ディナー／2,000円〜
+
+      3,000円. 席数, 40 席. SNS. facebook 食べログ その他. 店舗URL, http://bakeshop.jp
+
+      / ...'
+    title: 有限会社 KURANO DESIGN CONSULTANT 「Jiyugaoka BAKE SHOP」
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: JIYUGAOKA BAKESHOP 食べログ
+      startIndex: 11
+      title: Google Custom Search - JIYUGAOKA BAKESHOP 食べログ
+      totalResults: '41800'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: JIYUGAOKA BAKESHOP 食べログ
+      startIndex: 1
+      title: Google Custom Search - JIYUGAOKA BAKESHOP 食べログ
+      totalResults: '41800'
+  searchInformation:
+    formattedSearchTime: '0.61'
+    formattedTotalResults: 41,800
+    searchTime: 0.614588
+    totalResults: '41800'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 19:43:19
+snapshot_ymd: '20190424'

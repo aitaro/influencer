@@ -1,0 +1,512 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: OjnXh0gGDYgJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1303/A130302/13201307/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1303/A130302/13201307/
+    htmlSnippet: '<b>俺のBakery&amp;Cafe</b> 恵比寿 (恵比寿/カフェ)の店舗情報は<b>食べログ</b>でチェック！恵比寿<br>
+
+      店限定フレンチトーストはクルミ食パンで作ってます！ 【禁煙】口コミや評価、写真など、<br>
+
+      ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。'
+    htmlTitle: <b>俺のBakery&amp;Cafe</b> 恵比寿 - 恵比寿/カフェ [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1303/A130302/13201307/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 渋谷・恵比寿・代官山カフェ
+        url: 渋谷・恵比寿・代官山カフェ
+      - title: 恵比寿カフェ
+        url: 恵比寿カフェ
+      - title: 恵比寿駅カフェ
+        url: 恵比寿駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/58513/58513525.jpg?token=2e4ecec&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0Md6xTdJF8u0l-ySVO4K-LQHyWsEcNwUK5gRfAGCue9DYJ2woBV3fMb8
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: U13qrYQv9dsgXQtZpe4cWdQQJmBjBqPrjQAvFixXdKFbXcYxk3B4GNlEI1xbnh0PHZ/w0kZPs5wZW+MGraEn6A==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.58 ■恵比寿店限定フレンチトーストはクルミ食パンで作ってます！ ■予算(夜):￥1,000～￥1,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/58513/58513525.jpg?token=2e4ecec&api=v2
+        og:title: 俺のBakery&Cafe 恵比寿 (恵比寿/カフェ)
+        og:url: https://tabelog.com/tokyo/A1303/A130302/13201307/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: '俺のBakery&Cafe 恵比寿 (恵比寿/カフェ)の店舗情報は食べログでチェック！恵比寿
+
+      店限定フレンチトーストはクルミ食パンで作ってます！ 【禁煙】口コミや評価、写真など、
+
+      ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。'
+    title: 俺のBakery&Cafe 恵比寿 - 恵比寿/カフェ [食べログ]
+  - cacheId: 335EfF2jem0J
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1302/A130202/13221837/dtlmap/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1302/A130202/13221837/dtlmap/
+    htmlSnippet: <b>俺のBakery＆Cafe</b> 京橋中央通 (京橋/パン)の地図です。
+    htmlTitle: '地図 : <b>俺のBakery＆Cafe</b> 京橋中央通 - 京橋/パン [<b>食べログ</b>]'
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1302/A130202/13221837/dtlmap/
+    pagemap:
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: V8vBHTy4M5XRliaP9UqplH3FBeTPbahQ0o6uC0EcMLdfZhUlJ/FckC06ScQRvwhuE+aaPlyUtDuERjqy7f8uFQ==
+        format-detection: telephone=no
+        viewport: width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no
+    snippet: 俺のBakery＆Cafe 京橋中央通 (京橋/パン)の地図です。
+    title: '地図 : 俺のBakery＆Cafe 京橋中央通 - 京橋/パン [食べログ]'
+  - cacheId: 8GCgDJsRRVYJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1301/A130101/13225621/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1301/A130101/13225621/
+    htmlSnippet: '<b>俺のBakery＆Cafe</b> 東銀座歌舞伎座前 (東銀座/カフェ)の店舗情報は<b>食べログ</b>で<br>
+
+      チェック！◇4／1〜 期間限定食パンのご案内◇ 口コミや評価、写真など、ユーザー<br>
+
+      によるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。'
+    htmlTitle: <b>俺のBakery＆Cafe</b> 東銀座歌舞伎座前 - 東銀座/カフェ [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1301/A130101/13225621/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 銀座・新橋・有楽町カフェ
+        url: 銀座・新橋・有楽町カフェ
+      - title: 銀座カフェ
+        url: 銀座カフェ
+      - title: 東銀座駅カフェ
+        url: 東銀座駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/104765/104765054.jpg?token=827039f&api=v2
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaxzGu6B7CVbFndrEFBurcwkh73WMD-f3rN7rIBMxk7jk6HeqDzNlm96I
+        width: '275'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: FLlCHRbi2hpLHW8dSvJQl5vDZQV8U1yYPxGzFz2i6fZjx8BlIP4nvf320fuZpCkqF0O2GW9D9DR0QltdStRfVg==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.50 ■◆4／1〜 期間限定食パンのご案内◆ ■予算(夜):￥1,000～￥1,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/104765/104765054.jpg?token=827039f&api=v2
+        og:title: 俺のBakery＆Cafe 東銀座歌舞伎座前 (東銀座/カフェ)
+        og:url: https://tabelog.com/tokyo/A1301/A130101/13225621/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: '俺のBakery＆Cafe 東銀座歌舞伎座前 (東銀座/カフェ)の店舗情報は食べログで
+
+      チェック！◇4／1〜 期間限定食パンのご案内◇ 口コミや評価、写真など、ユーザー
+
+      によるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。'
+    title: 俺のBakery＆Cafe 東銀座歌舞伎座前 - 東銀座/カフェ [食べログ]
+  - cacheId: 5AAKkjx-VHIJ
+    displayLink: magazine.tabelog.com
+    formattedUrl: https://magazine.tabelog.com/articles/59413
+    htmlFormattedUrl: https://magazine.<b>tabelog</b>.com/articles/59413
+    htmlSnippet: '2018年12月11日 <b>...</b> 100種以上のパンがそごう横浜店に勢揃い！ 全国各地の人気パンが一堂に集まる「<br>
+
+      パンフェス」がそごう横浜店で開催中！ 新たなお気に入りパンに出会えるチャンス！ <b>俺</b><br>
+
+      <b>のBakery＆Cafe</b>／銀座の食パン～香～. 気になるラインアップは、&nbsp;...'
+    htmlTitle: 全国の人気パン100種以上が集結！横浜でパンフェス開催中 | <b>食べログ</b> ...
+    kind: customsearch#result
+    link: https://magazine.tabelog.com/articles/59413
+    pagemap:
+      cse_image:
+      - src: https://magazine.tabelog.com/wp-content/uploads/2018/12/main-9.jpg
+      cse_thumbnail:
+      - height: '229'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKXMonpSFhAHFQ8EdL9u7ilaSf77eY3oAIPwM_jNGSB95BNtC7NQF_X5s
+        width: '220'
+      listitem:
+      - position: '1'
+      - position: '3'
+      metatags:
+      - article:modified_time: '2018-12-11T09:56:02Z'
+        article:published_time: '2018-12-11T10:30:38Z'
+        fb:pages: '190929767599950'
+        ia:markup_url: https://magazine.tabelog.com/articles/59413?ia_markup=1
+        og:description: 話題の食パンやご当地パンも！　香ばしい匂いに包まれたいパンLOVERは横浜に集合！
+        og:image: https://magazine.tabelog.com/wp-content/uploads/2018/12/main-9.jpg
+        og:site_name: 食べログマガジン
+        og:title: 全国の人気パン100種以上が集結！横浜でパンフェス開催中 | 食べログマガジン
+        og:type: article
+        og:url: https://magazine.tabelog.com/articles/59413
+        twitter:card: summary
+        twitter:description: 話題の食パンやご当地パンも！　香ばしい匂いに包まれたいパンLOVERは横浜に集合！
+        twitter:image: https://magazine.tabelog.com/wp-content/uploads/2018/12/main-9.jpg
+        twitter:title: 全国の人気パン100種以上が集結！横浜でパンフェス開催中 | 食べログマガジン
+        viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0
+      thing:
+      - name: ホーム
+      - name: 全国の人気パン100種以上が集結！横浜でパンフェス開催中
+    snippet: '2018年12月11日 ... 100種以上のパンがそごう横浜店に勢揃い！ 全国各地の人気パンが一堂に集まる「
+
+      パンフェス」がそごう横浜店で開催中！ 新たなお気に入りパンに出会えるチャンス！ 俺
+
+      のBakery＆Cafe／銀座の食パン～香～. 気になるラインアップは、 ...'
+    title: 全国の人気パン100種以上が集結！横浜でパンフェス開催中 | 食べログ ...
+  - cacheId: ngeCMK1FdhoJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1304/A130401/13219805/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1304/A130401/13219805/
+    htmlSnippet: '<b>俺のBakery＆Cafe</b> 新宿京王モール/オレノベーカリー＆カフェ (新宿/カフェ)の店舗情報<br>
+
+      は<b>食べログ</b>でチェック！期間限定！苺と吟醸こしあんのサンドイッチ販売中！ 【禁煙】<br>
+
+      口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理<br>
+
+      メニュー&nbsp;...'
+    htmlTitle: <b>俺のBakery＆Cafe</b> 新宿京王モール （オレノベーカリー＆カフェ） - 新宿 ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1304/A130401/13219805/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 新宿・代々木・大久保カフェ
+        url: 新宿・代々木・大久保カフェ
+      - title: 新宿カフェ
+        url: 新宿カフェ
+      - title: 新宿駅カフェ
+        url: 新宿駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/103845/103845000.jpg?token=f1b0794&api=v2
+      cse_thumbnail:
+      - height: '233'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZcoEUUzvHk-J3UA_qlUVhGZDdT8tjEPDAeEZj_DcE3DCxdOZ7Fc7J87E
+        width: '216'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: vsB0EKgtLrKSeamjEY8fElOfqqlHKuUXEb1kytM1PPZMW5Z5zKvj1UDGu1Ui2TN5ntm4K7LfdDrS27oCffw6aA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.39 ■期間限定！苺と吟醸こしあんのサンドイッチ販売中！ ■予算(夜):￥1,000～￥1,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/103845/103845000.jpg?token=f1b0794&api=v2
+        og:title: 俺のBakery＆Cafe 新宿京王モール (新宿/カフェ)
+        og:url: https://tabelog.com/tokyo/A1304/A130401/13219805/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: '俺のBakery＆Cafe 新宿京王モール/オレノベーカリー＆カフェ (新宿/カフェ)の店舗情報
+
+      は食べログでチェック！期間限定！苺と吟醸こしあんのサンドイッチ販売中！ 【禁煙】
+
+      口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理
+
+      メニュー ...'
+    title: 俺のBakery＆Cafe 新宿京王モール （オレノベーカリー＆カフェ） - 新宿 ...
+  - cacheId: MQd9TOx7mzEJ
+    displayLink: press.chiku-wa.jp
+    formattedUrl: https://press.chiku-wa.jp/press_1184/
+    htmlFormattedUrl: https://press.chiku-wa.jp/press_1184/
+    htmlSnippet: '2017年12月2日 <b>...</b> リーズナブルなイタリアンやフレンチで人気の「俺の」シリーズを展開する「俺の株式会社<br>
+
+      」が運営するベーカリーカフェ「<b>俺</b> ... 出典： <b>食べログ</b>. 今回は、そんな「<b>俺のBakery&amp;Cafe</b>
+      <br>
+
+      松屋銀座 裏」の雰囲気やオススメメニューをご紹介していきます！'
+    htmlTitle: パン好き必見！「<b>俺のBakery&amp;Cafe</b> 松屋銀座 裏」のこだわり＆限定 ...
+    kind: customsearch#result
+    link: https://press.chiku-wa.jp/press_1184/
+    pagemap:
+      breadcrumb:
+      - url: ホーム
+      - url: おでかけ情報
+      cse_image:
+      - src: https://chiku-wa.jp/system/press_image/2017/11/09/zv89I4hw9Tz3TBLdTGooNsXwVQpuD0N2_mQPS6mVhIg/extract/4a666058a42808b59ada8a59e645293e.jpg
+      cse_thumbnail:
+      - height: '194'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyiIypbtpJs18w3bVcrXjjYD7vU2iDAd9jq4SDwE8t3twacLc2kRBiMQw
+        width: '259'
+      metatags:
+      - device: pc
+        fb:app_id: '1041338602571389'
+        og:description: 「パン好き必見！「俺のBakery&Cafe 松屋銀座 裏」のこだわり＆限定メニューをご紹介！」の記事です。リーズナブルなイタリアンやフレンチで人気の「俺の」シリーズを展開する「俺の株式会社」が運営するベーカリーカフェ「俺のBakery&Cafe」。恵比寿に次ぐ2店舗目となる「松屋銀座
+          裏」が2017年10…
+        og:image: https://chiku-wa.jp/system/press_image/2017/11/09/zv89I4hw9Tz3TBLdTGooNsXwVQpuD0N2_mQPS6mVhIg/extract/4a666058a42808b59ada8a59e645293e.jpg
+        og:site_name: ちくわ。
+        og:title: パン好き必見！「俺のBakery&Cafe 松屋銀座 裏」のこだわり＆限定メニューをご紹介！｜ちくわ。
+        og:type: article
+        og:url: https://press.chiku-wa.jp/press_1184/
+        twitter:card: summary_large_image
+        twitter:site: '@CHIKU_WA_jp'
+        viewport: width=1060
+    snippet: "2017年12月2日 ... リーズナブルなイタリアンやフレンチで人気の「俺の」シリーズを展開する「俺の株式会社\n」が運営するベーカリーカフェ「俺\
+      \ ... 出典： 食べログ. 今回は、そんな「俺のBakery&Cafe \n松屋銀座 裏」の雰囲気やオススメメニューをご紹介していきます！"
+    title: パン好き必見！「俺のBakery&Cafe 松屋銀座 裏」のこだわり＆限定 ...
+  - cacheId: aYyY-sK-RSoJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1301/A130101/13213690/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1301/A130101/13213690/
+    htmlSnippet: '<b>俺のBakery&amp;Cafe</b> 松屋銀座 裏 (銀座/パン)の店舗情報は<b>食べログ</b>でチェック！4月〜<br>
+
+      新作食パン＆新Cafeメニュー登場！！ 【禁煙】口コミや評価、写真など、ユーザーによる<br>
+
+      リアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。'
+    htmlTitle: <b>俺のBakery&amp;Cafe</b> 松屋銀座 裏 - 銀座/パン [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1301/A130101/13213690/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京パン
+        url: 東京パン
+      - title: 銀座・新橋・有楽町パン
+        url: 銀座・新橋・有楽町パン
+      - title: 銀座パン
+        url: 銀座パン
+      - title: 銀座駅パン
+        url: 銀座駅パン
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/77616/77616585.jpg?token=33cd7db&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCevFm8e_aevhxfI0QF2pKh5qR9APwNLBfvF0-22CdTj0qNUkhs7M-rfoO
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: JaDoAFBS17mLVdnlA59R+8//qCZwXPs8Qs427oMGhKiXi7G/vAVrq5SInlB25F/L/ATVZmXegbv5/oN7gbUlsg==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.58 ■4月〜新作食パン＆新Cafeメニュー登場！！ ■予算(昼):￥1,000～￥1,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/77616/77616585.jpg?token=33cd7db&api=v2
+        og:title: 俺のBakery&Cafe 松屋銀座 裏 (銀座/パン)
+        og:url: https://tabelog.com/tokyo/A1301/A130101/13213690/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: '俺のBakery&Cafe 松屋銀座 裏 (銀座/パン)の店舗情報は食べログでチェック！4月〜
+
+      新作食パン＆新Cafeメニュー登場！！ 【禁煙】口コミや評価、写真など、ユーザーによる
+
+      リアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。'
+    title: 俺のBakery&Cafe 松屋銀座 裏 - 銀座/パン [食べログ]
+  - cacheId: KU7oXG2hjPUJ
+    displayLink: www.oreno.co.jp
+    formattedUrl: https://www.oreno.co.jp/.../俺のフレンチ・イタリアン-aoyama
+    htmlFormattedUrl: https://www.oreno.co.jp/.../<b>俺</b>のフレンチ・イタリアン-aoyama
+    htmlSnippet: '平日12:00と14:00のご予約は、『2時間制』は実施しておりませんので、ごゆっくりお<br>
+
+      楽しみいただけます。 ※上記の時間以外でのご予約は、↓こちらからご確認お願い致し<br>
+
+      ます。 【<b>食べログ</b>】https://<b>tabelog</b>.com/tokyo/A1306/A130601/13160318/. お席<br>
+
+      について.'
+    htmlTitle: 俺のフレンチ・イタリアン青山店 店舗情報 | 俺の株式会社
+    kind: customsearch#result
+    link: https://www.oreno.co.jp/restaurant/%E4%BF%BA%E3%81%AE%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%BB%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%B3-aoyama
+    pagemap:
+      cse_image:
+      - src: https://www.oreno.co.jp/wp-corp/wp-content/uploads/2013/09/24898224.jpg
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvZ4dBkhrWGUBu4cKxQwMA8okbNwutvYcILgxsdapmcBvfLJDVBt8HCxo
+        width: '275'
+      metatags:
+      - format-detection: telephone=no
+        viewport: width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no
+    snippet: '平日12:00と14:00のご予約は、『2時間制』は実施しておりませんので、ごゆっくりお
+
+      楽しみいただけます。 ※上記の時間以外でのご予約は、↓こちらからご確認お願い致し
+
+      ます。 【食べログ】https://tabelog.com/tokyo/A1306/A130601/13160318/. お席
+
+      について.'
+    title: 俺のフレンチ・イタリアン青山店 店舗情報 | 俺の株式会社
+  - cacheId: SBEB-bBz79AJ
+    displayLink: www.pinterest.jp
+    formattedUrl: https://www.pinterest.jp/pin/566679565592997366/
+    htmlFormattedUrl: https://www.pinterest.jp/pin/566679565592997366/
+    htmlSnippet: 'このピンは、Ippei Kaokuさんが見つけました。あなたも Pinterest で自分だけのピンを<br>
+
+      見つけて保存しましょう！'
+    htmlTitle: 您好 （ニイハオ） - 幡ヶ谷/餃子 [<b>食べログ</b>] | 気になる店 | Pinterest
+    kind: customsearch#result
+    link: https://www.pinterest.jp/pin/566679565592997366/
+    pagemap:
+      cse_image:
+      - src: https://i.pinimg.com/236x/ab/bb/5f/abbb5fc8bd1810ea61555313634bc9f5--restraint-tokyo.jpg?b=t
+      cse_thumbnail:
+      - height: '150'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlSswVh7NPPGJVERDa-99rBafT_gBtly-AKo4rlMwytzcd3zjaiAfMGavd
+        width: '150'
+      metatags:
+      - al:android:app_name: Pinterest
+        al:android:package: com.pinterest
+        al:android:url: pinterest://pin/566679565592997366
+        al:ios:app_name: Pinterest
+        al:ios:app_store_id: '429047995'
+        al:ios:url: pinterest://pin/566679565592997366
+        application-name: Pinterest
+        fb:app_id: '274266067164'
+        image_signature: 1373b435635efb29c81e70bd9dbd3c7e
+        landing_page_info: '{''pin_id'': u''566679565592997366''}'
+        msapplication-tilecolor: '#ffffff'
+        msapplication-tileimage: https://s.pinimg.com/webapp/style/images/logo_trans_144x144-642179a1.png
+        naver-site-verification: 449f5675319d27f34f90dc99f63f1892389589fc
+        og:description: 您好 （ニイハオ） - 幡ヶ谷/餃子 [食べログ]
+        og:image: https://i.pinimg.com/736x/13/73/b4/1373b435635efb29c81e70bd9dbd3c7e--restraint-tokyo.jpg?b=t
+        og:image:height: '150'
+        og:image:width: '150'
+        og:see_also: http://s.tabelog.com/tokyo/A1318/A131807/13001812/
+        og:site_name: Pinterest
+        og:title: 您好 （ニイハオ） - 幡ヶ谷/餃子 [食べログ] | 気になる店 | Pinterest
+        og:type: pinterestapp:pin
+        og:url: https://www.pinterest.com/pin/566679565592997366/
+        pinterest: nohover
+        pinterestapp:pinboard: https://www.pinterest.com/ippeikaoku/%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E5%BA%97/
+        pinterestapp:pinner: https://www.pinterest.com/ippeikaoku/
+        pinterestapp:repins: '0'
+        pinterestapp:source: http://s.tabelog.com/tokyo/A1318/A131807/13001812/
+        referrer: origin
+        theme-color: '#e60023'
+        twitter:app:android: com.pinterest
+        twitter:app:id:ipad: '429047995'
+        twitter:app:id:iphone: '429047995'
+        twitter:app:url:googleplay: pinterest://pin/566679565592997366
+        twitter:app:url:ipad: pinterest://pin/566679565592997366
+        twitter:app:url:iphone: pinterest://pin/566679565592997366
+        twitter:card: summary_large_image
+        twitter:description: 您好 （ニイハオ） - 幡ヶ谷/餃子 [食べログ]
+        twitter:image:src: https://i.pinimg.com/736x/13/73/b4/1373b435635efb29c81e70bd9dbd3c7e--restraint-tokyo.jpg?b=t
+        twitter:site: '@pinterest'
+        twitter:title: 気になる店
+        viewport: width=device-width, initial-scale=1
+    snippet: 'このピンは、Ippei Kaokuさんが見つけました。あなたも Pinterest で自分だけのピンを
+
+      見つけて保存しましょう！'
+    title: 您好 （ニイハオ） - 幡ヶ谷/餃子 [食べログ] | 気になる店 | Pinterest
+  - cacheId: 5xikiBSlPlAJ
+    displayLink: ameblo.jp
+    formattedUrl: https://ameblo.jp/maxkuro-jyo/entry-12442312786.html
+    htmlFormattedUrl: https://ameblo.jp/maxkuro-jyo/entry-12442312786.html
+    htmlSnippet: '2019年2月26日 <b>...</b> 新宿・<b>俺のBakery＆Cafe</b> 小倉バターサンド美味し♪ ... 俺シリーズのわりに、.
+      繊細な<br>
+
+      ココロ配り。 食べてみたら. これ 美味しい！ 小倉は・・・. 美味しい鯛焼きとか、大判焼き<br>
+
+      にはいってる餡子だな。 ... <b>食べログ</b> グルメブログランキング.'
+    htmlTitle: 新宿・<b>俺のBakery＆Cafe</b> 小倉バターサンド美味し   | 怪猫ガイド / 猫好き ...
+    kind: customsearch#result
+    link: https://ameblo.jp/maxkuro-jyo/entry-12442312786.html
+    pagemap:
+      cse_image:
+      - src: https://stat.ameba.jp/user_images/20190226/22/maxkuro-jyo/18/3e/j/o0674108014363038879.jpg
+      cse_thumbnail:
+      - height: '284'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBpfoWY-CfVTHiC7xeu7Pxlt6lHZvQtB_Li0pqtbQ7hyNZ2vc1tGwQMM7I
+        width: '177'
+      metatags:
+      - al:ios:app_name: Ameba
+        al:ios:app_store_id: '349442137'
+        al:ios:url: jpameblo://ameblo/maxkuro-jyo/entry/12442312786
+        fb:app_id: '311629842256842'
+        mixi-check-robots: nodescription, noimage
+        mixi:device-mobile: http://m.ameba.jp/m/blogArticle.do?unm=maxkuro-jyo&articleId=12442312786&guid=ON
+        og:description: 新宿・京王モール俺のBakery＆Cafe 俺のシリーズには、興味はないが・・・ライオンの絵柄が素敵だなあ。ライオン＝俺の・・？ テイクアウトのサンドイッチが…
+        og:image: https://stat.ameba.jp/user_images/20190226/22/maxkuro-jyo/18/3e/j/o0674108014363038879.jpg
+        og:locale: ja_JP
+        og:site_name: 怪猫ガイド / 猫好きが辿るグルメ地図
+        og:title: 『新宿・俺のBakery＆Cafe　小倉バターサンド美味し♪』
+        og:type: article
+        og:url: https://ameblo.jp/maxkuro-jyo/entry-12442312786.html
+        referrer: origin
+        twitter:app:country: JP
+        twitter:app:id:googleplay: jp.ameba
+        twitter:app:id:iphone: '349442137'
+        twitter:app:name:googleplay: Ameba
+        twitter:app:name:iphone: Ameba
+        twitter:app:url:googleplay: jpameblo://ameblo/maxkuro-jyo/entry/12442312786
+        twitter:app:url:iphone: jpameblo://ameblo/maxkuro-jyo/entry/12442312786
+        twitter:card: summary_large_image
+        twitter:description: 新宿・京王モール俺のBakery＆Cafe 俺のシリーズには、興味はないが・・・ライオンの絵柄が素敵だなあ。ライオン＝俺の・・？ テイクアウトのサンドイッチが…
+        twitter:image: https://stat.ameba.jp/user_images/20190226/22/maxkuro-jyo/18/3e/j/o0674108014363038879.jpg
+        twitter:title: nekonokaze：新宿・俺のBakery＆Cafe　小倉バターサンド美味し♪
+        twitter:url: https://ameblo.jp/maxkuro-jyo/entry-12442312786.html
+    snippet: '2019年2月26日 ... 新宿・俺のBakery＆Cafe 小倉バターサンド美味し♪ ... 俺シリーズのわりに、. 繊細な
+
+      ココロ配り。 食べてみたら. これ 美味しい！ 小倉は・・・. 美味しい鯛焼きとか、大判焼き
+
+      にはいってる餡子だな。 ... 食べログ グルメブログランキング.'
+    title: 新宿・俺のBakery＆Cafe 小倉バターサンド美味し   | 怪猫ガイド / 猫好き ...
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: 俺のBakery＆Cafe 食べログ
+      startIndex: 11
+      title: Google Custom Search - 俺のBakery＆Cafe 食べログ
+      totalResults: '34100'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: 俺のBakery＆Cafe 食べログ
+      startIndex: 1
+      title: Google Custom Search - 俺のBakery＆Cafe 食べログ
+      totalResults: '34100'
+  searchInformation:
+    formattedSearchTime: '0.44'
+    formattedTotalResults: 34,100
+    searchTime: 0.444189
+    totalResults: '34100'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 19:37:50
+snapshot_ymd: '20190424'

@@ -1,0 +1,579 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: MfdrEETa4DgJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1318/A131802/13094528/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1318/A131802/13094528/
+    htmlSnippet: '<b>農民カフェ</b> 下北沢店 (下北沢/自然食)の店舗情報は<b>食べログ</b>でチェック！≪下北沢駅<br>
+
+      徒歩3分≫日本の四季を愛でながらー…全国の&quot;旬&quot;野菜をオーガニック料理で堪能する <br>
+
+      【個室あり / 禁煙 / 飲み放題あり / ネット予約可】口コミや評価、写真など、ユーザー&nbsp;...'
+    htmlTitle: <b>農民カフェ</b> 下北沢店 - 下北沢/自然食 [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1318/A131802/13094528/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京自然食
+        url: 東京自然食
+      - title: 京王・小田急沿線自然食
+        url: 京王・小田急沿線自然食
+      - title: 下北沢自然食
+        url: 下北沢自然食
+      - title: 下北沢駅自然食
+        url: 下北沢駅自然食
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/91301/91301249.jpg?token=7882ae4&api=v2
+      cse_thumbnail:
+      - height: '215'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBCMZxcXN-Rlrxz2TVBHGNpIvg2_pJMqdUHrG6fp3WADuFJGO9EZ3nEp4u
+        width: '235'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: purwMntw+XPXCDAZWHkGPRI9G22n9yaiFhawysbdb00k9Yi47jHMTcz3UEA6XtxfEQJVnVcbc9Mtp/mdgkMLXg==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.14 ■≪下北沢駅徒歩3分≫日本の四季を愛でながらー…全国の”旬”野菜をオーガニック料理で堪能する ■予算(夜):￥3,000～￥3,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/91301/91301249.jpg?token=7882ae4&api=v2
+        og:title: 農民カフェ 下北沢店 (下北沢/自然食)
+        og:url: https://tabelog.com/tokyo/A1318/A131802/13094528/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: "農民カフェ 下北沢店 (下北沢/自然食)の店舗情報は食べログでチェック！≪下北沢駅\n徒歩3分≫日本の四季を愛でながらー…全国の\"旬\"\
+      野菜をオーガニック料理で堪能する \n【個室あり / 禁煙 / 飲み放題あり / ネット予約可】口コミや評価、写真など、ユーザー ..."
+    title: 農民カフェ 下北沢店 - 下北沢/自然食 [食べログ]
+  - cacheId: quoQ4hAfT8wJ
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1318/A131802/.../B111233016/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1318/A131802/.../B111233016/
+    htmlSnippet: '子供とシェアして<b>食べる</b>のによいのかも、と思いました。 基本的になんかがさつな感じで<br>
+
+      した。 食事の後のドリンクも忘れ去られ、お会計を頼むと、暇そうなのになぜか後回し。 <br>
+
+      階段を昇り降りする店員の足音がうるさい。 わーなんか私きびしいっ。 <b>農民カフェ</b> - 1.'
+    htmlTitle: <b>農民カフェ</b> 下北沢店
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1318/A131802/13094528/dtlrvwlst/B111233016/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京自然食
+        url: 東京自然食
+      - title: 京王・小田急沿線自然食
+        url: 京王・小田急沿線自然食
+      - title: 下北沢自然食
+        url: 下北沢自然食
+      - title: 下北沢駅自然食
+        url: 下北沢駅自然食
+      - title: 農民カフェ 下北沢店
+        url: 農民カフェ 下北沢店
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/91301/200x200_square_91301249.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmv6LPZ5DQrw-PrXHolepaTFexD9zx94Mf00KXkNu46ovVolTz0iJSUMnD
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: Eqje+ndg6EuJcrDYmBTDbYoteuuD7qMJ+oaFVvA+UPOdVm8tWSW829Q9OkaOxeoL2h2zndgZuv7MXAIgbBYbKQ==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: うるさすぎる・・・
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/91301/200x200_square_91301249.jpg
+        og:site_name: 食べログ
+        og:title: うるさすぎる・・・(ろってぃ)-農民カフェ 下北沢店
+        og:type: article
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - description: 先日ろて母と二人で行ってきました。 メニューがヘルシーな感じで、ろて母といくにはいいに違いないとずっと思っていたのです。
+          しかしその日...
+        reviewer: ろってぃ
+    snippet: "子供とシェアして食べるのによいのかも、と思いました。 基本的になんかがさつな感じで\nした。 食事の後のドリンクも忘れ去られ、お会計を頼むと、暇そうなのになぜか後回し。\
+      \ \n階段を昇り降りする店員の足音がうるさい。 わーなんか私きびしいっ。 農民カフェ - 1."
+    title: 農民カフェ 下北沢店
+  - cacheId: WK9VIN2BcmsJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/chiba/A1206/A120602/12027072/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/chiba/A1206/A120602/12027072/
+    htmlSnippet: 'のうえん<b>カフェ</b> (袖ヶ浦市その他/<b>カフェ</b>・喫茶（その他）)の店舗情報は<b>食べログ</b>でチェック<br>
+
+      ！ 【禁煙】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や<br>
+
+      料理メニューなどの詳細情報も充実。'
+    htmlTitle: のうえん<b>カフェ</b> - 袖ヶ浦市その他/<b>カフェ</b>・喫茶（その他） [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/chiba/A1206/A120602/12027072/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 千葉
+        url: 千葉
+      - title: 千葉カフェ・喫茶（その他）
+        url: 千葉カフェ・喫茶（その他）
+      - title: 市原・木更津・富津カフェ・喫茶（その他）
+        url: 市原・木更津・富津カフェ・喫茶（その他）
+      - title: 木更津・袖ヶ浦カフェ・喫茶（その他）
+        url: 木更津・袖ヶ浦カフェ・喫茶（その他）
+      - title: 馬立駅カフェ・喫茶（その他）
+        url: 馬立駅カフェ・喫茶（その他）
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/103660/103660360.jpg?token=3438e44&api=v2
+      cse_thumbnail:
+      - height: '190'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDQAMbqTR_WCANJ1KsLvpfaW9_SS0NTc1szT7B1iS9vueugZ1dfBN6ASM
+        width: '265'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: 2YOlyfmz+93AJ6EYuV98JDilpej/n18qN+rga6VM+j4AiN/MU6C54yQDRwttpiVfAh1ksxsb/6CmmmmiOAgDlQ==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.26 ■予算(昼):￥1,000～￥1,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/103660/103660360.jpg?token=3438e44&api=v2
+        og:title: のうえんカフェ (袖ヶ浦市その他/カフェ・喫茶（その他）)
+        og:url: https://tabelog.com/chiba/A1206/A120602/12027072/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'のうえんカフェ (袖ヶ浦市その他/カフェ・喫茶（その他）)の店舗情報は食べログでチェック
+
+      ！ 【禁煙】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や
+
+      料理メニューなどの詳細情報も充実。'
+    title: のうえんカフェ - 袖ヶ浦市その他/カフェ・喫茶（その他） [食べログ]
+  - displayLink: www.pinterest.jp
+    formattedUrl: https://www.pinterest.jp/pin/535646949416715927/
+    htmlFormattedUrl: https://www.pinterest.jp/pin/535646949416715927/
+    htmlSnippet: '2018/11/12- このピンは、w39nさんが見つけました。あなたも Pinterest で自分だけの<br>
+
+      ピンを見つけて保存しましょう！'
+    htmlTitle: 2018 年の「手打うどん保谷 - ひばりヶ丘/うどん [<b>食べログ</b>] | 行きたい ...
+    kind: customsearch#result
+    link: https://www.pinterest.jp/pin/535646949416715927/
+    pagemap:
+      cse_image:
+      - src: https://i.pinimg.com/736x/a5/ab/d7/a5abd7c7d462bc64ef6eb2ee1f14b3a2--tokyo.jpg
+      cse_thumbnail:
+      - height: '150'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCZCili1T_KI5AZinLbayJFf1Rf1PEG0K0TkWjftBcxIDuyuK0YEU1TDZe
+        width: '150'
+      metatags:
+      - al:android:app_name: Pinterest
+        al:android:package: com.pinterest
+        al:android:url: pinterest://pin/535646949416715927
+        al:ios:app_name: Pinterest
+        al:ios:app_store_id: '429047995'
+        al:ios:url: pinterest://pin/535646949416715927
+        application-name: Pinterest
+        fb:app_id: '274266067164'
+        image_signature: a5abd7c7d462bc64ef6eb2ee1f14b3a2
+        landing_page_info: '{''pin_id'': u''535646949416715927''}'
+        msapplication-tilecolor: '#ffffff'
+        msapplication-tileimage: https://s.pinimg.com/webapp/style/images/logo_trans_144x144-642179a1.png
+        naver-site-verification: 449f5675319d27f34f90dc99f63f1892389589fc
+        og:description: 手打うどん保谷 - ひばりヶ丘/うどん [食べログ]
+        og:image: https://i.pinimg.com/736x/a5/ab/d7/a5abd7c7d462bc64ef6eb2ee1f14b3a2--tokyo.jpg
+        og:image:height: '150'
+        og:image:width: '150'
+        og:see_also: https://s.tabelog.com/tokyo/A1328/A132801/13131301/
+        og:site_name: Pinterest
+        og:title: 2018 年の「手打うどん保谷 - ひばりヶ丘/うどん [食べログ] | 行きたい(グルメ)」 | Pinterest
+        og:type: pinterestapp:pin
+        og:updated_time: '2018-11-12 03:29:02+00:00'
+        og:url: https://www.pinterest.com/pin/535646949416715927/
+        pinterest: nohover
+        pinterestapp:likes: '0'
+        pinterestapp:pinboard: https://www.pinterest.com/w39n/%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E3%82%B0%E3%83%AB%E3%83%A1/
+        pinterestapp:pinner: https://www.pinterest.com/w39n/
+        pinterestapp:repins: '1'
+        pinterestapp:source: https://s.tabelog.com/tokyo/A1328/A132801/13131301/
+        referrer: origin
+        theme-color: '#bd081c'
+        twitter:app:android: com.pinterest
+        twitter:app:id:ipad: '429047995'
+        twitter:app:id:iphone: '429047995'
+        twitter:app:url:googleplay: pinterest://pin/535646949416715927
+        twitter:app:url:ipad: pinterest://pin/535646949416715927
+        twitter:app:url:iphone: pinterest://pin/535646949416715927
+        twitter:card: summary_large_image
+        twitter:description: 手打うどん保谷 - ひばりヶ丘/うどん [食べログ]
+        twitter:image:src: https://i.pinimg.com/736x/a5/ab/d7/a5abd7c7d462bc64ef6eb2ee1f14b3a2--tokyo.jpg
+        twitter:site: '@pinterest'
+        twitter:title: 行きたい(グルメ)
+        viewport: width=device-width, initial-scale=1
+    snippet: '2018/11/12- このピンは、w39nさんが見つけました。あなたも Pinterest で自分だけの
+
+      ピンを見つけて保存しましょう！'
+    title: 2018 年の「手打うどん保谷 - ひばりヶ丘/うどん [食べログ] | 行きたい ...
+  - cacheId: JA7oWarz0RMJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1318/A131802/13094528/.../smp2/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1318/A131802/13094528/.../smp2/
+    htmlSnippet: '<b>農民カフェ</b> 下北沢店 (下北沢/自然食)の投稿された内観写真です。日本最大級のグルメ<br>
+
+      サイト「<b>食べログ</b>」では、<b>農民カフェ</b> 下北沢店の内観写真49件を掲載中。'
+    htmlTitle: '内観写真 : <b>農民カフェ</b> 下北沢店 - 下北沢/自然食 [<b>食べログ</b>]'
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1318/A131802/13094528/dtlphotolst/3/smp2/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京自然食
+        url: 東京自然食
+      - title: 京王・小田急沿線自然食
+        url: 京王・小田急沿線自然食
+      - title: 下北沢自然食
+        url: 下北沢自然食
+      - title: 下北沢駅自然食
+        url: 下北沢駅自然食
+      - title: 農民カフェ 下北沢店
+        url: 農民カフェ 下北沢店
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/91301/91301249.jpg?token=7882ae4&api=v2
+      cse_thumbnail:
+      - height: '215'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBCMZxcXN-Rlrxz2TVBHGNpIvg2_pJMqdUHrG6fp3WADuFJGO9EZ3nEp4u
+        width: '235'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: ZVyJfs6eQZ5ftHq9R050FlPcG+mrvu76HhzaCzQCqQIyP3jcP7VxqoFKwyuCh5/9bl7WXUSzh31JFjzZ4IiNhA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.08 ■≪下北沢駅徒歩3分≫日本の四季を愛でながらー…全国の”旬”野菜をオーガニック料理で堪能する ■予算(夜):￥3,000～￥3,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/91301/91301249.jpg?token=7882ae4&api=v2
+        og:title: 農民カフェ 下北沢店 (下北沢/自然食)
+        og:url: https://tabelog.com/tokyo/A1318/A131802/13094528/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review-aggregate:
+      - count: '72'
+    snippet: '農民カフェ 下北沢店 (下北沢/自然食)の投稿された内観写真です。日本最大級のグルメ
+
+      サイト「食べログ」では、農民カフェ 下北沢店の内観写真49件を掲載中。'
+    title: '内観写真 : 農民カフェ 下北沢店 - 下北沢/自然食 [食べログ]'
+  - cacheId: c-Xys_7c1mQJ
+    displayLink: icotto.jp
+    formattedUrl: https://icotto.jp/presses/307
+    htmlFormattedUrl: https://icotto.jp/presses/307
+    htmlSnippet: '2016年6月17日 <b>...</b> 文房具、砂浜、プラネタリウム、ダーウィンといった、都内にある個性あふれるカフェで<br>
+
+      その世界観に浸ってみませんか？いつもと違う ... N3331 （エヌサンサンサンイチ） - <br>
+
+      御茶ノ水/カフェ [<b>食べログ</b>]. <b>食べログ</b> .... <b>農民カフェ</b> 下北沢店の詳細情報.'
+    htmlTitle: いつもの<b>カフェ</b>が飽きたあなた！都内のコンセプト<b>カフェ</b>9選 | icotto ...
+    kind: customsearch#result
+    link: https://icotto.jp/presses/307
+    pagemap:
+      cse_image:
+      - src: https://icotto.k-img.com/system/press_eye_catches/000/000/597/d39de8bbe671639695278bf2083643f81458e58c.jpg?1466158195
+      cse_thumbnail:
+      - height: '159'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzZnhtOzO_yMVAUqrARi6w-wmG3X6y3vLM1gkF00SJJyGp1uUkieDGn-w
+        width: '318'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: RkpGe3Sgn6MFeH3JBSfg0ulj5Dds1YTRn8+NhV/mTyueEVH24qMrl7wWJXDdFC6bIGx978C4IwO/RVnDACCb2w==
+        fb:app_id: '461760060690819'
+        msapplication-tilecolor: '#FF6726'
+        msapplication-tileimage: https://icotto.k-img.com/assets/favicon/mstile-144x144-5be26d0c0a73cb53f2dbdfe209d94bd89f57142d4df79c414ce117e46473f8b2.png
+        og:description: 行きつけのカフェは落ち着くけれど、たまには一味違ったお店にも行ってみたい……そんなあなたにオススメする、外観から内装、メニューまで、こだわり抜いた「コンセプトカフェ」をご紹介します。文房具、砂浜、プラネタリウム、ダーウィンといった、都内にある個性あふれるカフェでその世界観に浸ってみませんか？いつもと違う空間でゆったり過ごせば、気分もリフレッシュできるはずです。
+        og:image: https://icotto.k-img.com/system/press_eye_catches/000/000/597/d39de8bbe671639695278bf2083643f81458e58c.jpg?1466158195
+        og:locale: ja_JP
+        og:site_name: icotto（イコット） - 心みちるたび - 女性向け旅行・宿泊情報メディア
+        og:title: いつものカフェが飽きたあなた！都内のコンセプトカフェ9選
+        og:type: article
+        og:url: https://icotto.jp/presses/307
+        theme-color: '#19bfbf'
+        twitter:card: summary_large_image
+        twitter:site: '@icotto_official'
+        viewport: width=device-width,minimum-scale=1,initial-scale=1
+    snippet: "2016年6月17日 ... 文房具、砂浜、プラネタリウム、ダーウィンといった、都内にある個性あふれるカフェで\nその世界観に浸ってみませんか？いつもと違う\
+      \ ... N3331 （エヌサンサンサンイチ） - \n御茶ノ水/カフェ [食べログ]. 食べログ .... 農民カフェ 下北沢店の詳細情報."
+    title: いつものカフェが飽きたあなた！都内のコンセプトカフェ9選 | icotto ...
+  - cacheId: gWi-dpG8HPoJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1318/A131802/.../dtlrvwlst/?smp=1
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1318/A131802/.../dtlrvwlst/?smp=1
+    htmlSnippet: '<b>農民カフェ</b> 下北沢店 (下北沢/自然食)への口コミです。日本最大級のグルメサイト「<b>食べ</b><br>
+
+      <b>ログ</b>」では、<b>農民カフェ</b> 下北沢店の口コミ72件を掲載中。'
+    htmlTitle: '口コミ一覧 : <b>農民カフェ</b> 下北沢店 - 下北沢/自然食 [<b>食べログ</b>]'
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1318/A131802/13094528/dtlrvwlst/?smp=1
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京自然食
+        url: 東京自然食
+      - title: 京王・小田急沿線自然食
+        url: 京王・小田急沿線自然食
+      - title: 下北沢自然食
+        url: 下北沢自然食
+      - title: 下北沢駅自然食
+        url: 下北沢駅自然食
+      - title: 農民カフェ 下北沢店
+        url: 農民カフェ 下北沢店
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/91301/91301249.jpg?token=7882ae4&api=v2
+      cse_thumbnail:
+      - height: '215'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBCMZxcXN-Rlrxz2TVBHGNpIvg2_pJMqdUHrG6fp3WADuFJGO9EZ3nEp4u
+        width: '235'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: +2VZ0DhIp6cWUEyOGT1uom8aHgwvlu+YwevcXEAf5xwwC0oNIu2LUdwKq4AAUD/yNoCGc6e47xHZySC4zUu6hA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.14 ■≪下北沢駅徒歩3分≫日本の四季を愛でながらー…全国の”旬”野菜をオーガニック料理で堪能する ■予算(夜):￥3,000～￥3,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/91301/91301249.jpg?token=7882ae4&api=v2
+        og:title: 農民カフェ 下北沢店 (下北沢/自然食)
+        og:url: https://tabelog.com/tokyo/A1318/A131802/13094528/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - ratingcount: '72'
+        reviewer: 山藍
+      review-aggregate:
+      - count: '72'
+        reviewer: 山藍
+    snippet: '農民カフェ 下北沢店 (下北沢/自然食)への口コミです。日本最大級のグルメサイト「食べ
+
+      ログ」では、農民カフェ 下北沢店の口コミ72件を掲載中。'
+    title: '口コミ一覧 : 農民カフェ 下北沢店 - 下北沢/自然食 [食べログ]'
+  - cacheId: lnWl0qU2Nd8J
+    displayLink: blogs.yahoo.co.jp
+    formattedUrl: https://blogs.yahoo.co.jp/mous1215/24302857.html
+    htmlFormattedUrl: https://blogs.yahoo.co.jp/mous1215/24302857.html
+    htmlSnippet: '2011年5月3日 <b>...</b> 野菜スイーツあり！街の洋菓子店. ◎ <b>農民カフェ</b> 下北沢駅 <b>食べログ</b>
+      マクロビマウス <br>
+
+      ベジ対応可能！野菜が美味しいと評判の古民家カフェ. ◎ ８５BAL TEPPEN 三軒茶屋<br>
+
+      駅 <b>食べログ</b> マクロビマウス ヴィーガン対応もＯＫ！隠れ家オーガニック&nbsp;...'
+    htmlTitle: 日本全国ベジカフェリスト   世田谷区3/3 た～わ行 ( 飲食店 ) - ベジカフェ ...
+    kind: customsearch#result
+    link: https://blogs.yahoo.co.jp/mous1215/24302857.html
+    pagemap:
+      article:
+      - articlebody: リストのトップに 戻る ●マクロビオティック、ヴィーガンで植物性メニューがメインなお店◎ゆるべじ 又は ベジタリアンとそうでない人が一緒...
+        datepublished: '2011-05-03T21:21:44+09:00'
+        headline: 日本全国ベジカフェリスト★ 世田谷区3/3 た～わ行
+        name: 日本全国ベジカフェリスト★ 世田谷区3/3 た～わ行
+      breadcrumblist:
+      - title: 生活と文化
+        url: 生活と文化
+      - title: グルメ、ドリンク
+        url: グルメ、ドリンク
+      - title: 飲食店
+        url: 飲食店
+      cse_image:
+      - src: https://s.yimg.jp/images/socialproducts/blog/img2/blog_fb_ogp.png
+      cse_thumbnail:
+      - height: '163'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3XKMBwg-2X8P3PLVNGfPAVPgFbLLT93_-tfmTQgBV8YauiMhYUjPlfvI
+        width: '310'
+      metatags:
+      - category: 飲食店
+        epoch-publish-date: '1304425304'
+        fb:app_id: '387177061342135'
+        mixi-check-robots: noimage
+        og:description: リストのトップに 戻る ●マクロビオティック、ヴィーガンで植物性メニューがメインなお店 ◎ゆるべじ　又は　ベジタリアンとそうでない人が一緒に楽しめるお店
+          ○全て動物性使用だけど、ヘルシーなお店 お店の場所については、「食べログ」の中に詳しい...
+        og:image: https://s.yimg.jp/images/socialproducts/blog/img2/blog_fb_ogp.png
+        og:locale: ja_JP
+        og:site_name: ★ベジカフェ大好き★マクロビマウスの★日本ベジカフェガイド
+        og:title: 日本全国ベジカフェリスト★　世田谷区3/3　た～わ行 - ★ベジカフェ大好き★マクロビマウスの★日本ベジカフェガイド
+        og:type: article
+        og:url: https://blogs.yahoo.co.jp/mous1215/24302857.html
+        twitter:card: summary
+    snippet: "2011年5月3日 ... 野菜スイーツあり！街の洋菓子店. ◎ 農民カフェ 下北沢駅 食べログ マクロビマウス \nベジ対応可能！野菜が美味しいと評判の古民家カフェ.\
+      \ ◎ ８５BAL TEPPEN 三軒茶屋\n駅 食べログ マクロビマウス ヴィーガン対応もＯＫ！隠れ家オーガニック ..."
+    title: 日本全国ベジカフェリスト   世田谷区3/3 た～わ行 ( 飲食店 ) - ベジカフェ ...
+  - cacheId: bIQjRNjp3L0J
+    displayLink: ng-life.jp
+    formattedUrl: https://ng-life.jp/food/183/
+    htmlFormattedUrl: https://ng-life.jp/food/183/
+    htmlSnippet: '近頃では、レストランよりもカジュアルな形式の農家カフェ、農村カフェ、<b>農民カフェ</b>、など<br>
+
+      も注目され始めているんです。 ..... 時間：ランチ 11時～14時、カフェ 14時～17時、<br>
+
+      ディナー 17時30分～20時30分 定休日：水曜日 席数：60席 駐車場：46台. URL：<b>食べ</b><br>
+
+      <b>ログ</b>&nbsp;...'
+    htmlTitle: 新潟県内で話題の農家レストラン10店舗まとめ！デートにもおすすめ ...
+    kind: customsearch#result
+    link: https://ng-life.jp/food/183/
+    pagemap:
+      blogposting:
+      - articlebody: ※記事に記載されている店舗情報やプラン内容は変更されている場合があります。詳細については公式ホームページやお電話等でご確認ください...
+        datepublished: '2017-09-28'
+        description: 最近テレビや雑誌を見ていると頻繁に取り上げられている農家レストン。新潟県内ではここ数年でその店舗数が急増しています。しかもそのどれ...
+        headline: 新潟県内で話題の農家レストラン10店舗まとめ！デートにもおすすめ！
+        name: 新潟県内で話題の農家レストラン10店舗まとめ！デートにもおすすめ！
+      cse_image:
+      - src: https://ng-life.jp/mag/wp-content/uploads/2016/09/P019817780.jpg
+      cse_thumbnail:
+      - height: '194'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxpOP7kjli8Q419XJK-ZOlWKmDR8PQcadyORBG6tIcpuZCfbNflxLwa38
+        width: '259'
+      metatags:
+      - article:publisher: https://www.facebook.com/Niigata.Life.PJ/
+        msapplication-tileimage: https://ng-life.jp/mag/wp-content/uploads/2016/10/cropped-favicon-270x270.png
+        og:description: 最近テレビや雑誌を見ていると頻繁に取り上げられている農家レストン。新潟県内ではここ数年でその店舗数が急増しています。しかもそのどれもが人気を呼び繁盛店となっているようです。今回はそんな話題の新潟県内農家レストランをまとめてみました。家族での外食はもちろん、デートとしても使えるスポットですので、チェックしておいて損はないはず！
+        og:image: https://ng-life.jp/mag/wp-content/uploads/2016/09/P019817780.jpg
+        og:image:height: '495'
+        og:image:secure_url: https://ng-life.jp/mag/wp-content/uploads/2016/09/P019817780.jpg
+        og:image:width: '660'
+        og:locale: ja_JP
+        og:site_name: 新潟永住計画
+        og:title: 新潟県内で話題の農家レストラン10店舗まとめ！デートにもおすすめ！ | 新潟永住計画
+        og:type: article
+        og:url: https://ng-life.jp/food/183/
+        position: '1'
+        twitter:card: summary_large_image
+        twitter:creator: '@Niigata_Life_PJ'
+        twitter:description: 最近テレビや雑誌を見ていると頻繁に取り上げられている農家レストン。新潟県内ではここ数年でその店舗数が急増しています。しかもそのどれもが人気を呼び繁盛店となっているようです。今回はそんな話題の新潟県内農家レストランをまとめてみました。家族での外食はもちろん、デートとしても使えるスポットですので、チェックしておいて損はないはず！
+        twitter:image: https://ng-life.jp/mag/wp-content/uploads/2016/09/P019817780.jpg
+        twitter:site: '@Niigata_Life_PJ'
+        twitter:title: 新潟県内で話題の農家レストラン10店舗まとめ！デートにもおすすめ！ | 新潟永住計画
+        viewport: width=1000
+    snippet: '近頃では、レストランよりもカジュアルな形式の農家カフェ、農村カフェ、農民カフェ、など
+
+      も注目され始めているんです。 ..... 時間：ランチ 11時～14時、カフェ 14時～17時、
+
+      ディナー 17時30分～20時30分 定休日：水曜日 席数：60席 駐車場：46台. URL：食べ
+
+      ログ ...'
+    title: 新潟県内で話題の農家レストラン10店舗まとめ！デートにもおすすめ ...
+  - cacheId: UhkK0LBI-roJ
+    displayLink: play-life.jp
+    formattedUrl: https://play-life.jp/plans/7705
+    htmlFormattedUrl: https://play-life.jp/plans/7705
+    htmlSnippet: '2015年11月12日 <b>...</b> 今回は、食べ歩きスポットやハンモックがある素敵な旅人カフェ、おかえりなさいが<br>
+
+      コンセプトの<b>農民カフェ</b>でのんびり ... 【<b>食べログ</b>】http://<b>tabelog</b>.com/tokyo/A1318/<br>
+
+      A131802/13163101/ ... 下北沢駅から徒歩5分の<b>農民カフェ</b>に行きましょう！'
+    htmlTitle: 休日は下北沢でのんびりデートをしよう！まったりできるハンモック<b>カフェ</b>と ...
+    kind: customsearch#result
+    link: https://play-life.jp/plans/7705
+    pagemap:
+      cse_image:
+      - src: https://d17vjxfu0igzun.cloudfront.net/images/8ee73eae4663ae00ddf88ad4ad9c0452/1200x630c/spot_photos/73498/original-b5684b834dee963453a3a3abd7c7a6571a104e7f.jpg
+      cse_thumbnail:
+      - height: '163'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9DxUZ5VBqt_LyPTWR940uX8Usvh7JQfjc8ylBlffyax70k41mCIMU1hM
+        width: '310'
+      listitem:
+      - item: TOP
+        name: TOP
+        position: '1'
+      - item: 関東
+        name: 関東
+        position: '2'
+      - item: 東京都
+        name: 東京都
+        position: '3'
+      - item: 下北沢・三軒茶屋
+        name: 下北沢・三軒茶屋
+        position: '4'
+      - item: 下北沢・三軒茶屋×デート
+        name: 下北沢・三軒茶屋×デート
+        position: '5'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: XaTA2Bki7EDSLzwycWVLnNbIg43LNNAL63nT+genexB+lL8ps+EPBAp6MThT2yzIPGT9nwKylGopwmdoP3ZJtg==
+        fb:app_id: '421020627958349'
+        og:description: 渋谷から近い下北沢のデートスポットをご紹介します。下北沢は可愛い雑貨屋さんや古着屋さんなど、まったりお散歩デートしたいカップルに大変おすすめです。今回は、食べ歩きスポットやハンモックがある素敵な旅人カフェ、おかえりなさいがコンセプトの農民カフェでのんびりデートしてみました♡他にも、恵比寿デートに人気穴場カフェ3選！ランチやのんびりデートにおすすめ！を紹介♪
+          ⇒http://play-life.jp/plans/3247
+        og:image: https://d17vjxfu0igzun.cloudfront.net/images/8ee73eae4663ae00ddf88ad4ad9c0452/1200x630c/spot_photos/73498/original-b5684b834dee963453a3a3abd7c7a6571a104e7f.jpg
+        og:locale: ja_JP
+        og:site_name: PlayLife [プレイライフ]
+        og:title: 休日は下北沢でのんびりデートをしよう！まったりできるハンモックカフェと農民カフェ♡ | PlayLife [プレイライフ]
+        og:type: website
+        og:url: https://play-life.jp/plans/7705
+        twitter:card: summary_large_image
+        viewport: width=device-width, initial-scale=1
+    snippet: '2015年11月12日 ... 今回は、食べ歩きスポットやハンモックがある素敵な旅人カフェ、おかえりなさいが
+
+      コンセプトの農民カフェでのんびり ... 【食べログ】http://tabelog.com/tokyo/A1318/
+
+      A131802/13163101/ ... 下北沢駅から徒歩5分の農民カフェに行きましょう！'
+    title: 休日は下北沢でのんびりデートをしよう！まったりできるハンモックカフェと ...
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: 農民カフェ 食べログ
+      startIndex: 11
+      title: Google Custom Search - 農民カフェ 食べログ
+      totalResults: '35800'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: 農民カフェ 食べログ
+      startIndex: 1
+      title: Google Custom Search - 農民カフェ 食べログ
+      totalResults: '35800'
+  searchInformation:
+    formattedSearchTime: '0.35'
+    formattedTotalResults: 35,800
+    searchTime: 0.349259
+    totalResults: '35800'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 19:42:56
+snapshot_ymd: '20190424'

@@ -1,5 +1,16 @@
 # influencer
 
+## 使い方
+
+- 名前、詳細を調べる
+- `python create_cafe.py 名前 詳細`
+- `python get.py num`
+- 写真を選別して`post_tweets/{num}`に入れていく
+- `python rename_images.py num`
+- push する
+- `deploy`
+
+
 ## ソース
 - 1-12
 https://kurashi-no.jp/I0023128

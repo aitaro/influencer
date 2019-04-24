@@ -5,3 +5,6 @@ __pycache__
 log/*
 !log/.keep
 cronsh.log
+.DS_Store
+post_tweets/*/food/
+post_tweets/*/shop/
