@@ -59,8 +59,8 @@ def delete_tweet(num):
     tweet_data_path = f'post_tweets/{num}'
     f = open(tweet_data_path + "/tweet.yml", "r")
     d = yaml.load(f, Loader=yaml.FullLoader)
-    id = d['id']
-    tweepyapi.destroy_status(id)
+    id = d.get('id')
+    if id: tweepyapi.destroy_status(id)
     d.pop('id')
     with open(tweet_data_path + "/tweet.yml", "w") as wf:
         yaml.dump(d, wf, allow_unicode=True)
