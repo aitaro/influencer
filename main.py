@@ -4,6 +4,7 @@ import tweepy
 import yaml
 from pdb import set_trace
 import os
+import random
 auth = tweepy.OAuthHandler(config.CONSUMER_KEY, config.CONSUMER_SECRET)
 auth.set_access_token(config.ACCESS_TOKEN, config.ACCESS_TOKEN_SECRET)
 
@@ -65,11 +66,19 @@ def delete_tweet(num):
         yaml.dump(d, wf, allow_unicode=True)
     return 'success'
 
+def can_tweet(num):
+    return os.path.exists(f'post_tweets/{num}/tweet.yml')
+
 if __name__ == '__main__':
     # print(search())
     current_no = get_current_no()
-    current_no += 1
-    print(tweet(current_no))
-    set_current_no(current_no)
+    if can_tweet(current_no+1):
+        current_no += 1
+        print(tweet(current_no))
+        set_current_no(current_no)
+    else:
+        tweet_again_no = random.randint(1,current_no-5)
+        delete_tweet(tweet_again_no)
+        print(tweet(tweet_again_no))
 
 print('hello main python finished')
