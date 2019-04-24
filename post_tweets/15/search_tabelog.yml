@@ -1,0 +1,467 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: sb_Xp-DwSEYJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1301/A130101/13157424/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1301/A130101/13157424/
+    htmlSnippet: 'セントル ザ・ベーカリー/<b>CENTRE THE BAKERY</b> (銀座一丁目/パン)の店舗情報は<b>食べ</b><br>
+
+      <b>ログ</b>でチェック！本当においしい食パン、究極のサンドイッチをご提供してます！ 【禁煙】<br>
+
+      口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理&nbsp;...'
+    htmlTitle: セントル ザ・ベーカリー （<b>CENTRE THE BAKERY</b>） - 銀座一丁目/パン ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1301/A130101/13157424/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京パン
+        url: 東京パン
+      - title: 銀座・新橋・有楽町パン
+        url: 銀座・新橋・有楽町パン
+      - title: 銀座パン
+        url: 銀座パン
+      - title: 銀座一丁目駅パン
+        url: 銀座一丁目駅パン
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/101661/101661337.jpg?token=8fdecce&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmAQA5Feb0BKgpLEQtYuFgwNlSQFnaPV_s4-quJPScHE4N9Mj75IyghxV
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: ZBrZVyEdcWdPCzKhvlBB1Zlr7VLeHDYvWFO5uXXP4ZmBNvr6UKBUfFCPvFfFR6h3Lj4uZqogMNMZYLQTtwNNRA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.71 ■本当においしい食パン、究極のサンドイッチをご提供してます！ ■予算(夜):￥1,000～￥1,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/101661/101661337.jpg?token=8fdecce&api=v2
+        og:title: セントル ザ・ベーカリー (銀座一丁目/パン)
+        og:url: https://tabelog.com/tokyo/A1301/A130101/13157424/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'セントル ザ・ベーカリー/CENTRE THE BAKERY (銀座一丁目/パン)の店舗情報は食べ
+
+      ログでチェック！本当においしい食パン、究極のサンドイッチをご提供してます！ 【禁煙】
+
+      口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理 ...'
+    title: セントル ザ・ベーカリー （CENTRE THE BAKERY） - 銀座一丁目/パン ...
+  - cacheId: SByKvVFTAr8J
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/cn/tokyo/A1301/A130101/.../dtlrvwlst/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/cn/tokyo/A1301/A130101/.../dtlrvwlst/
+    htmlSnippet: 关于<b>CENTRE THE BAKERY</b> (银座/面包)的感想。（简体中文）
+    htmlTitle: 评论列表 :<b>CENTRE THE BAKERY</b>[<b>食べログ</b>]（简体中文）
+    kind: customsearch#result
+    link: https://s.tabelog.com/cn/tokyo/A1301/A130101/13157424/dtlrvwlst/
+    pagemap:
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: yQlPV09ImBO8Sk7ou1ZhWcOiel/xBllgI5wOdkAlifCiXQX1qBplpeQDtFJ3iMAdix2oLP0jZl/qjTwALThVrQ==
+        format-detection: telephone=no
+        viewport: width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no
+    snippet: 关于CENTRE THE BAKERY (银座/面包)的感想。（简体中文）
+    title: 评论列表 :CENTRE THE BAKERY[食べログ]（简体中文）
+  - cacheId: HEMSnDfUefsJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/en/tokyo/A1301/A130101/13157424/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/en/tokyo/A1301/A130101/13157424/
+    htmlSnippet: '<b>CENTRE</b> THE BAKERYCheck out the information about Bread restaurants
+      in <br>
+
+      Ginza at <b>Tabelog</b>! It&#39;s full of real information like reviews, ratings,
+      and photos <br>
+
+      posted by users! It also has enough detailed information like maps and menus.'
+    htmlTitle: <b>CENTRE THE BAKERY</b> - Ginza/Bread [<b>Tabelog</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/en/tokyo/A1301/A130101/13157424/
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/101661/200x200_square_101661337.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1PI1QSpcV5uzXaDxmQ7IBpfinAigxFxITRT36EH8XPln8lHYpi_zWebxc
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: Q2F32blnJb2H3kU76MCqghAX9DEsbfoSAmwoOOSjRdJxnNhOM1FwnBJb4XMekJuUtRsxqYsJ/oZLGkEE1/na3w==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: CENTRE THE BAKERYCheck out the information about Bread restaurants
+          in Ginza at Tabelog! It's full of real information like reviews, ratings,
+          and photos posted by users! It also has enough detailed information like
+          maps and menus.
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/101661/200x200_square_101661337.jpg
+        og:site_name: Tabelog
+        og:title: CENTRE THE BAKERY - Ginza/Bread [Tabelog]
+        og:type: website
+        tblg-ajax-token: 10303105679f684561652d904664d2f31d14384f
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1024
+        y_key: 6b4002d5be0a5d72
+    snippet: "CENTRE THE BAKERYCheck out the information about Bread restaurants in\
+      \ \nGinza at Tabelog! It's full of real information like reviews, ratings, and\
+      \ photos \nposted by users! It also has enough detailed information like maps\
+      \ and menus."
+    title: CENTRE THE BAKERY - Ginza/Bread [Tabelog]
+  - cacheId: k6b6NPMcQPUJ
+    displayLink: omoharareal.com
+    formattedUrl: https://omoharareal.com/navi/eat-drink/detail/1372
+    htmlFormattedUrl: https://omoharareal.com/navi/eat-drink/detail/1372
+    htmlSnippet: '2019年1月5日 <b>...</b> CATEGORY : <b>食べログ</b>3.5超え / テイクアウト. <b>CENTRE
+      THE BAKERY</b>青山店 / <br>
+
+      ベーシックの究極を貫く“できたて食パン専門店” ... 様々な工夫を凝らしたパン屋が点在<br>
+
+      するこの街で、ベーシックの究極を貫くセントル・ザ・ベーカリー青山。'
+    htmlTitle: <b>CENTRE THE BAKERY</b>青山店 / ベーシックの究極を貫く“できたて ...
+    kind: customsearch#result
+    link: https://omoharareal.com/navi/eat-drink/detail/1372
+    pagemap:
+      cse_image:
+      - src: https://omoharareal.com/image/area/ead910fe0123a9b89778_l.jpg
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-Wl1MFdj6mPMMm1j1W9DXbNXCc9FmzHFID0p00h-ehZguMydbWQ9cLQU
+        width: '275'
+      metatags:
+      - fb:app_id: '228322527772053'
+        og:description: この食パンに出会ってからというもの、毎朝起きるのが楽しみで仕方ない。銀座で120分待ちの行列を作る“...
+        og:image: https://omoharareal.com/image/area/ead910fe0123a9b89778_l.jpg
+        og:locale: ja_JP
+        og:title: CENTRE THE BAKERY青山店 / ベーシックの究極を貫く“できたて食パン専門店”｜表参道＆原宿のメディア - OMOHARAREAL
+        og:type: website
+        og:url: https://omoharareal.com/navi/eat-drink/detail/1372
+        twitter:card: summary_large_image
+        twitter:creator: '@OMOHARAREAL'
+        twitter:domain: omoharareal.com/
+        twitter:image: https://omoharareal.com/image/area/ead910fe0123a9b89778_l.jpg
+        twitter:site: '@OMOHARAREAL'
+        viewport: width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1
+    snippet: "2019年1月5日 ... CATEGORY : 食べログ3.5超え / テイクアウト. CENTRE THE BAKERY青山店 /\
+      \ \nベーシックの究極を貫く“できたて食パン専門店” ... 様々な工夫を凝らしたパン屋が点在\nするこの街で、ベーシックの究極を貫くセントル・ザ・ベーカリー青山。"
+    title: CENTRE THE BAKERY青山店 / ベーシックの究極を貫く“できたて ...
+  - cacheId: ffV2vP96d7oJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1301/A130101/.../dtlrvwlst/?smp=1
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1301/A130101/.../dtlrvwlst/?smp=1
+    htmlSnippet: 'セントル ザ・ベーカリー/<b>CENTRE THE BAKERY</b> (銀座一丁目/パン)への口コミです。<br>
+
+      日本最大級のグルメサイト「<b>食べログ</b>」では、セントル ザ・ベーカリー/<b>CENTRE THE</b> <br>
+
+      <b>BAKERY</b>の口コミ772件を掲載中。'
+    htmlTitle: '口コミ一覧 : セントル ザ・ベーカリー （<b>CENTRE THE BAKERY</b>） - 銀座一 ...'
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1301/A130101/13157424/dtlrvwlst/?smp=1
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京パン
+        url: 東京パン
+      - title: 銀座・新橋・有楽町パン
+        url: 銀座・新橋・有楽町パン
+      - title: 銀座パン
+        url: 銀座パン
+      - title: 銀座一丁目駅パン
+        url: 銀座一丁目駅パン
+      - title: セントル ザ・ベーカリー
+        url: セントル ザ・ベーカリー
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/101661/101661337.jpg?token=8fdecce&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmAQA5Feb0BKgpLEQtYuFgwNlSQFnaPV_s4-quJPScHE4N9Mj75IyghxV
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: zqGbviQgqAEuIaX1pmL+5MiglnxUpxdKOBAbIWwiXhyBf5NYcqVQlPnl3ZLDYgk5ojYf2s5Fpgkq7yCZ5UpIJg==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.71 ■本当においしい食パン、究極のサンドイッチをご提供してます！ ■予算(夜):￥1,000～￥1,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/101661/101661337.jpg?token=8fdecce&api=v2
+        og:title: セントル ザ・ベーカリー (銀座一丁目/パン)
+        og:url: https://tabelog.com/tokyo/A1301/A130101/13157424/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - ratingcount: '772'
+        reviewer: BQグルメ王
+      review-aggregate:
+      - count: '772'
+        reviewer: BQグルメ王
+    snippet: "セントル ザ・ベーカリー/CENTRE THE BAKERY (銀座一丁目/パン)への口コミです。\n日本最大級のグルメサイト「食べログ」では、セントル\
+      \ ザ・ベーカリー/CENTRE THE \nBAKERYの口コミ772件を掲載中。"
+    title: '口コミ一覧 : セントル ザ・ベーカリー （CENTRE THE BAKERY） - 銀座一 ...'
+  - cacheId: gNDif3W9BpwJ
+    displayLink: matome.naver.jp
+    formattedUrl: https://matome.naver.jp/odai/.../2153716952653848903
+    htmlFormattedUrl: https://matome.naver.jp/odai/.../2153716952653848903
+    htmlSnippet: '2018年9月17日 <b>...</b> セントル ザ・ベーカリー/<b>CENTRE THE BAKERY</b> (銀座一丁目/パン)の店舗情報は<b>食べ</b><br>
+
+      <b>ログ</b>でチェック！本当においしい食パン、究極のサンドイッチをご提供してます！ 【禁煙】<br>
+
+      口コミや評価、写真など、ユーザーによるリアルな情報が満載です&nbsp;...'
+    htmlTitle: セントル ザ・ベーカリー （<b>CENTRE THE BAKERY</b>） - 銀座一丁目/パン ...
+    kind: customsearch#result
+    link: https://matome.naver.jp/odai/2153716802752861501/2153716952653848903
+    pagemap:
+      cse_image:
+      - src: https://rr.img.naver.jp/mig?src=https%3A%2F%2Fmedia.gettyimages.com%2Fphotos%2F-picture-id87832310%3Fb%3D1%26k%3D6%26m%3D87832310%26s%3D612x612%26w%3D0%26h%3DtrJJroVvEw9B6QsSlcTticH2aQIsvoQOepbjQN1gH7g%3D&twidth=1200&theight=1200&qlt=80&res_format=jpg&op=r
+      cse_thumbnail:
+      - height: '280'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpvtlVHwaatNj1kKuStxuczTEIuk4-1cE3HzeIOBBd58VTbGmUjtASRuI
+        width: '180'
+      metatags:
+      - fb:admins: '100002409002490'
+        fb:app_id: '115249445227759'
+        og:description: セントル ザ・ベーカリー （CENTRE THE BAKERY） - 銀座一丁目/パン [食べログ]
+        og:image: https://rr.img.naver.jp/mig?src=https%3A%2F%2Fmedia.gettyimages.com%2Fphotos%2F-picture-id87832310%3Fb%3D1%26k%3D6%26m%3D87832310%26s%3D612x612%26w%3D0%26h%3DtrJJroVvEw9B6QsSlcTticH2aQIsvoQOepbjQN1gH7g%3D&twidth=1200&theight=1200&qlt=80&res_format=jpg&op=r
+        og:site_name: NAVER まとめ
+        og:title: 'セントル ザ・ベーカリー （CENTRE THE BAKERY） - 銀座一丁目/パン [食べログ] : 絶対に食べるべき！東京の絶品食パンまとめ♡
+          - NAVER まとめ'
+        og:type: article
+        og:url: https://matome.naver.jp/odai/2153716802752861501/2153716952653848903
+        referrer: unsafe-url
+        twitter:card: summary_large_image
+        twitter:description: セントル ザ・ベーカリー （CENTRE THE BAKERY） - 銀座一丁目/パン [食べログ]
+        twitter:image:src: https://rr.img.naver.jp/mig?src=https%3A%2F%2Fmedia.gettyimages.com%2Fphotos%2F-picture-id87832310%3Fb%3D1%26k%3D6%26m%3D87832310%26s%3D612x612%26w%3D0%26h%3DtrJJroVvEw9B6QsSlcTticH2aQIsvoQOepbjQN1gH7g%3D&twidth=1200&theight=1200&qlt=80&res_format=jpg&op=r
+        twitter:site: '@matomenaver'
+        twitter:title: 'セントル ザ・ベーカリー （CENTRE THE BAKERY） - 銀座一丁目/パン [食べログ] : 絶対に食べるべき！東京の絶品食パンまとめ♡
+          - NAVER まとめ'
+    snippet: '2018年9月17日 ... セントル ザ・ベーカリー/CENTRE THE BAKERY (銀座一丁目/パン)の店舗情報は食べ
+
+      ログでチェック！本当においしい食パン、究極のサンドイッチをご提供してます！ 【禁煙】
+
+      口コミや評価、写真など、ユーザーによるリアルな情報が満載です ...'
+    title: セントル ザ・ベーカリー （CENTRE THE BAKERY） - 銀座一丁目/パン ...
+  - cacheId: 5Y9qFNAHWxgJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/en/tokyo/A1306/A130602/13227934/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/en/tokyo/A1306/A130602/13227934/
+    htmlSnippet: '2018年11月1日 <b>...</b> <b>CENTRE</b> THE BAKERYCheck out the information
+      about Bread restaurants in <br>
+
+      Omotesando at <b>Tabelog</b>! It&#39;s full of real information like reviews,
+      ratings, and <br>
+
+      photos posted by users! It also has enough detailed information like&nbsp;...'
+    htmlTitle: <b>CENTRE THE BAKERY</b> - Omotesando/Bread [<b>Tabelog</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/en/tokyo/A1306/A130602/13227934/
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/97012/200x200_square_97012277.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBdJol2w9HtrrvOEc0lSZ7xg5SoHVj704FWjRnj78YEPwmm5BAn9n9277d
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: yMma1YsKZRQPaVdRMfCC2BExMkGuxwhuztkN3nkaRopJlAvRT7hO9YqJPfCjNB9ieEu7SMgb/5idIWJw6btKdA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: CENTRE THE BAKERYCheck out the information about Bread restaurants
+          in Omotesando at Tabelog! It's full of real information like reviews, ratings,
+          and photos posted by users! It also has enough detailed information like
+          maps and menus.
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/97012/200x200_square_97012277.jpg
+        og:site_name: Tabelog
+        og:title: CENTRE THE BAKERY - Omotesando/Bread [Tabelog]
+        og:type: website
+        tblg-ajax-token: 5fb699198a3e84c1f5961e6ac98d7a213217b704
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1024
+        y_key: 6b4002d5be0a5d72
+    snippet: "2018年11月1日 ... CENTRE THE BAKERYCheck out the information about Bread\
+      \ restaurants in \nOmotesando at Tabelog! It's full of real information like\
+      \ reviews, ratings, and \nphotos posted by users! It also has enough detailed\
+      \ information like ..."
+    title: CENTRE THE BAKERY - Omotesando/Bread [Tabelog]
+  - cacheId: eIUFp21UsA0J
+    displayLink: retty.me
+    formattedUrl: https://retty.me/area/PRE13/ARE2/SUB201/.../14828493/
+    htmlFormattedUrl: https://retty.me/area/PRE13/ARE2/SUB201/.../14828493/
+    htmlSnippet: "2016年3月26日 <b>...</b> 【食パン日誌8️⃣2️⃣】<b>食べログ</b>3.69人気パン屋さんVIRONがてがける食パン専門店‼<br>\n\
+      \  オープン前からすごい行列 ... セントル ザ・ベーカリー <b>CENTRE THE BAKERY</b>. 人気<br>\n店. パン屋 ....\
+      \ セントル ザ・ベーカリーの店舗情報 修正依頼. ジャンル."
+    htmlTitle: セントル ザ・<b>ベーカリー</b>「【食パン日誌8️⃣2️⃣】<b>食べログ</b>3.69人気パン...」
+    kind: customsearch#result
+    link: https://retty.me/area/PRE13/ARE2/SUB201/100000843513/14828493/
+    pagemap:
+      cse_image:
+      - src: https://img.retty.me/img_repo/l/01/6145291.jpg
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR06PIPxe2qO3N_KVVvL0Dm8Fq8SXcNXGiJV0K9TVtV9K5kPcLXePhZNVc
+        width: '225'
+      metatags:
+      - al:ios:app_name: Retty
+        al:ios:app_store_id: '473919569'
+        al:ios:url: retty://?page=restaurant&restaurant_id=100000843513
+        fb:app_id: '218159034880392'
+        og:description: 実名口コミNo.1グルメサービスRetty(レッティ)。行って良かったお店が見つかります。掲載店舗数も国内最大級の約80万店舗。4,000万人以上のユーザーさんにご利用いただいております。
+        og:image: https://img.retty.me/img_repo/l/01/6145291.jpg
+        og:locale: ja_JP
+        og:site_name: Retty（レッティ）
+        og:title: セントル ザ・ベーカリー  -Retty (レッティ)
+        og:type: rettyme:report
+        og:url: https://retty.me/area/PRE13/ARE2/SUB201/100000843513/14828493/
+        twitter:card: summary_large_image
+        twitter:description: 実名口コミNo.1グルメサービスRetty(レッティ)。行って良かったお店が見つかります。掲載店舗数も国内最大級の約80万店舗。4,000万人以上のユーザーさんにご利用いただいております。
+        twitter:image: https://img.retty.me/img_repo/l/01/6145291.jpg
+        twitter:site: '@Retty_jp'
+        twitter:title: セントル ザ・ベーカリー  -Retty (レッティ)
+        twitter:url: https://retty.me/area/PRE13/ARE2/SUB201/100000843513/14828493/
+    snippet: "2016年3月26日 ... 【食パン日誌8️⃣2️⃣】食べログ3.69人気パン屋さんVIRONがてがける食パン専門店‼\n  オープン前からすごい行列\
+      \ ... セントル ザ・ベーカリー CENTRE THE BAKERY. 人気\n店. パン屋 .... セントル ザ・ベーカリーの店舗情報 修正依頼.\
+      \ ジャンル."
+    title: セントル ザ・ベーカリー「【食パン日誌8️⃣2️⃣】食べログ3.69人気パン...」
+  - cacheId: i8gcwqTOwH4J
+    displayLink: press.chiku-wa.jp
+    formattedUrl: https://press.chiku-wa.jp/press_3026/
+    htmlFormattedUrl: https://press.chiku-wa.jp/press_3026/
+    htmlSnippet: '2019年3月20日 <b>...</b> 出典： <b>食べログ</b>. 表参道駅B2出口から徒歩3分にある「セントル ザ・ベーカリー
+      青山店（<br>
+
+      <b>CENTRE THE BAKERY</b>）」は、銀座と青山に店舗を構える人気のパン屋さん。行列で<br>
+
+      有名な銀座店に比べて、青山店は比較的スムーズに購入できますよ。'
+    htmlTitle: モッチリ派？ ふわふわ派？ 青山・表参道エリアの食パンが美味しいお店 ...
+    kind: customsearch#result
+    link: https://press.chiku-wa.jp/press_3026/
+    pagemap:
+      breadcrumb:
+      - url: ホーム
+      - url: おでかけ情報
+      cse_image:
+      - src: https://chiku-wa.jp/system/press_image/2019/03/12/AmW4Bl_NLwxSBx0HIcwMRh_ZXDJdjV595GCQDQnnMNQ/extract/e5a3eb1f273f5508936aaba65ad28cbb.jpg
+      cse_thumbnail:
+      - height: '259'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdIBNg0KCWrZSNS9va_V8h--ZpvRgc9T6HaZ62NGAp7tCNTuGhE_Ko_vjD
+        width: '194'
+      metatags:
+      - device: pc
+        fb:app_id: '1041338602571389'
+        og:description: 「モッチリ派？ ふわふわ派？ 青山・表参道エリアの食パンが美味しいお店 5選」の記事です。最近、高級食パンが流行っていますよね。特に青山・表参道エリアには、美味しいパン屋さんがたくさんあると評判です。そこで今回は、特に食パンがおすすめのお店をご紹介。美味しいパンとコーヒーで贅沢な朝の時間を…
+        og:image: https://chiku-wa.jp/system/press_image/2019/03/12/AmW4Bl_NLwxSBx0HIcwMRh_ZXDJdjV595GCQDQnnMNQ/extract/e5a3eb1f273f5508936aaba65ad28cbb.jpg
+        og:site_name: ちくわ。
+        og:title: モッチリ派？ ふわふわ派？ 青山・表参道エリアの食パンが美味しいお店 5選｜ちくわ。
+        og:type: article
+        og:url: https://press.chiku-wa.jp/press_3026/
+        twitter:card: summary_large_image
+        twitter:site: '@CHIKU_WA_jp'
+        viewport: width=1060
+    snippet: '2019年3月20日 ... 出典： 食べログ. 表参道駅B2出口から徒歩3分にある「セントル ザ・ベーカリー 青山店（
+
+      CENTRE THE BAKERY）」は、銀座と青山に店舗を構える人気のパン屋さん。行列で
+
+      有名な銀座店に比べて、青山店は比較的スムーズに購入できますよ。'
+    title: モッチリ派？ ふわふわ派？ 青山・表参道エリアの食パンが美味しいお店 ...
+  - cacheId: 6FV0JjK3VjUJ
+    displayLink: retty.me
+    formattedUrl: https://retty.me/area/PRE13/ARE23/SUB2301/.../38382273/
+    htmlFormattedUrl: https://retty.me/area/PRE13/ARE23/SUB2301/.../38382273/
+    htmlSnippet: '2019年3月3日 <b>...</b> 青山に行ったので、パンを買って帰ろうと思っていたところ❤  そうだ！？高級食パン屋<br>
+
+      さんはないだろうか？って<b>食べログ</b>見てたら セントル<b>ベーカリー</b>が青山学院の道路の<br>
+
+      反対側向かい側にあるー！❤   や…(投稿日時:2019年03月04日&nbsp;...'
+    htmlTitle: <b>CENTRE THE BAKERY</b> 青山店「青山に行ったので、パンを買って帰 ...
+    kind: customsearch#result
+    link: https://retty.me/area/PRE13/ARE23/SUB2301/100001440593/38382273/
+    pagemap:
+      cse_image:
+      - src: https://ximg.retty.me/crop/s600x600/-/retty/img_repo/l/01/19303638.jpg
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjQlGGvQcT_rt5FGrFimz_PwWTSLCkvuhIPX0AdCHBWctbCcrG-jrbqzhT
+        width: '225'
+      metatags:
+      - al:ios:app_name: Retty
+        al:ios:app_store_id: '473919569'
+        al:ios:url: retty://?page=restaurant&restaurant_id=100001440593
+        fb:app_id: '218159034880392'
+        og:description: 実名口コミNo.1グルメサービスRetty(レッティ)。行って良かったお店が見つかります。掲載店舗数も国内最大級の約80万店舗。4,000万人以上のユーザーさんにご利用いただいております。
+        og:image: https://ximg.retty.me/crop/s600x600/-/retty/img_repo/l/01/19303638.jpg
+        og:locale: ja_JP
+        og:site_name: Retty（レッティ）
+        og:title: CENTRE THE BAKERY 青山店 -Retty (レッティ)
+        og:type: rettyme:report
+        og:url: https://retty.me/area/PRE13/ARE23/SUB2301/100001440593/38382273/
+        twitter:card: summary_large_image
+        twitter:description: 実名口コミNo.1グルメサービスRetty(レッティ)。行って良かったお店が見つかります。掲載店舗数も国内最大級の約80万店舗。4,000万人以上のユーザーさんにご利用いただいております。
+        twitter:image: https://ximg.retty.me/crop/s600x600/-/retty/img_repo/l/01/19303638.jpg
+        twitter:site: '@Retty_jp'
+        twitter:title: CENTRE THE BAKERY 青山店 -Retty (レッティ)
+        twitter:url: https://retty.me/area/PRE13/ARE23/SUB2301/100001440593/38382273/
+    snippet: '2019年3月3日 ... 青山に行ったので、パンを買って帰ろうと思っていたところ❤  そうだ！？高級食パン屋
+
+      さんはないだろうか？って食べログ見てたら セントルベーカリーが青山学院の道路の
+
+      反対側向かい側にあるー！❤   や…(投稿日時:2019年03月04日 ...'
+    title: CENTRE THE BAKERY 青山店「青山に行ったので、パンを買って帰 ...
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: CENTRE THE BAKERY 食べログ
+      startIndex: 11
+      title: Google Custom Search - CENTRE THE BAKERY 食べログ
+      totalResults: '9840'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: CENTRE THE BAKERY 食べログ
+      startIndex: 1
+      title: Google Custom Search - CENTRE THE BAKERY 食べログ
+      totalResults: '9840'
+  searchInformation:
+    formattedSearchTime: '0.34'
+    formattedTotalResults: 9,840
+    searchTime: 0.340109
+    totalResults: '9840'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 13:52:23
+snapshot_ymd: '20190424'

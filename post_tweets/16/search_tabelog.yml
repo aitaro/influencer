@@ -1,0 +1,484 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: nLCHepRyn-EJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1302/A130201/13136099/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1302/A130201/13136099/
+    htmlSnippet: '<b>メゾンカイザーカフェ 丸の内店</b>/Maison Kayser Café (東京/カフェ)の店舗情報は<b>食べ</b><br>
+
+      <b>ログ</b>でチェック！【大手町駅 徒歩1分】メゾンカイザーカフェ１号店。 【禁煙 / ネット予約可<br>
+
+      】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理&nbsp;...'
+    htmlTitle: <b>メゾンカイザーカフェ 丸の内店</b> （Maison Kayser Café） - 東京/カフェ ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1302/A130201/13136099/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 東京・日本橋カフェ
+        url: 東京・日本橋カフェ
+      - title: 丸の内カフェ
+        url: 丸の内カフェ
+      - title: 大手町駅カフェ
+        url: 大手町駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/38834/38834437.jpg?token=8456afb&api=v2
+      cse_thumbnail:
+      - height: '231'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8XWwaNoqxHk4BwuQNLEfzBgm9doLHhgL5lNH6hldsWEjjKl-qA6DYumpH
+        width: '219'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: tl8pzWYp3qHT6bNp6mT/ifUkDiRFeZ68wYQFVR4THR+t3NDGKOeeiD9u3QTuKI0zWgEdEINEd2UqXhp7+i3huA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.51 ■【大手町駅 徒歩1分】メゾンカイザーカフェ１号店。 ■予算(夜):￥3,000～￥3,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/38834/38834437.jpg?token=8456afb&api=v2
+        og:title: メゾンカイザーカフェ 丸の内店 (東京/カフェ)
+        og:url: https://tabelog.com/tokyo/A1302/A130201/13136099/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'メゾンカイザーカフェ 丸の内店/Maison Kayser Café (東京/カフェ)の店舗情報は食べ
+
+      ログでチェック！【大手町駅 徒歩1分】メゾンカイザーカフェ１号店。 【禁煙 / ネット予約可
+
+      】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理 ...'
+    title: メゾンカイザーカフェ 丸の内店 （Maison Kayser Café） - 東京/カフェ ...
+  - cacheId: _Oj2iOf8sTUJ
+    displayLink: retty.me
+    formattedUrl: https://retty.me/area/PRE13/ARE15/SUB1504/100000055718/
+    htmlFormattedUrl: https://retty.me/area/PRE13/ARE15/SUB1504/100000055718/
+    htmlSnippet: '<b>メゾンカイザーカフェ 丸の内店</b>のコース. ＜MKプラン＞ <b>食べ</b>放題 飲み放題. 当店自慢<br>
+
+      のパンやおすすめのお肉のグリルなどに飲み放題(2時間制)がついたプラン。 5000円<br>
+
+      〜ご用意しております。 貸切：15万円〜、〜30名(立食50名). 5,000円. 詳細を見る&nbsp;...'
+    htmlTitle: <b>メゾンカイザーカフェ 丸の内店</b> (Maison Kayser Cafe) (大手町/カフェ ...
+    kind: customsearch#result
+    link: https://retty.me/area/PRE13/ARE15/SUB1504/100000055718/
+    pagemap:
+      cse_image:
+      - src: https://ximg.retty.me/crop/s600x600/-/retty/img_ebisu/restaurant/100000055718/archive/92492-583cea88e759e-l.jpg
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv6Kx-53ginV7IFj9h-57YTk4RJ_ECElFKtYW5ThTjJ3Qzyx_ZO63m2OPB
+        width: '225'
+      metatags:
+      - al:ios:app_name: Retty
+        al:ios:app_store_id: '473919569'
+        al:ios:url: retty://?page=restaurant&restaurant_id=100000055718
+        fb:app_id: '218159034880392'
+        og:description: "大手町駅B1出口徒歩1分。\r10種類以上の豊富なパンがお代わり自由でお楽しみいただけます。\r\rディナータイムではワインなどとも一緒にお楽しみ頂けるよう考えられた\r\
+          シェフこだわりの料理を用意してお待ちしております"
+        og:image: https://ximg.retty.me/crop/s600x600/-/retty/img_ebisu/restaurant/100000055718/archive/92492-583cea88e759e-l.jpg
+        og:locale: ja_JP
+        og:site_name: Retty（レッティ）
+        og:title: メゾンカイザーカフェ 丸の内店  - Retty(レッティ)
+        og:type: rettyme:restaurant
+        og:url: https://retty.me/area/PRE13/ARE15/SUB1504/100000055718/
+        twitter:card: summary_large_image
+        twitter:description: "大手町駅B1出口徒歩1分。\r10種類以上の豊富なパンがお代わり自由でお楽しみいただけます。\r\rディナータイムではワインなどとも一緒にお楽しみ頂けるよう考えられた\r\
+          シェフこだわりの料理を用意してお待ちしております"
+        twitter:image: https://ximg.retty.me/crop/s600x600/-/retty/img_ebisu/restaurant/100000055718/archive/92492-583cea88e759e-l.jpg
+        twitter:site: '@Retty_jp'
+        twitter:title: メゾンカイザーカフェ 丸の内店  - Retty(レッティ)
+        twitter:url: https://retty.me/area/PRE13/ARE15/SUB1504/100000055718/
+    snippet: 'メゾンカイザーカフェ 丸の内店のコース. ＜MKプラン＞ 食べ放題 飲み放題. 当店自慢
+
+      のパンやおすすめのお肉のグリルなどに飲み放題(2時間制)がついたプラン。 5000円
+
+      〜ご用意しております。 貸切：15万円〜、〜30名(立食50名). 5,000円. 詳細を見る ...'
+    title: メゾンカイザーカフェ 丸の内店 (Maison Kayser Cafe) (大手町/カフェ ...
+  - cacheId: MWBUA1fUz4sJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1302/A130201/13136099/dtlmenu/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1302/A130201/13136099/dtlmenu/
+    htmlSnippet: '<b>メゾンカイザーカフェ 丸の内店</b>/Maison Kayser Café (東京/カフェ)の投稿された料理<br>
+
+      メニューです。日本最大級のグルメサイト「<b>食べログ</b>」では、<b>メゾンカイザーカフェ 丸の内</b><br>
+
+      <b>店</b>/Maison Kayser Caféの料理メニューを掲載中。'
+    htmlTitle: '料理メニュー : <b>メゾンカイザーカフェ 丸の内店</b> （Maison Kayser Café ...'
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1302/A130201/13136099/dtlmenu/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 東京・日本橋カフェ
+        url: 東京・日本橋カフェ
+      - title: 丸の内カフェ
+        url: 丸の内カフェ
+      - title: 大手町駅カフェ
+        url: 大手町駅カフェ
+      - title: メゾンカイザーカフェ 丸の内店
+        url: メゾンカイザーカフェ 丸の内店
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/38834/38834437.jpg?token=8456afb&api=v2
+      cse_thumbnail:
+      - height: '231'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8XWwaNoqxHk4BwuQNLEfzBgm9doLHhgL5lNH6hldsWEjjKl-qA6DYumpH
+        width: '219'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: Y58bydHHcDx9I+B+Em9pQ+1hmC7oOsMKh+69C+ZQ4/cuq8EYAHjl1s6f9GhsM2WJ6U2Il0oxlhYCZVsw/OGfEA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.51 ■【大手町駅 徒歩1分】メゾンカイザーカフェ１号店。 ■予算(夜):￥3,000～￥3,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/38834/38834437.jpg?token=8456afb&api=v2
+        og:title: メゾンカイザーカフェ 丸の内店 (東京/カフェ)
+        og:url: https://tabelog.com/tokyo/A1302/A130201/13136099/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review-aggregate:
+      - count: '151'
+    snippet: 'メゾンカイザーカフェ 丸の内店/Maison Kayser Café (東京/カフェ)の投稿された料理
+
+      メニューです。日本最大級のグルメサイト「食べログ」では、メゾンカイザーカフェ 丸の内
+
+      店/Maison Kayser Caféの料理メニューを掲載中。'
+    title: '料理メニュー : メゾンカイザーカフェ 丸の内店 （Maison Kayser Café ...'
+  - cacheId: 0Y46IgnuUsQJ
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1302/A130201/.../B299817744/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1302/A130201/.../B299817744/
+    htmlSnippet: '<b>メゾンカイザーカフェ 丸の内店</b>/Maison Kayser Café (東京/カフェ)へのこぴよひよさん<br>
+
+      の口コミです。'
+    htmlTitle: '『』by こぴよひよ : <b>メゾンカイザーカフェ 丸の内店</b> （Maison Kayser Café ...'
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1302/A130201/13136099/dtlrvwlst/B299817744/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 東京・日本橋カフェ
+        url: 東京・日本橋カフェ
+      - title: 丸の内カフェ
+        url: 丸の内カフェ
+      - title: 大手町駅カフェ
+        url: 大手町駅カフェ
+      - title: メゾンカイザーカフェ 丸の内店
+        url: メゾンカイザーカフェ 丸の内店
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/38834/200x200_square_38834437.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVD5o5WmTjhTb0PF6ahPl6GktC4u9CfFG6kAGwYguqFjt9yc55tuNzI9XI
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: M/HPcc1Myz4RNALKlDIQxcL6K9jTu2ggbkEdDjdFjo3r0DWavpY47rVjvCsYqcozbBHKTGqqtkNCdkiIKDy3Hg==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/38834/200x200_square_38834437.jpg
+        og:site_name: 食べログ
+        og:title: (こぴよひよ)-メゾンカイザーカフェ 丸の内店
+        og:type: article
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - description: ママ友と。大人2 子供1才児2人で日曜日のランチ11時半すぎに到着。ちょっと待って入店。入り口付近のベビーカーをそのまま付けられるテーブル...
+        reviewer: こぴよひよ
+    snippet: 'メゾンカイザーカフェ 丸の内店/Maison Kayser Café (東京/カフェ)へのこぴよひよさん
+
+      の口コミです。'
+    title: '『』by こぴよひよ : メゾンカイザーカフェ 丸の内店 （Maison Kayser Café ...'
+  - cacheId: fUL41KTTr1cJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/grouplst/G00478/tokyo/A1302/A130201/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/grouplst/G00478/tokyo/A1302/A130201/
+    htmlSnippet: 'メゾンカイザー店舗一覧では丸の内・大手町にあるメゾンカイザーの店舗を探すことが<br>
+
+      できます。気になる地域のメゾンカイザーが簡単に見つかり ... <b>メゾンカイザーカフェ</b> <br>
+
+      <b>丸の内店</b> （大手町 / カフェ、ビアガーデン、ダイニングバー）. メゾンカイザーカフェ - 料理<br>
+
+      写真:.'
+    htmlTitle: <b>丸の内</b>・大手町 <b>メゾンカイザー店舗</b>一覧 [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/grouplst/G00478/tokyo/A1302/A130201/
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/38834/150x150_square_38834437.jpg
+      cse_thumbnail:
+      - height: '150'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1mQ9mgSzR_IG9dstTen3QHtBlLNAIt7_9lNSBA9KIaKchC4LFgc9I5Dg
+        width: '150'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: 29eBVxXenRkykslWh7I1JvJI2uXJwxnD9JQT0bbpdvRqk/9uKCJN+nX7fHVlgawZupKIRbYQuFuEYLTsQrhwXg==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        viewport: width=1000
+    snippet: "メゾンカイザー店舗一覧では丸の内・大手町にあるメゾンカイザーの店舗を探すことが\nできます。気になる地域のメゾンカイザーが簡単に見つかり\
+      \ ... メゾンカイザーカフェ \n丸の内店 （大手町 / カフェ、ビアガーデン、ダイニングバー）. メゾンカイザーカフェ - 料理\n写真:."
+    title: 丸の内・大手町 メゾンカイザー店舗一覧 [食べログ]
+  - cacheId: YIaYs-TAs6IJ
+    displayLink: www.enjoytokyo.jp
+    formattedUrl: https://www.enjoytokyo.jp/style/108720/
+    htmlFormattedUrl: https://www.enjoytokyo.jp/style/108720/
+    htmlSnippet: '2017年7月20日 <b>...</b> 今回、レポートするのは、大手町駅からすぐの「<b>メゾンカイザーカフェ 丸の内店</b>」のパン<br>
+
+      <b>食べ</b>放題付きランチ（1200円～）！ 行列ができる日もあるという、メゾンカイザーのパン<br>
+
+      <b>食べ</b>放題付きランチの魅力をレポートしていきます。毎日実施している&nbsp;...'
+    htmlTitle: 【<b>丸の内</b>】<b>メゾンカイザー</b>のパン<b>食べ</b>放題付きランチレポート【Lets】レッツ ...
+    kind: customsearch#result
+    link: https://www.enjoytokyo.jp/style/108720/
+    pagemap:
+      breadcrumb:
+      - title: トップ
+        url: トップ
+      - title: おでかけ記事
+        url: おでかけ記事
+      - title: 友達・仲間
+        url: 友達・仲間
+      cse_image:
+      - src: https://c-www-lets.gnst.jp/img2/report/108/108720/108720_900.jpg?t=1532572073_1543466489
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMOnIaBZmn_p7YEINsVcuOxbNtzZlihyeZTqpQpdFXdtnmmzDJhzEIWlwl
+        width: '275'
+      metatags:
+      - fb:app_id: '168566579917621'
+        og:description: 今回、レポートするのは、大手町駅からすぐの「メゾンカイザーカフェ 丸の内店」のパン食べ放題付きランチ（1,200円～）！
+          行列ができる日もあるという、メゾンカイザーのパン食べ放題付きランチの魅力をレポートしていきます。毎日実施しているので…
+        og:image: https://c-www-lets.gnst.jp/img2/report/108/108720/108720_900.jpg?t=1532572073_1543466489
+        og:site_name: 【Lets】レッツエンジョイ東京
+        og:title: 【丸の内】メゾンカイザーのパン食べ放題付きランチレポート【Lets】レッツエンジョイ東京
+        og:type: article
+        og:url: https://www.enjoytokyo.jp/style/108720/
+        twitter:card: summary_large_image
+        twitter:site: '@enjoy_tokyo'
+    snippet: '2017年7月20日 ... 今回、レポートするのは、大手町駅からすぐの「メゾンカイザーカフェ 丸の内店」のパン
+
+      食べ放題付きランチ（1200円～）！ 行列ができる日もあるという、メゾンカイザーのパン
+
+      食べ放題付きランチの魅力をレポートしていきます。毎日実施している ...'
+    title: 【丸の内】メゾンカイザーのパン食べ放題付きランチレポート【Lets】レッツ ...
+  - cacheId: AVTEjwSFzzwJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1302/A130201/rstLst/CC01/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1302/A130201/rstLst/CC01/
+    htmlSnippet: '日本最大級のグルメサイト「<b>食べログ</b>」では、丸の内で人気のカフェ・喫茶のお店 175件<br>
+
+      を掲載中。口コミやランキング、こだわり条件から ... <b>メゾンカイザーカフェ 丸の内店</b> 大手<br>
+
+      町駅 51m / カフェ、ビアガーデン、ダイニングバー. 【大手町駅 徒歩1分】メゾンカイザー&nbsp;...'
+    htmlTitle: <b>丸の内</b>のおすすめ<b>カフェ</b>・喫茶 [食ベログ]
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1302/A130201/rstLst/CC01/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ・喫茶
+        url: 東京カフェ・喫茶
+      - title: 東京・日本橋カフェ・喫茶
+        url: 東京・日本橋カフェ・喫茶
+      cse_image:
+      - src: https://tabelog.com/images/rst/area/fb_icon_tokyo.gif
+      cse_thumbnail:
+      - height: '180'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOkwpRJzqXBjQlw2F2KiQbSrT4b8eDlwKKBOzhecH7VfZOdGIMPqHlfGQN
+        width: '180'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: Ek9xzqNUYf7NH5Z8LRG3doXnytsublbk+42KZ26y8NsWr2+vAKdd1A5bjaZoe15dC/RcoFdvY3Bg1n31haXy1Q==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: 日本最大級のグルメサイト「食べログ」では、丸の内で人気のカフェ・喫茶のお店 175件を掲載中。口コミやランキング、こだわり条件から失敗しないおすすめのお店が探せます。お探しのお店は竹橋駅に多く、特にカフェのお店が多いです。
+        og:image: https://tabelog.com/images/rst/area/fb_icon_tokyo.gif
+        og:site_name: 食べログ
+        og:title: 丸の内のおすすめカフェ・喫茶 [食べログ]
+        og:type: article
+        og:url: https://tabelog.com/tokyo/A1302/A130201/rstLst/CC01/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: '日本最大級のグルメサイト「食べログ」では、丸の内で人気のカフェ・喫茶のお店 175件
+
+      を掲載中。口コミやランキング、こだわり条件から ... メゾンカイザーカフェ 丸の内店 大手
+
+      町駅 51m / カフェ、ビアガーデン、ダイニングバー. 【大手町駅 徒歩1分】メゾンカイザー ...'
+    title: 丸の内のおすすめカフェ・喫茶 [食ベログ]
+  - cacheId: WrUVcpZer10J
+    displayLink: maisonkayser.co.jp
+    formattedUrl: maisonkayser.co.jp/
+    htmlFormattedUrl: maisonkayser.co.jp/
+    htmlSnippet: 'オリジナル小麦粉に高品質バター。そして天然酵母による低温長時間発酵という、<br>
+
+      フランスの伝統製法に則ってパンをつくっています。私たちはパン作りを通して、パンから<br>
+
+      生まれる新しい生活スタイルを提案いたします。'
+    htmlTitle: <b>メゾンカイザー</b> オフィシャルウェブサイト
+    kind: customsearch#result
+    link: http://maisonkayser.co.jp/
+    pagemap:
+      cse_image:
+      - src: http://maisonkayser.co.jp/wordpress/wp-content/uploads/2014/12/main.jpg
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA96WOVjDyiidtdWT9tIXM-AqjRoIuLLhOlGn7GiV_8B95Cwa0t4KoxAk
+        width: '275'
+      metatags:
+      - og:image: http://maisonkayser.co.jp/wordpress/wp-content/uploads/2014/12/main.jpg
+        og:site_name: メゾンカイザー｜オフィシャルウェブサイト
+        og:title: メゾンカイザー｜オフィシャルウェブサイト
+        og:type: blog
+        og:url: http://maisonkayser.co.jp
+        viewport: width=device-width, initial-scale=1.0
+    snippet: 'オリジナル小麦粉に高品質バター。そして天然酵母による低温長時間発酵という、
+
+      フランスの伝統製法に則ってパンをつくっています。私たちはパン作りを通して、パンから
+
+      生まれる新しい生活スタイルを提案いたします。'
+    title: メゾンカイザー オフィシャルウェブサイト
+  - cacheId: btcZ5iaGAukJ
+    displayLink: press.chiku-wa.jp
+    formattedUrl: https://press.chiku-wa.jp/spot_6154/
+    htmlFormattedUrl: https://press.chiku-wa.jp/spot_6154/
+    htmlSnippet: '<b>メゾンカイザーカフェ 丸の内店</b> （Maison Kayser Café）. ジャンル: グルメ: カフェ・<br>
+
+      喫茶店. 住所: 東京都千代田区丸の内1-4-1 丸の内永楽ビルディング iiyo1F. 電話番号: <br>
+
+      03-6269-9411. URL: https://<b>tabelog</b>.com/tokyo/A1302/A130201/13136099/.
+      営業<br>
+
+      時間&nbsp;...'
+    htmlTitle: <b>メゾンカイザーカフェ 丸の内店</b> （Maison Kayser Café）に関するおでかけ ...
+    kind: customsearch#result
+    link: https://press.chiku-wa.jp/spot_6154/
+    pagemap:
+      breadcrumb:
+      - url: ホーム
+      - url: おでかけ情報
+      cse_image:
+      - src: https://mapcache.e-map.ne.jp/ond/65/20190403/14/5339/46/14_736_129.png
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeXxOegpPeRnvSObD1I0nKsIlVmIrYa62hmBau0AEsPcxXIr9GLVwXoL8x
+        width: '225'
+      metatags:
+      - device: pc
+        fb:app_id: '1041338602571389'
+        og:description: メゾンカイザーカフェ 丸の内店 （Maison Kayser Café）（東京都 千代田区）に関するおでかけ情報です。メゾンカイザーカフェ
+          丸の内店 （Maison Kayser Café）にお出かけするときに一緒に行きたいスポットや、メゾンカイザーカフェ 丸の内店 （Maison
+          Kayser Café）に立ち寄りながら巡るおすすめのお散歩コースが分かるお出かけ情報も合わせてご紹介！
+        og:image: https://chiku-wa.jp/pc/images/ogimage.png
+        og:site_name: ちくわ。
+        og:title: メゾンカイザーカフェ 丸の内店 （Maison Kayser Café）に関するおでかけ情報｜ちくわ。
+        og:type: article
+        og:url: https://press.chiku-wa.jp/spot_6154/
+        viewport: width=1060
+    snippet: "メゾンカイザーカフェ 丸の内店 （Maison Kayser Café）. ジャンル: グルメ: カフェ・\n喫茶店. 住所: 東京都千代田区丸の内1-4-1\
+      \ 丸の内永楽ビルディング iiyo1F. 電話番号: \n03-6269-9411. URL: https://tabelog.com/tokyo/A1302/A130201/13136099/.\
+      \ 営業\n時間 ..."
+    title: メゾンカイザーカフェ 丸の内店 （Maison Kayser Café）に関するおでかけ ...
+  - cacheId: ye-DhdyAZ7MJ
+    displayLink: r.gnavi.co.jp
+    formattedUrl: https://r.gnavi.co.jp/gb46001/
+    htmlFormattedUrl: https://r.gnavi.co.jp/gb46001/
+    htmlSnippet: 'MAISON Kayser Cafe（<b>丸の内</b>/<b>カフェ</b>）の<b>店舗</b>情報をご紹介。ぐるなびなら<b>店舗</b>の詳細<br>
+
+      なメニューの情報や地図・口コミなど、「MAISON Kayser Cafe」の情報が満載です。□<br>
+
+      パリの<b>カフェ</b>をイメージした店内でごゆっくりとお過ごしください.'
+    htmlTitle: MAISON Kayser Cafe(<b>メゾンカイザーカフェ</b>)（<b>丸の内</b>/カフェ） - ぐるなび
+    kind: customsearch#result
+    link: https://r.gnavi.co.jp/gb46001/
+    pagemap:
+      cse_image:
+      - src: http://uds.gnst.jp/rest/img/g9fpz4gh0000/t_000b.jpg
+      cse_thumbnail:
+      - height: '159'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyECAtBo72eILom0Ycnk_5XKxixPAdILarHjIBr67DWzWU6I62la4R2ms
+        width: '239'
+      metatags:
+      - fb:app_id: '183141018390835'
+        og:description: MAISON Kayser Cafe（丸の内/カフェ）の店舗情報をご紹介。ぐるなびなら店舗の詳細なメニューの情報や地図・口コミなど、「MAISON
+          Kayser Cafe」の情報が満載です。■パリのカフェをイメージした店内でごゆっくりとお過ごしください■
+        og:image: http://uds.gnst.jp/rest/img/g9fpz4gh0000/t_000b.jpg
+        og:site_name: ぐるなび
+        og:title: ぐるなび - MAISON Kayser Cafe(メゾンカイザーカフェ) （丸の内/カフェ）
+        og:url: http://r.gnavi.co.jp/gb46001/
+    snippet: 'MAISON Kayser Cafe（丸の内/カフェ）の店舗情報をご紹介。ぐるなびなら店舗の詳細
+
+      なメニューの情報や地図・口コミなど、「MAISON Kayser Cafe」の情報が満載です。□
+
+      パリのカフェをイメージした店内でごゆっくりとお過ごしください.'
+    title: MAISON Kayser Cafe(メゾンカイザーカフェ)（丸の内/カフェ） - ぐるなび
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: メゾンカイザーカフェ 丸の内店 食べログ
+      startIndex: 11
+      title: Google Custom Search - メゾンカイザーカフェ 丸の内店 食べログ
+      totalResults: '21000'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: メゾンカイザーカフェ 丸の内店 食べログ
+      startIndex: 1
+      title: Google Custom Search - メゾンカイザーカフェ 丸の内店 食べログ
+      totalResults: '21000'
+  searchInformation:
+    formattedSearchTime: '0.71'
+    formattedTotalResults: 21,000
+    searchTime: 0.712338
+    totalResults: '21000'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 13:52:25
+snapshot_ymd: '20190424'

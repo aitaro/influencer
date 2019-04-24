@@ -6,7 +6,7 @@ def get_tabelog_url(num):
 
     # 検索キーワード
     t = Tweet(num)
-    target_keyword = f'{t.name} tabelog'
+    target_keyword = f'{t.name} 食べログ'
 
     # 検索
     res = search.getSearchResponse(target_keyword)
@@ -24,4 +24,6 @@ def get_tabelog_url(num):
 
 if __name__ == '__main__':
 
-    get_tabelog_url(1)
+    get_tabelog_url(15)
+    get_tabelog_url(16)
+    get_tabelog_url(17)
