@@ -12,6 +12,9 @@ import sys
 sys.stdout = open('log/stdout.log', 'a')
 sys.stderr = open('log/stderr.log', 'a+')
 
+from datetime import datetime
+print(datetime.now().strftime("%Y/%m/%d %H:%M:%S"))
+
 print('hello main python start')
 
 tweepyapi = tweepy.API(auth)
