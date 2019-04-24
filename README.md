@@ -12,6 +12,7 @@ https://www.enjoytokyo.jp/style/109729/?__ngt__=TT0f6313a01001ac1e4a5bf6y5aKXPYM
 ## TODO
 ### 自動投稿システム
 - 投稿にタグをつける
+- 投稿にその可否と投稿回数のデータをもたせる。
 
 ### ツイート取得システム
 - URL自動取得 done
