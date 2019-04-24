@@ -1,0 +1,534 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: ClD92pRhpvIJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1307/A130701/13037365/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1307/A130701/13037365/
+    htmlSnippet: 'イデーカフェ <b>パルク</b> 東京ミッドタウン店/<b>IDEE CAFE PARC</b> (六本木/カフェ)の店舗情報<br>
+
+      は<b>食べログ</b>でチェック！ 【分煙】口コミや評価、写真など、ユーザーによるリアルな情報<br>
+
+      が満載です！地図や料理メニューなどの詳細情報も充実。'
+    htmlTitle: イデーカフェ <b>パルク</b> 東京ミッドタウン店 （<b>IDEE CAFE PARC</b>） - 六本木 ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1307/A130701/13037365/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 六本木カフェ
+        url: 六本木カフェ
+      - title: 西麻布カフェ
+        url: 西麻布カフェ
+      - title: 六本木駅カフェ
+        url: 六本木駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/3330/3330112.jpg?token=fae8bb9&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQN5Za2OE30MzK_ttIPZsxxPseXvHhqaWOOKFxLPka-8qDaHaO7qwtlIYG
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: IyVSSFvEJ2tqL88RgEa0IySzRJfG/r7KOxl8keQlztWAZnXE7EJbyl5KtS87qRfoHN9RFxDFI6aTz34L2D2Ldg==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.18 ■予算(夜):～￥999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/3330/3330112.jpg?token=fae8bb9&api=v2
+        og:title: イデーカフェ パルク 東京ミッドタウン店 (六本木/カフェ)
+        og:url: https://tabelog.com/tokyo/A1307/A130701/13037365/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'イデーカフェ パルク 東京ミッドタウン店/IDEE CAFE PARC (六本木/カフェ)の店舗情報
+
+      は食べログでチェック！ 【分煙】口コミや評価、写真など、ユーザーによるリアルな情報
+
+      が満載です！地図や料理メニューなどの詳細情報も充実。'
+    title: イデーカフェ パルク 東京ミッドタウン店 （IDEE CAFE PARC） - 六本木 ...
+  - cacheId: pINoM6FaVz4J
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1307/A130701/13180836/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1307/A130701/13180836/
+    htmlSnippet: 'イデー カフェ <b>パルク</b>/<b>IDÉE CAFÉ PARC</b> (六本木/カフェ・喫茶（その他）)の店舗情報は<br>
+
+      <b>食べログ</b>でチェック！ 【分煙】口コミや評価、写真など、ユーザーによるリアルな情報が<br>
+
+      満載です！地図や料理メニューなどの詳細情報も充実。'
+    htmlTitle: イデー カフェ <b>パルク</b> （<b>IDÉE CAFÉ PARC</b>） - 六本木/カフェ・喫茶（その他 ...
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1307/A130701/13180836/
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/36788/150x150_square_36788860.jpg
+      cse_thumbnail:
+      - height: '150'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS50-3A_1O_8IFyFFsLudUuWXw3avDRNq5l3KthC70MyQReLY4SfrlYZ9s
+        width: '150'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: W/inn8uVybIInsXeqCMoNq7WrmgANzFoKEF1dzIM3zfp1RGaPV+KAoidcBG0LRxUezEOfjLGjoUItN7KR5TAbA==
+        format-detection: telephone=no
+        viewport: width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no,
+          viewport-fit=cover
+    snippet: 'イデー カフェ パルク/IDÉE CAFÉ PARC (六本木/カフェ・喫茶（その他）)の店舗情報は
+
+      食べログでチェック！ 【分煙】口コミや評価、写真など、ユーザーによるリアルな情報が
+
+      満載です！地図や料理メニューなどの詳細情報も充実。'
+    title: イデー カフェ パルク （IDÉE CAFÉ PARC） - 六本木/カフェ・喫茶（その他 ...
+  - cacheId: QkOAWw4iJIEJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/en/tokyo/A1307/A130701/13037365/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/en/tokyo/A1307/A130701/13037365/
+    htmlSnippet: '<b>IDEE CAFE</b> PARCCheck out the information about <b>Cafe</b>
+      restaurants in Roppongi, <br>
+
+      Nogizaka, Nishi-Azabu at <b>Tabelog</b>! It&#39;s full of real information like
+      reviews, ratings, <br>
+
+      and photos posted by users! It also has enough detailed information like maps&nbsp;...'
+    htmlTitle: <b>IDEE CAFE PARC</b> - Roppongi, Nogizaka, Nishi-Azabu/<b>Cafe</b>
+      [<b>Tabelog</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/en/tokyo/A1307/A130701/13037365/
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/3330/200x200_square_3330112.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR84jxemASYn7bAlLMwwkA46GM-COxCWlDZFVBUGfFhmc9zj0pDxIYWLEq
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: tk034rdYMa7F7bQCmRcYOlcNpN8uys7LKllbUB6BtHaVBtx9+YDPGOnKwOCMzopUYpudbF7NRgEBNLAFTuHYWg==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: IDEE CAFE PARCCheck out the information about Cafe restaurants
+          in Roppongi, Nogizaka, Nishi-Azabu at Tabelog! It's full of real information
+          like reviews, ratings, and photos posted by users! It also has enough detailed
+          information like maps and menus.
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/3330/200x200_square_3330112.jpg
+        og:site_name: Tabelog
+        og:title: IDEE CAFE PARC - Roppongi, Nogizaka, Nishi-Azabu/Cafe [Tabelog]
+        og:type: website
+        tblg-ajax-token: 921ac5145136c034b27510191f47762c2cce9e3f
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1024
+        y_key: 6b4002d5be0a5d72
+    snippet: "IDEE CAFE PARCCheck out the information about Cafe restaurants in Roppongi,\
+      \ \nNogizaka, Nishi-Azabu at Tabelog! It's full of real information like reviews,\
+      \ ratings, \nand photos posted by users! It also has enough detailed information\
+      \ like maps ..."
+    title: IDEE CAFE PARC - Roppongi, Nogizaka, Nishi-Azabu/Cafe [Tabelog]
+  - cacheId: ktABoXi4bmcJ
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1307/A130701/.../B112621142/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1307/A130701/.../B112621142/
+    htmlSnippet: 'イデーカフェ <b>パルク</b> 東京ミッドタウン店/<b>IDEE CAFE PARC</b> (六本木/カフェ)へのくま<br>
+
+      ちゃん号さんの口コミです。 ... イデーカフェ <b>パルク</b> 東京ミッドタウン店」の運営者様・<br>
+
+      オーナー様は<b>食べログ</b>店舗準会員（無料）になると、自分のお店の情報を編集することが<br>
+
+      でき&nbsp;...'
+    htmlTitle: '『開放感抜群。』by くまちゃん号 : イデーカフェ <b>パルク</b> 東京ミッドタウン店 ...'
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1307/A130701/13037365/dtlrvwlst/B112621142/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 六本木カフェ
+        url: 六本木カフェ
+      - title: 西麻布カフェ
+        url: 西麻布カフェ
+      - title: 六本木駅カフェ
+        url: 六本木駅カフェ
+      - title: イデーカフェ パルク 東京ミッドタウン店
+        url: イデーカフェ パルク 東京ミッドタウン店
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/3330/200x200_square_3330112.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR84jxemASYn7bAlLMwwkA46GM-COxCWlDZFVBUGfFhmc9zj0pDxIYWLEq
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: 2wOmtCDz6RKwTbtfRWrv6Zj26WqHBT8/WR0I+gj3KL1iObxJ4kHrXSCUjJ1FpZ9U/MeRUs6nMjjMNyPK+tA5jw==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: 開放感抜群。
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/3330/200x200_square_3330112.jpg
+        og:site_name: 食べログ
+        og:title: 開放感抜群。(くまちゃん号)-イデーカフェ パルク 東京ミッドタウン店
+        og:type: article
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - description: ずっと行きたかったミッドタウンのIDEE CAFE。 本日初来店。 インテリアが並ぶSHOPスペースを抜けると、解放的なテラスがお目見え。
+          下にはスター...
+        reviewer: くまちゃん号
+    snippet: 'イデーカフェ パルク 東京ミッドタウン店/IDEE CAFE PARC (六本木/カフェ)へのくま
+
+      ちゃん号さんの口コミです。 ... イデーカフェ パルク 東京ミッドタウン店」の運営者様・
+
+      オーナー様は食べログ店舗準会員（無料）になると、自分のお店の情報を編集することが
+
+      でき ...'
+    title: '『開放感抜群。』by くまちゃん号 : イデーカフェ パルク 東京ミッドタウン店 ...'
+  - cacheId: mvYYdI-kIgQJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1307/A130701/.../B115640861/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1307/A130701/.../B115640861/
+    htmlSnippet: 'イデーカフェ <b>パルク</b> 東京ミッドタウン店/<b>IDEE CAFE PARC</b> (六本木/カフェ)への白雪姫<br>
+
+      さんの口コミです。'
+    htmlTitle: 『<b>IDEE CAFE PARC</b>(イデ—カフェ<b>パルク</b>) ボジョレランチ』by 白雪姫 ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1307/A130701/13037365/dtlrvwlst/B115640861/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 六本木カフェ
+        url: 六本木カフェ
+      - title: 西麻布カフェ
+        url: 西麻布カフェ
+      - title: 六本木駅カフェ
+        url: 六本木駅カフェ
+      - title: イデーカフェ パルク 東京ミッドタウン店
+        url: イデーカフェ パルク 東京ミッドタウン店
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/3330/200x200_square_3330112.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR84jxemASYn7bAlLMwwkA46GM-COxCWlDZFVBUGfFhmc9zj0pDxIYWLEq
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: 4ZJjZmRAjiBt4b2a+gFSqN0B/Hgeq/e/pOu4qNSpGJwDFa/w1mUIrtGtvBUp8D1S1Fzn9dmsIe7M4cIOBxxnAw==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: IDEE CAFE　PARC(イデ—カフェパルク)　ボジョレランチ
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/3330/200x200_square_3330112.jpg
+        og:site_name: 食べログ
+        og:title: IDEE CAFE　PARC(イデ—カフェパルク)　ボジョレランチ(白雪姫)-イデーカフェ パルク 東京ミッドタウン店
+        og:type: article
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - description: 2010-11-2809:50:10IDEECAFE PARC(イデ—カフェパルク) ボジョレランチテーマ：六本木・赤坂
+          ミッドタウンのIDEECAFEPARCに行ったらなんとなんと！ ボジョレ...
+        reviewer: 白雪姫
+    snippet: 'イデーカフェ パルク 東京ミッドタウン店/IDEE CAFE PARC (六本木/カフェ)への白雪姫
+
+      さんの口コミです。'
+    title: 『IDEE CAFE PARC(イデ—カフェパルク) ボジョレランチ』by 白雪姫 ...
+  - cacheId: 1OauB_-ifhMJ
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1307/A130701/.../B75766703/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1307/A130701/.../B75766703/
+    htmlSnippet: 'イデーカフェ <b>パルク</b> 東京ミッドタウン店/<b>IDEE CAFE PARC</b> (六本木/カフェ)へのコネリー<br>
+
+      さんの口コミです。'
+    htmlTitle: 六本木/カフェ
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1307/A130701/13037365/dtlrvwlst/B75766703/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 六本木カフェ
+        url: 六本木カフェ
+      - title: 西麻布カフェ
+        url: 西麻布カフェ
+      - title: 六本木駅カフェ
+        url: 六本木駅カフェ
+      - title: イデーカフェ パルク 東京ミッドタウン店
+        url: イデーカフェ パルク 東京ミッドタウン店
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/3330/200x200_square_3330112.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR84jxemASYn7bAlLMwwkA46GM-COxCWlDZFVBUGfFhmc9zj0pDxIYWLEq
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: SiGgylhPmrWbQldx9tt6zTvTBj7ahgP2l07+c8FCNygg6XOiytr/PJYAsAr8Csc4qd19Q0tJ93dlrASAdKdAXQ==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: 表サクッ、カリカリ、中はふんわり本格的に旨い！ベルギーワッフルセット 800円
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/3330/200x200_square_3330112.jpg
+        og:site_name: 食べログ
+        og:title: 表サクッ、カリカリ、中はふんわり本格的に旨い！ベルギーワッフルセット 800円(コネリー)-イデーカフェ パルク 東京ミッドタウン店
+        og:type: article
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - description: ★3.6【FILE 2038】2014/12/26 (金) 19:39 訪問 赤坂の 外苑東通り沿いの東京ミッドタウン ガレリア
+          3階にある カフェです。 11日振りに再訪しました。...
+        reviewer: コネリー
+    snippet: 'イデーカフェ パルク 東京ミッドタウン店/IDEE CAFE PARC (六本木/カフェ)へのコネリー
+
+      さんの口コミです。'
+    title: 六本木/カフェ
+  - cacheId: KPOYRH2Pg3IJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1307/A130701/.../B274278294/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1307/A130701/.../B274278294/
+    htmlSnippet: 'イデーカフェ <b>パルク</b> 東京ミッドタウン店/<b>IDEE CAFE PARC</b> (六本木/カフェ)への<br>
+
+      ベッキオさんの口コミです。'
+    htmlTitle: 『冷たいチキンカツサンド @ <b>IDEE CAFE PARC</b> 東京ミッドタウン店』by ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1307/A130701/13037365/dtlrvwlst/B274278294/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 六本木カフェ
+        url: 六本木カフェ
+      - title: 西麻布カフェ
+        url: 西麻布カフェ
+      - title: 六本木駅カフェ
+        url: 六本木駅カフェ
+      - title: イデーカフェ パルク 東京ミッドタウン店
+        url: イデーカフェ パルク 東京ミッドタウン店
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/3330/200x200_square_3330112.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR84jxemASYn7bAlLMwwkA46GM-COxCWlDZFVBUGfFhmc9zj0pDxIYWLEq
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: xahmzwmdNiR+n1XTGOqQBNKuI3xEhY/Yz0G+YX9ZYMR31yw2IfVRC+9/kTmDZXZD1tQhqDcPmELz4+hJ9Hu2aQ==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: 冷たいチキンカツサンド @ IDEE CAFE PARC 東京ミッドタウン店
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/3330/200x200_square_3330112.jpg
+        og:site_name: 食べログ
+        og:title: 冷たいチキンカツサンド @ IDEE CAFE PARC 東京ミッドタウン店(ベッキオ)-イデーカフェ パルク 東京ミッドタウン店
+        og:type: article
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - description: 六本木で食事をしたついでにサントリー美術館に行ってみました。 美術館を歩いた後でお茶でもして休憩しましょうか。 サントリー美術館の向か...
+        reviewer: ベッキオ
+    snippet: 'イデーカフェ パルク 東京ミッドタウン店/IDEE CAFE PARC (六本木/カフェ)への
+
+      ベッキオさんの口コミです。'
+    title: 『冷たいチキンカツサンド @ IDEE CAFE PARC 東京ミッドタウン店』by ...
+  - cacheId: 2bUjtEUgBCUJ
+    displayLink: press.chiku-wa.jp
+    formattedUrl: https://press.chiku-wa.jp/press_2735/
+    htmlFormattedUrl: https://press.chiku-wa.jp/press_2735/
+    htmlSnippet: '2019年1月20日 <b>...</b> 出典： <b>食べログ</b>. 「ベルギーチョコレートムース 600円」などのスイーツや、オーガニック<br>
+
+      ドリンクも豊富。23時まで営業し ... ガレリアの3階、北欧デザインのインテリア雑貨店「<br>
+
+      <b>IDEE</b> SHOP」に併設している「<b>IDEE CAFE PARC</b> 東京ミッドタウン店&nbsp;...'
+    htmlTitle: まったり休憩できる   東京ミッドタウンのおしゃれなカフェ 5選｜ちくわ。
+    kind: customsearch#result
+    link: https://press.chiku-wa.jp/press_2735/
+    pagemap:
+      breadcrumb:
+      - url: ホーム
+      - url: おでかけ情報
+      cse_image:
+      - src: https://press.chiku-wa.jp/system/press_image/2019/01/11/uWP3SClKvkSva9fzaJF7OBsqWL2YlSihSbCadJqu9rU/extract/7437973ad3ae42f8d65eec24d3bf611e_m.jpg
+      cse_thumbnail:
+      - height: '183'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEDGSPrOh3Jq87x5BiocqM2n1Xc9qH4RgJ4SWiCoX2h_TxDCu__t0Tqh5K
+        width: '275'
+      metatags:
+      - device: pc
+        fb:app_id: '1041338602571389'
+        og:description: 「まったり休憩できる♪ 東京ミッドタウンのおしゃれなカフェ 5選」の記事です。六本木の「東京ミッドタウン」は、たくさんの人々が訪れる人気のおでかけスポット。たくさんのショップが集まっているので、休憩場所を探すのに苦労することもありますよね。そこで今回は、おすすめのカフェを厳選し…
+        og:image: https://chiku-wa.jp/system/press_image/2019/01/11/uWP3SClKvkSva9fzaJF7OBsqWL2YlSihSbCadJqu9rU/extract/2dbd91a61455fb9ae76436d74cabb711.jpg
+        og:site_name: ちくわ。
+        og:title: まったり休憩できる♪ 東京ミッドタウンのおしゃれなカフェ 5選｜ちくわ。
+        og:type: article
+        og:url: https://press.chiku-wa.jp/press_2735/
+        twitter:card: summary_large_image
+        twitter:site: '@CHIKU_WA_jp'
+        viewport: width=1060
+    snippet: '2019年1月20日 ... 出典： 食べログ. 「ベルギーチョコレートムース 600円」などのスイーツや、オーガニック
+
+      ドリンクも豊富。23時まで営業し ... ガレリアの3階、北欧デザインのインテリア雑貨店「
+
+      IDEE SHOP」に併設している「IDEE CAFE PARC 東京ミッドタウン店 ...'
+    title: まったり休憩できる   東京ミッドタウンのおしゃれなカフェ 5選｜ちくわ。
+  - cacheId: WoezBG19DckJ
+    displayLink: matome.naver.jp
+    formattedUrl: https://matome.naver.jp/odai/2147208719014157401
+    htmlFormattedUrl: https://matome.naver.jp/odai/2147208719014157401
+    htmlSnippet: '2016年8月31日 <b>...</b> <b>IDEE CAFE PARC</b> 東京ミッドタウン店/イデーカフェ <b>パルク</b>
+      (六本木、乃木坂、六本木一<br>
+
+      丁目/カフェ)の店舗情報は<b>食べログ</b>でチェック！口コミや評価、写真など、ユーザー<br>
+
+      によるリアルな情報が満載です！地図や料理メニューなどの詳細情報も&nbsp;...'
+    htmlTitle: 【作業スペースに！】オシャレで美味しい、六本木のイチオシカフェ。のまとめ
+    kind: customsearch#result
+    link: https://matome.naver.jp/odai/2147208719014157401
+    pagemap:
+      cse_image:
+      - src: https://cdn-matome.line-apps.com/n/matome/img/common/og/ogimage_20120614.png
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJnMVbBWjsxqJcZEL0x_kOdYm-J6t7P6yv4l4DUSTTd_tmxxBapVA5khs
+        width: '225'
+      metatags:
+      - fb:admins: '100002409002490'
+        fb:app_id: '115249445227759'
+        og:description: 【作業スペースに！】オシャレで美味しい、六本木のイチオシカフェ。のまとめ
+        og:image: https://cdn-matome.line-apps.com/n/matome/img/common/og/ogimage_20120614.png
+        og:site_name: NAVER まとめ
+        og:title: 【作業スペースに！】オシャレで美味しい、六本木のイチオシカフェ。 - NAVER まとめ
+        og:type: article
+        og:url: https://matome.naver.jp/odai/2147208719014157401
+        referrer: unsafe-url
+        twitter:card: summary_large_image
+        twitter:description: 【作業スペースに！】オシャレで美味しい、六本木のイチオシカフェ。のまとめ
+        twitter:image:src: https://cdn-matome.line-apps.com/n/matome/img/common/og/ogimage_20120614.png
+        twitter:site: '@matomenaver'
+        twitter:title: 【作業スペースに！】オシャレで美味しい、六本木のイチオシカフェ。 - NAVER まとめ
+    snippet: '2016年8月31日 ... IDEE CAFE PARC 東京ミッドタウン店/イデーカフェ パルク (六本木、乃木坂、六本木一
+
+      丁目/カフェ)の店舗情報は食べログでチェック！口コミや評価、写真など、ユーザー
+
+      によるリアルな情報が満載です！地図や料理メニューなどの詳細情報も ...'
+    title: 【作業スペースに！】オシャレで美味しい、六本木のイチオシカフェ。のまとめ
+  - cacheId: Qe52795fgEwJ
+    displayLink: play-life.jp
+    formattedUrl: https://play-life.jp/spots/136240
+    htmlFormattedUrl: https://play-life.jp/spots/136240
+    htmlSnippet: 'サンクチュアリ六本木とイデーカフェ<b>パルク</b>コース<b>IDEE CAFE PARK</b>イデーカフェです。 <br>
+
+      ミッドタウン内にある家具屋さん併設のカフェ。見晴らしがよく、屋内だけど、テラスになっ<br>
+
+      ていて気持ちいいです。 http://<b>tabelog</b>.com/tokyo/A1307/A130701/13037365/.'
+    htmlTitle: <b>IDEE CAFE PARC</b> 東京ミッドタウン店の観光情報（見どころ・評判 ...
+    kind: customsearch#result
+    link: https://play-life.jp/spots/136240
+    pagemap:
+      cse_image:
+      - src: https://d17vjxfu0igzun.cloudfront.net/images/79a2affe55f5b425e6d2feabad66c5ad/1200x630c/spot_photos/23321/original-e693cc31d6d39f33eea01b07ba76fbc9345770a2.jpg
+      cse_thumbnail:
+      - height: '163'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREs_-cXKCFLulv6DK23ZxnUj9DjGVB79nG52UuvDrW0gXRl8Y7N1RrsH4F
+        width: '310'
+      listitem:
+      - item: TOP
+        name: TOP
+        position: '1'
+      - item: 関東
+        name: 関東
+        position: '2'
+      - item: 東京都
+        name: 東京都
+        position: '3'
+      - item: 六本木
+        name: 六本木
+        position: '4'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: AU3VEov7PeTu3I/t5HDwczTJVO9tRVgggJih3HNDQbhkyZTnj49ADql1h51BT1i5w0i12AkXfROcvK6kpUp2Wg==
+        fb:app_id: '421020627958349'
+        og:description: IDEE CAFE PARC 東京ミッドタウン店へ遊びに行くなら、Playlifeでもっと楽しく！IDEE CAFE
+          PARC 東京ミッドタウン店には1件の、“本当に行った”プランがあります。写真や地図も充実！
+        og:image: https://d17vjxfu0igzun.cloudfront.net/images/79a2affe55f5b425e6d2feabad66c5ad/1200x630c/spot_photos/23321/original-e693cc31d6d39f33eea01b07ba76fbc9345770a2.jpg
+        og:locale: ja_JP
+        og:site_name: PlayLife [プレイライフ]
+        og:title: IDEE CAFE PARC 東京ミッドタウン店の観光情報（見どころ・評判・アクセス等） | PlayLife [プレイライフ]
+        og:type: website
+        og:url: https://play-life.jp/spots/136240
+        twitter:card: summary_large_image
+        viewport: width=device-width, initial-scale=1
+    snippet: "サンクチュアリ六本木とイデーカフェパルクコースIDEE CAFE PARKイデーカフェです。 \nミッドタウン内にある家具屋さん併設のカフェ。見晴らしがよく、屋内だけど、テラスになっ\n\
+      ていて気持ちいいです。 http://tabelog.com/tokyo/A1307/A130701/13037365/."
+    title: IDEE CAFE PARC 東京ミッドタウン店の観光情報（見どころ・評判 ...
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: IDÉE CAFÉ PARC 食べログ
+      startIndex: 11
+      title: Google Custom Search - IDÉE CAFÉ PARC 食べログ
+      totalResults: '17500'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: IDÉE CAFÉ PARC 食べログ
+      startIndex: 1
+      title: Google Custom Search - IDÉE CAFÉ PARC 食べログ
+      totalResults: '17500'
+  searchInformation:
+    formattedSearchTime: '0.59'
+    formattedTotalResults: 17,500
+    searchTime: 0.586713
+    totalResults: '17500'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 19:02:10
+snapshot_ymd: '20190424'

@@ -4,6 +4,7 @@
 import os
 import datetime
 import json
+import yaml
 
 from time import sleep
 from googleapiclient.discovery import build
@@ -20,8 +21,6 @@ def makeDir(path):
 def getSearchResponse(keyword):
     today = datetime.datetime.today().strftime("%Y%m%d")
     timestamp = datetime.datetime.today().strftime("%Y/%m/%d %H:%M:%S")
-
-    # makeDir(DATA_DIR)s
 
     service = build("customsearch", "v1", developerKey=GOOGLE_API_KEY)
 
@@ -43,17 +42,63 @@ def getSearchResponse(keyword):
             print(e)
             break
 
-    # レスポンスをjson形式で保存
-    # save_response_dir = os.path.join(DATA_DIR, 'response')
-    # makeDir(save_response_dir)
     out = {'snapshot_ymd': today, 'snapshot_timestamp': timestamp, 'response': []}
     out['response'] = response
+
+    # レスポンスを格納
+    f = open(f"response/text/{keyword}.yml", "w+")
+    f.write(yaml.dump(out, allow_unicode=True))
+
     return out
-    # jsonstr = json.dumps(out, ensure_ascii=False)
-    # with open(os.path.join(save_response_dir, 'response_' + today + '.json'), mode='w') as response_file:
-    #     response_file.write(jsonstr)
+
+def getRelatedImg(keyword):
+    today = datetime.datetime.today().strftime("%Y%m%d")
+    timestamp = datetime.datetime.today().strftime("%Y/%m/%d %H:%M:%S")
+    service = build("customsearch", "v1", developerKey=GOOGLE_API_KEY)
+    page_limit = 2
+    start_index = 1
+    response = []
+    img_list = []
+
+    for nPage in range(0, page_limit):
+        print("Reading page number:", nPage + 1)
+
+        try:
+            response.append(service.cse().list(
+                q=keyword,     # Search words
+                cx=CUSTOM_SEARCH_ENGINE_ID,        # custom search engine key
+                lr='lang_ja',      # Search language
+                num=10,            # Number of images obtained by one request (Max 10)
+                start=start_index,
+                searchType='image' # search for images
+            ).execute())
+
+            start_index = response[nPage].get("queries").get("nextPage")[0].get("startIndex")
+
+        except Exception as e:
+            print(e)
+
+    print(type(response))
+
+    # with open(os.path.join(save_res_path, 'api_response.pickle'), mode='wb') as f:
+    #     pickle.dump(response, f)
+
+    for one_res in range(len(response)):
+        if len(response[one_res]['items']) > 0:
+            for i in range(len(response[one_res]['items'])):
+                img_list.append(response[one_res]['items'][i]['link'])
+
+    out = {'snapshot_ymd': today, 'snapshot_timestamp': timestamp, 'response': []}
+    out['response'] = response
+
+    # レスポンスを格納
+    f = open(f"response/image/{keyword}.yml", "w+")
+    f.write(yaml.dump(out, allow_unicode=True))
+
+    return out
+
 
 if __name__ == '__main__':
 
-    target_keyword = 'ア・ラ・カンパーニュ池袋店 tabelog'
-    getSearchResponse(target_keyword)
+    target_keyword = 'IDÉE CAFÉ PARC'
+    print(getRelatedImg(target_keyword))

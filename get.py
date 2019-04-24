@@ -1,8 +1,15 @@
 import search
+import google_search
 from tweet import Tweet
 import yaml
+import sys
+from pdb import set_trace
 
-def get_tabelog_url(num):
+def saveImages(url_list, path):
+
+    return 'success'
+
+def getTabelogUrl(num):
 
     # 検索キーワード
     t = Tweet(num)
@@ -11,9 +18,9 @@ def get_tabelog_url(num):
     # 検索
     res = search.getSearchResponse(target_keyword)
 
-    # レスポンスを格納
-    f = open(f"post_tweets/{num}/search_tabelog.yml", "w")
-    f.write(yaml.dump(res, allow_unicode=True))
+    # # レスポンスを格納
+    # f = open(f"post_tweets/{num}/search_tabelog.yml", "w")
+    # f.write(yaml.dump(res, allow_unicode=True))
 
     print(res['response'][0]['items'][0]['link'])
 
@@ -22,8 +29,22 @@ def get_tabelog_url(num):
     t.save()
     return t.url
 
-if __name__ == '__main__':
+def getRelatedImg(num):
 
-    # get_tabelog_url(15)
-    # get_tabelog_url(16)
-    get_tabelog_url(18)
+    # 検索キーワード
+    t = Tweet(num)
+    target_keyword = f'{t.name} 店'
+    path = f'post_tweets/{num}/shop'
+
+    # set_trace()
+
+    google_search.main(target_keyword, 20, path)
+    target_keyword = f'{t.name} food'
+    path = f'post_tweets/{num}/food'
+    google_search.main(target_keyword, 20, path)
+    return 'success'
+
+if __name__ == '__main__':
+    num = int(sys.argv[1])
+    getTabelogUrl(num)
+    getRelatedImg(num)

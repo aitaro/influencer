@@ -10,6 +10,8 @@ pyyaml = "*"
 tweepy = "*"
 requests-oauthlib = "*"
 google-api-python-client = "*"
+bs4 = '*'
+lxml = '*'
 
 [requires]
 python_version = "3.7"
