@@ -14,7 +14,7 @@ https://www.enjoytokyo.jp/style/109729/?__ngt__=TT0f6313a01001ac1e4a5bf6y5aKXPYM
 - 投稿にタグをつける
 
 ### ツイート取得システム
-- URL自動取得
+- URL自動取得 done
 - 画像自動取得
 - details自動取得
 - タグ自動取得
