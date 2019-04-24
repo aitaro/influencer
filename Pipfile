@@ -9,6 +9,7 @@ verify_ssl = true
 pyyaml = "*"
 tweepy = "*"
 requests-oauthlib = "*"
+google-api-python-client = "*"
 
 [requires]
 python_version = "3.7"

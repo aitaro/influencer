@@ -1,0 +1,542 @@
+response:
+- context:
+    title: カスタム検索エンジン
+  items:
+  - cacheId: DIrnS7sg1jIJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1303/A130302/13173146/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1303/A130302/13173146/
+    htmlSnippet: '<b>ESPRESSO D WORKS</b>/エスプレッソディーワークス (恵比寿/カフェ)の店舗情報は<b>食べ</b><br>
+
+      <b>ログ</b>でチェック！【恵比寿東口徒歩７分】行列ができるカフェＥＤＷ１号店！歓迎会、女子<br>
+
+      会、貸切も◎Ｋ 【禁煙 / 飲み放題あり / ネット予約可】口コミや評価、写真など、&nbsp;...'
+    htmlTitle: <b>ESPRESSO D WORKS</b> （エスプレッソディーワークス） - 恵比寿/カフェ ...
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1303/A130302/13173146/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 渋谷・恵比寿・代官山カフェ
+        url: 渋谷・恵比寿・代官山カフェ
+      - title: 恵比寿カフェ
+        url: 恵比寿カフェ
+      - title: 恵比寿駅カフェ
+        url: 恵比寿駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/31104/31104484.jpg?token=7ef38fb&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1a1iT-BJej7L6EkZGucJEJ7ebksk20oSNWP9jotDMYVGheom8xIubNzwE
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: nPF5bz3peZvEWG4GnO0c+8HW3bTMoz4gP/BBIaA62fbr7gv2fEBG+xNvSF5uSVK9422EVbkgV8LJNowPU0kayA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.47 ■【恵比寿東口徒歩７分】行列ができるカフェＥＤＷ１号店！歓迎会、女子会、貸切も◎Ｋ ■予算(夜):￥2,000～￥2,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/31104/31104484.jpg?token=7ef38fb&api=v2
+        og:title: ESPRESSO D WORKS (恵比寿/カフェ)
+        og:url: https://tabelog.com/tokyo/A1303/A130302/13173146/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'ESPRESSO D WORKS/エスプレッソディーワークス (恵比寿/カフェ)の店舗情報は食べ
+
+      ログでチェック！【恵比寿東口徒歩７分】行列ができるカフェＥＤＷ１号店！歓迎会、女子
+
+      会、貸切も◎Ｋ 【禁煙 / 飲み放題あり / ネット予約可】口コミや評価、写真など、 ...'
+    title: ESPRESSO D WORKS （エスプレッソディーワークス） - 恵比寿/カフェ ...
+  - cacheId: CYK-8Er9tEcJ
+    displayLink: www.pinterest.jp
+    formattedUrl: https://www.pinterest.jp/pin/492792384226108839/
+    htmlFormattedUrl: https://www.pinterest.jp/pin/492792384226108839/
+    htmlSnippet: '2019/03/05- このピンは、ましかのさんが見つけました。あなたも Pinterest で自分だけ<br>
+
+      のピンを見つけて保存しましょう！'
+    htmlTitle: 2019 年の「<b>ESPRESSO D WORKS</b> 渋谷 - 渋谷/カフェ [<b>食べログ</b> ...
+    kind: customsearch#result
+    link: https://www.pinterest.jp/pin/492792384226108839/
+    pagemap:
+      cse_image:
+      - src: https://i.pinimg.com/736x/fa/b5/6f/fab56fdda345301de046fc2320db7c6e.jpg
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHtVKJc7Lryx3fSeCicN2upepvRo11WJyP-lEEGuF2w1TinBhkN-R9Njmo
+        width: '225'
+      metatags:
+      - al:android:app_name: Pinterest
+        al:android:package: com.pinterest
+        al:android:url: pinterest://pin/492792384226108839
+        al:ios:app_name: Pinterest
+        al:ios:app_store_id: '429047995'
+        al:ios:url: pinterest://pin/492792384226108839
+        application-name: Pinterest
+        canonical_domain: www.pinterest.jp
+        fb:app_id: '274266067164'
+        image_signature: fab56fdda345301de046fc2320db7c6e
+        landing_page_info: '{''pin_id'': u''492792384226108839''}'
+        locale: ja
+        msapplication-tilecolor: '#ffffff'
+        msapplication-tileimage: https://s.pinimg.com/webapp/style/images/logo_trans_144x144-642179a1.png
+        og:description: ESPRESSO D WORKS 渋谷 - 渋谷/カフェ [食べログ]
+        og:image: https://i.pinimg.com/736x/fa/b5/6f/fab56fdda345301de046fc2320db7c6e.jpg
+        og:image:height: '320'
+        og:image:width: '320'
+        og:see_also: https://tabelog.com/tokyo/A1303/A130301/13199237/
+        og:site_name: Pinterest
+        og:title: 2019 年の「ESPRESSO D WORKS 渋谷 - 渋谷/カフェ [食べログ] | gourmet」 | Food、Desserts、Gourmet
+        og:type: pinterestapp:pin
+        og:updated_time: '2019-03-05 03:09:58+00:00'
+        og:url: https://www.pinterest.com/pin/492792384226108839/
+        pinterest: nohover
+        pinterestapp:pinboard: https://www.pinterest.com/mashcanon/gourmet/
+        pinterestapp:pinner: https://www.pinterest.com/mashcanon/
+        pinterestapp:repins: '0'
+        pinterestapp:source: https://tabelog.com/tokyo/A1303/A130301/13199237/
+        referrer: origin
+        theme-color: '#e60023'
+        twitter:app:android: com.pinterest
+        twitter:app:id:ipad: '429047995'
+        twitter:app:id:iphone: '429047995'
+        twitter:app:url:googleplay: pinterest://pin/492792384226108839
+        twitter:app:url:ipad: pinterest://pin/492792384226108839
+        twitter:app:url:iphone: pinterest://pin/492792384226108839
+        twitter:card: summary_large_image
+        twitter:description: ESPRESSO D WORKS 渋谷 - 渋谷/カフェ [食べログ]
+        twitter:image:src: https://i.pinimg.com/736x/fa/b5/6f/fab56fdda345301de046fc2320db7c6e.jpg
+        twitter:site: '@pinterest'
+        twitter:title: gourmet
+        viewport: width=device-width, initial-scale=1
+    snippet: '2019/03/05- このピンは、ましかのさんが見つけました。あなたも Pinterest で自分だけ
+
+      のピンを見つけて保存しましょう！'
+    title: 2019 年の「ESPRESSO D WORKS 渋谷 - 渋谷/カフェ [食べログ ...
+  - cacheId: -e40ARSzDSQJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1303/A130301/13199237/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1303/A130301/13199237/
+    htmlSnippet: '<b>ESPRESSO D WORKS</b> 渋谷 (渋谷/カフェ)の店舗情報は<b>食べログ</b>でチェック！【渋谷<br>
+
+      駅徒歩３分】行列が出来るカフェ”EＤＷ&quot;2号店！歓迎会○女子会○貸切○夜もパン<br>
+
+      ケーキ 【分煙 / 飲み放題あり / ネット予約可】口コミや評価、写真など、ユーザーによる<br>
+
+      リアル&nbsp;...'
+    htmlTitle: <b>ESPRESSO D WORKS</b> 渋谷 - 渋谷/カフェ [<b>食べログ</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1303/A130301/13199237/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 渋谷・恵比寿・代官山カフェ
+        url: 渋谷・恵比寿・代官山カフェ
+      - title: 渋谷カフェ
+        url: 渋谷カフェ
+      - title: 渋谷駅カフェ
+        url: 渋谷駅カフェ
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/84228/84228226.jpg?token=a11884b&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScY_s5Zym3AESQL-oEfpWRNYhz4QZrVTrADX-qWaPfi5xGwo6KvgQ2w_k
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: zbLA4QhWkGfvuN3keQQk8jUxuEgyqhA9RXNaGeVM29k+kiOVZ6MPX1ayQW7Lm7QFGHqAcBkaZATx6cb74hxRrA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.24 ■【渋谷駅徒歩３分】行列が出来るカフェ”EＤＷ”2号店！歓迎会○女子会○貸切○夜もパンケーキ ■予算(夜):￥2,000～￥2,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/84228/84228226.jpg?token=a11884b&api=v2
+        og:title: ESPRESSO D WORKS 渋谷 (渋谷/カフェ)
+        og:url: https://tabelog.com/tokyo/A1303/A130301/13199237/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+    snippet: 'ESPRESSO D WORKS 渋谷 (渋谷/カフェ)の店舗情報は食べログでチェック！【渋谷
+
+      駅徒歩３分】行列が出来るカフェ”EＤＷ"2号店！歓迎会○女子会○貸切○夜もパン
+
+      ケーキ 【分煙 / 飲み放題あり / ネット予約可】口コミや評価、写真など、ユーザーによる
+
+      リアル ...'
+    title: ESPRESSO D WORKS 渋谷 - 渋谷/カフェ [食べログ]
+  - cacheId: K7CZPWV5ub8J
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1303/A130302/.../B95228543/
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1303/A130302/.../B95228543/
+    htmlSnippet: '<b>ESPRESSO D WORKS</b>/エスプレッソディーワークス (恵比寿/カフェ)へのひろまめ27<br>
+
+      さんの口コミです。'
+    htmlTitle: <b>ESPRESSO D WORKS</b>
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1303/A130302/13173146/dtlrvwlst/B95228543/
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 渋谷・恵比寿・代官山カフェ
+        url: 渋谷・恵比寿・代官山カフェ
+      - title: 恵比寿カフェ
+        url: 恵比寿カフェ
+      - title: 恵比寿駅カフェ
+        url: 恵比寿駅カフェ
+      - title: ESPRESSO D WORKS
+        url: ESPRESSO D WORKS
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/31104/200x200_square_31104484.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_RIzGyWq_oIOctYxzRYewaeWwhLXG64nbW-nljaZVsQI84sNnT56bu2A
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: 6jQXyMoLXRI0G1YYBSCEqhM5aEFC+ijhO7v5NRyPUgxBJg0swDsS6gwCSaOwnZdIdt6xhdqOA11wlPg+I/qL8A==
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ふわふわすぎて…(^^;;
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/31104/200x200_square_31104484.jpg
+        og:site_name: 食べログ
+        og:title: ふわふわすぎて…(^^;;(ひろまめ27)-ESPRESSO D WORKS
+        og:type: article
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - description: ふわふわのパンケーキ好が食べたくてこちらのお店に(*^^*) レビュアーさんのパンケーキの写真を見て、どうしても食べてみたかったのです♪(...
+        reviewer: ひろまめ27
+    snippet: 'ESPRESSO D WORKS/エスプレッソディーワークス (恵比寿/カフェ)へのひろまめ27
+
+      さんの口コミです。'
+    title: ESPRESSO D WORKS
+  - cacheId: oYRf0q1alrAJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/tokyo/A1303/A130301/.../dtlrvwlst/?smp=1
+    htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/A1303/A130301/.../dtlrvwlst/?smp=1
+    htmlSnippet: '<b>ESPRESSO D WORKS</b> 渋谷 (渋谷/カフェ)への口コミです。日本最大級のグルメサイト<br>
+
+      「<b>食べログ</b>」では、<b>ESPRESSO D WORKS</b> 渋谷の口コミ71件を掲載中。'
+    htmlTitle: '口コミ一覧 : <b>ESPRESSO D WORKS</b> 渋谷 - 渋谷/カフェ [<b>食べログ</b>]'
+    kind: customsearch#result
+    link: https://tabelog.com/tokyo/A1303/A130301/13199237/dtlrvwlst/?smp=1
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 渋谷・恵比寿・代官山カフェ
+        url: 渋谷・恵比寿・代官山カフェ
+      - title: 渋谷カフェ
+        url: 渋谷カフェ
+      - title: 渋谷駅カフェ
+        url: 渋谷駅カフェ
+      - title: ESPRESSO D WORKS 渋谷
+        url: ESPRESSO D WORKS 渋谷
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/84228/84228226.jpg?token=a11884b&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScY_s5Zym3AESQL-oEfpWRNYhz4QZrVTrADX-qWaPfi5xGwo6KvgQ2w_k
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: 6XdEr2v63MH/VrG28UPIew0Not0EksuzsePNJkEE8aKK5rytmY/7I2SewMtE5NTeoKrhjQ0VPG2boWLLGN+jBg==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.24 ■【渋谷駅徒歩３分】行列が出来るカフェ”EＤＷ”2号店！歓迎会○女子会○貸切○夜もパンケーキ ■予算(夜):￥2,000～￥2,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/84228/84228226.jpg?token=a11884b&api=v2
+        og:title: ESPRESSO D WORKS 渋谷 (渋谷/カフェ)
+        og:url: https://tabelog.com/tokyo/A1303/A130301/13199237/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - ratingcount: '71'
+        reviewer: 焼き肉マン
+      review-aggregate:
+      - count: '71'
+        reviewer: 焼き肉マン
+    snippet: 'ESPRESSO D WORKS 渋谷 (渋谷/カフェ)への口コミです。日本最大級のグルメサイト
+
+      「食べログ」では、ESPRESSO D WORKS 渋谷の口コミ71件を掲載中。'
+    title: '口コミ一覧 : ESPRESSO D WORKS 渋谷 - 渋谷/カフェ [食べログ]'
+  - cacheId: kj4nRtm3XJMJ
+    displayLink: s.tabelog.com
+    formattedUrl: https://s.tabelog.com/tokyo/A1303/A130302/.../dtlrvwlst?...
+    htmlFormattedUrl: https://s.<b>tabelog</b>.com/tokyo/A1303/A130302/.../dtlrvwlst?...
+    htmlSnippet: '<b>ESPRESSO D WORKS</b>/エスプレッソディーワークス (恵比寿/カフェ)への口コミの2<br>
+
+      ページ目です。日本最大級のグルメサイト「<b>食べログ</b>」では、<b>ESPRESSO D WORKS</b>/<br>
+
+      エスプレッソディーワークスの口コミ123件を掲載中。'
+    htmlTitle: '口コミ一覧 2ページ目 : <b>ESPRESSO D WORKS</b> （エスプレッソディー ...'
+    kind: customsearch#result
+    link: https://s.tabelog.com/tokyo/A1303/A130302/13173146/dtlrvwlst?PG=2&partial=true&use_type=0
+    pagemap:
+      breadcrumb:
+      - title: 食べログ
+        url: 食べログ
+      - title: 東京
+        url: 東京
+      - title: 東京カフェ
+        url: 東京カフェ
+      - title: 渋谷・恵比寿・代官山カフェ
+        url: 渋谷・恵比寿・代官山カフェ
+      - title: 恵比寿カフェ
+        url: 恵比寿カフェ
+      - title: 恵比寿駅カフェ
+        url: 恵比寿駅カフェ
+      - title: ESPRESSO D WORKS
+        url: ESPRESSO D WORKS
+      cse_image:
+      - src: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/31104/31104484.jpg?token=7ef38fb&api=v2
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1a1iT-BJej7L6EkZGucJEJ7ebksk20oSNWP9jotDMYVGheom8xIubNzwE
+        width: '225'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: g0IWJJS3uhk3DVzTe273lfhucRQjIbiqKzEeFfY8SsVSWm1buAT0n5/bDH1LM/bIjci9ZT8M3u6k5gbfwHU0vA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: ★★★☆☆3.47 ■【恵比寿東口徒歩７分】行列ができるカフェＥＤＷ１号店！歓迎会、女子会、貸切も◎Ｋ ■予算(夜):￥2,000～￥2,999
+        og:image: https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/31104/31104484.jpg?token=7ef38fb&api=v2
+        og:title: ESPRESSO D WORKS (恵比寿/カフェ)
+        og:url: https://tabelog.com/tokyo/A1303/A130302/13173146/
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1000
+        y_key: 6b4002d5be0a5d72
+      review:
+      - ratingcount: '123'
+        reviewer: みすたー黒猫
+      review-aggregate:
+      - count: '123'
+        reviewer: みすたー黒猫
+    snippet: 'ESPRESSO D WORKS/エスプレッソディーワークス (恵比寿/カフェ)への口コミの2
+
+      ページ目です。日本最大級のグルメサイト「食べログ」では、ESPRESSO D WORKS/
+
+      エスプレッソディーワークスの口コミ123件を掲載中。'
+    title: '口コミ一覧 2ページ目 : ESPRESSO D WORKS （エスプレッソディー ...'
+  - cacheId: ycSzZi5r26MJ
+    displayLink: tabelog.com
+    formattedUrl: https://tabelog.com/en/tokyo/A1303/A130302/13173146/
+    htmlFormattedUrl: https://<b>tabelog</b>.com/en/tokyo/A1303/A130302/13173146/
+    htmlSnippet: 'Esupuressodhiwakusu (<b>ESPRESSO D WORKS</b>). Categories. Cafe,
+      Pancake, <br>
+
+      Cake. TEL/reservation. 03-6447-7277 (+81-3-6447-7277). 予約可. 予約は18:00<br>
+
+      以降のバル使いの方のみで、混み合った場合は2時間制をとらせていただきます。ご<br>
+
+      予約の&nbsp;...'
+    htmlTitle: Esupuressodhiwakusu - Ebisu/Cafe [<b>Tabelog</b>]
+    kind: customsearch#result
+    link: https://tabelog.com/en/tokyo/A1303/A130302/13173146/
+    pagemap:
+      cse_image:
+      - src: https://tblg.k-img.com/restaurant/images/Rvw/31104/200x200_square_31104484.jpg
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_RIzGyWq_oIOctYxzRYewaeWwhLXG64nbW-nljaZVsQI84sNnT56bu2A
+        width: '200'
+      metatags:
+      - csrf-param: authenticity_token
+        csrf-token: wOxHu6X//ANqllIRWdOyggy2k8Qt5LAcPi5+p9LAvvxNfnYcX2yyDjLSv6R65SyzN89FHrJ3gGDqVeEVOQ5AoA==
+        fb:app_id: '129441673828181'
+        fb:page_id: '190929767599950'
+        format-detection: telephone=no
+        msapplication-tilecolor: '#f6ab09'
+        msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
+        msvalidate.01: 83850DF955D5869742B5501931E44222
+        og:description: EsupuressodhiwakusuCheck out the information about Cafe restaurants
+          in Ebisu at Tabelog! It's full of real information like reviews, ratings,
+          and photos posted by users! It also has enough detailed information like
+          maps and menus.
+        og:image: https://tblg.k-img.com/restaurant/images/Rvw/31104/200x200_square_31104484.jpg
+        og:site_name: Tabelog
+        og:title: Esupuressodhiwakusu - Ebisu/Cafe [Tabelog]
+        og:type: website
+        tblg-ajax-token: 351ec14f00c8cca6f63b733126225dfd04a1885e
+        twitter:card: summary
+        twitter:site: '@tabelog'
+        viewport: width=1024
+        y_key: 6b4002d5be0a5d72
+    snippet: "Esupuressodhiwakusu (ESPRESSO D WORKS). Categories. Cafe, Pancake, \n\
+      Cake. TEL/reservation. 03-6447-7277 (+81-3-6447-7277). 予約可. 予約は18:00\n以降のバル使いの方のみで、混み合った場合は2時間制をとらせていただきます。ご\n\
+      予約の ..."
+    title: Esupuressodhiwakusu - Ebisu/Cafe [Tabelog]
+  - cacheId: T6Ynnv9-sTQJ
+    displayLink: www.hotpepper.jp
+    formattedUrl: https://www.hotpepper.jp/strJ001189405/
+    htmlFormattedUrl: https://www.hotpepper.jp/strJ001189405/
+    htmlSnippet: '【ネット予約可】<b>ESPRESSO D WORKS</b> 渋谷（カフェ・スイーツ/カフェ）の予約なら、お得<br>
+
+      なクーポン満載、24時間ネット予約でポイントもたまる【ホットペッパーグルメ】！おすすめ<br>
+
+      はランチは【平日限定】スープ・ドリンク付！名物チキンワッフルや人気のガパオライス&nbsp;...'
+    htmlTitle: <b>ESPRESSO D WORKS</b> 渋谷(宇田川町/カフェ・スイーツ)＜ネット予約可 ...
+    kind: customsearch#result
+    link: https://www.hotpepper.jp/strJ001189405/
+    pagemap:
+      cse_image:
+      - src: https://imgfp.hotp.jp/IMGH/45/99/P029814599/P029814599_480.jpg
+      cse_thumbnail:
+      - height: '225'
+        src: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcn4a5tvR9jMg2PhujNO3JVD1stvsvC2hQyBkgl9cc5X17TIMHYStyniU
+        width: '225'
+      metatags:
+      - fb:app_id: '114528591936629'
+        mixi-check-description: 【ネット予約可】ESPRESSO D WORKS 渋谷（カフェ・スイーツ/カフェ）の予約なら、お得なクーポン満載、24時間ネット予約でポイントもたまる【ホットペッパーグルメ】！おすすめはランチは【平日限定】スープ・ドリンク付！名物チキンワッフルや人気のガパオライスなど、全て980円(税抜)
+          おひとり様やデートにオススメ！カウンター席もあります♪キッチンを目の前に美味しい香りに包まれて…☆。※この店舗はネット予約に対応しています。
+        og:description: 【ネット予約可】ESPRESSO D WORKS 渋谷（カフェ・スイーツ/カフェ）の予約なら、お得なクーポン満載、24時間ネット予約でポイントもたまる【ホットペッパーグルメ】！おすすめはランチは【平日限定】スープ・ドリンク付！名物チキンワッフルや人気のガパオライスなど、全て980円(税抜)
+          おひとり様やデートにオススメ！カウンター席もあります♪キッチンを目の前に美味しい香りに包まれて…☆。※この店舗はネット予約に対応しています。
+        og:image: https://imgfp.hotp.jp/IMGH/45/99/P029814599/P029814599_480.jpg
+        og:site_name: グルメ・クーポン情報 ホットペッパー ホットペッパー グルメ
+        og:title: ESPRESSO D WORKS  渋谷
+        og:type: website
+        og:url: https://www.hotpepper.jp/strJ001189405/?vos=nhppprsbz10081602
+    snippet: '【ネット予約可】ESPRESSO D WORKS 渋谷（カフェ・スイーツ/カフェ）の予約なら、お得
+
+      なクーポン満載、24時間ネット予約でポイントもたまる【ホットペッパーグルメ】！おすすめ
+
+      はランチは【平日限定】スープ・ドリンク付！名物チキンワッフルや人気のガパオライス ...'
+    title: ESPRESSO D WORKS 渋谷(宇田川町/カフェ・スイーツ)＜ネット予約可 ...
+  - cacheId: TRv1bZhqeHMJ
+    displayLink: matome.naver.jp
+    formattedUrl: https://matome.naver.jp/odai/.../2152879246841280303
+    htmlFormattedUrl: https://matome.naver.jp/odai/.../2152879246841280303
+    htmlSnippet: '2018年6月12日 <b>...</b> <b>ESPRESSO D WORKS</b>/エスプレッソディーワークス (恵比寿/カフェ)の店舗情報は<b>食べ</b><br>
+
+      <b>ログ</b>でチェック！【恵比寿東口徒歩７分】行列ができるカフェＥＤＷ１号店！歓迎会、女子<br>
+
+      会、貸切も◎Ｋ 【分煙 / 禁煙 / 飲み放題あり / ネット予約可】口コミや&nbsp;...'
+    htmlTitle: <b>ESPRESSO D WORKS</b> （エスプレッソディーワークス） - 恵比寿/カフェ ...
+    kind: customsearch#result
+    link: https://matome.naver.jp/odai/2152836377482976001/2152879246841280303
+    pagemap:
+      cse_image:
+      - src: https://rr.img.naver.jp/mig?src=https%3A%2F%2Ftblg.k-img.com%2Frestaurant%2Fimages%2FRvw%2F31104%2F200x200_square_31104484.jpg&twidth=1200&theight=1200&qlt=80&res_format=jpg&op=r
+      cse_thumbnail:
+      - height: '200'
+        src: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDeV90mE37PZzDmgSoxxTLOWKzPeOKOyqU-pOPG5wRAnbSw5nxpaFVivdS
+        width: '200'
+      metatags:
+      - fb:admins: '100002409002490'
+        fb:app_id: '115249445227759'
+        og:description: こちらもスフレパンケーキが人気なNY風のお店です！ スタイリッシュな店内はいつも人でいっぱいです。 お昼はカフェ、夜はバルといったお店なので大人カジュアルなデートにはここ♪
+        og:image: https://rr.img.naver.jp/mig?src=https%3A%2F%2Ftblg.k-img.com%2Frestaurant%2Fimages%2FRvw%2F31104%2F200x200_square_31104484.jpg&twidth=1200&theight=1200&qlt=80&res_format=jpg&op=r
+        og:site_name: NAVER まとめ
+        og:title: 'ESPRESSO D WORKS （エスプレッソディーワークス） - 恵比寿/カフェ [食べログ] : 【恵比寿】絶対に行くべきフォトジェニックなカフェ＆レストラン
+          - NAVER まとめ'
+        og:type: article
+        og:url: https://matome.naver.jp/odai/2152836377482976001/2152879246841280303
+        referrer: unsafe-url
+        twitter:card: summary_large_image
+        twitter:description: こちらもスフレパンケーキが人気なNY風のお店です！ スタイリッシュな店内はいつも人でいっぱいです。 お昼はカフェ、夜はバルといったお店なので大人カジュアルなデートにはここ♪
+        twitter:image:src: https://rr.img.naver.jp/mig?src=https%3A%2F%2Ftblg.k-img.com%2Frestaurant%2Fimages%2FRvw%2F31104%2F200x200_square_31104484.jpg&twidth=1200&theight=1200&qlt=80&res_format=jpg&op=r
+        twitter:site: '@matomenaver'
+        twitter:title: 'ESPRESSO D WORKS （エスプレッソディーワークス） - 恵比寿/カフェ [食べログ] : 【恵比寿】絶対に行くべきフォトジェニックなカフェ＆レストラン
+          - NAVER まとめ'
+    snippet: '2018年6月12日 ... ESPRESSO D WORKS/エスプレッソディーワークス (恵比寿/カフェ)の店舗情報は食べ
+
+      ログでチェック！【恵比寿東口徒歩７分】行列ができるカフェＥＤＷ１号店！歓迎会、女子
+
+      会、貸切も◎Ｋ 【分煙 / 禁煙 / 飲み放題あり / ネット予約可】口コミや ...'
+    title: ESPRESSO D WORKS （エスプレッソディーワークス） - 恵比寿/カフェ ...
+  - cacheId: Zxbsxp0eoCkJ
+    displayLink: www.taglog.info
+    formattedUrl: www.taglog.info/genre/カフェ
+    htmlFormattedUrl: www.taglog.info/genre/カフェ
+    htmlSnippet: '店名, 最寄り駅, ジャンル, <b>食べログ</b> ... <b>ESPRESSO D WORKS</b>, 恵比寿 &middot;
+      カフェ &middot; https://<br>
+
+      <b>tabelog</b>.com/tokyo/A1303/A130302/13173146/ ... 今日の #食べるちゃんねる は<br>
+
+      恵比寿のクリスプサラダワークス。定番のシーザーサラダや、好きなサラダをカスタム&nbsp;...'
+    htmlTitle: カフェ
+    kind: customsearch#result
+    link: http://www.taglog.info/genre/%E3%82%AB%E3%83%95%E3%82%A7
+    pagemap:
+      metatags:
+      - viewport: width=device-width, initial-scale=1, shrink-to-fit=no
+    snippet: '店名, 最寄り駅, ジャンル, 食べログ ... ESPRESSO D WORKS, 恵比寿 · カフェ · https://
+
+      tabelog.com/tokyo/A1303/A130302/13173146/ ... 今日の #食べるちゃんねる は
+
+      恵比寿のクリスプサラダワークス。定番のシーザーサラダや、好きなサラダをカスタム ...'
+    title: カフェ
+  kind: customsearch#search
+  queries:
+    nextPage:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: ESPRESSO D WORKS tabelog
+      startIndex: 11
+      title: Google Custom Search - ESPRESSO D WORKS tabelog
+      totalResults: '28700'
+    request:
+    - count: 10
+      cx: 004824719477391694589:_w09q_fo_c0
+      inputEncoding: utf8
+      language: lang_ja
+      outputEncoding: utf8
+      safe: 'off'
+      searchTerms: ESPRESSO D WORKS tabelog
+      startIndex: 1
+      title: Google Custom Search - ESPRESSO D WORKS tabelog
+      totalResults: '28700'
+  searchInformation:
+    formattedSearchTime: '0.58'
+    formattedTotalResults: 28,700
+    searchTime: 0.584034
+    totalResults: '28700'
+  url:
+    template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
+    type: application/json
+snapshot_timestamp: 2019/04/24 13:17:49
+snapshot_ymd: '20190424'
