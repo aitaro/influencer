@@ -16,20 +16,32 @@ class Google:
 
     def search(self, keyword, maximum):
         print('begin searching', keyword)
-        query = self.query_gen(keyword)
+        query = self.query_gen(keyword, 'image')
         return self.image_search(query, maximum)
 
-    def query_gen(self, keyword):
+    def query_gen(self, keyword,type):
         # search query generator
         page = 0
         while True:
-            params = urllib.parse.urlencode({
+            query = {
                 'q': keyword,
-                'tbm': 'isch',
-                'ijn': str(page)})
+                'ijn': str(page)
+            }
+            if type == 'image':
+                query['tbm'] = 'isch'
+
+            params = urllib.parse.urlencode(query)
 
             yield self.GOOGLE_SEARCH_URL + '?' + params
             page += 1
+
+    def url_search(self, query_gen, maximum):
+        # search image
+        result = []
+        total = 0
+
+        
+        return result
 
     def image_search(self, query_gen, maximum):
         # search image
@@ -89,4 +101,4 @@ def main(keyword, num, path):
 
 
 if __name__ == '__main__':
-    main('猫',10)
+    main('猫',10,'g')
