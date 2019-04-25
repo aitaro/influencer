@@ -5,6 +5,7 @@ import urllib
 
 from bs4 import BeautifulSoup
 import requests
+from pdb import set_trace
 
 
 class Google:
@@ -39,9 +40,43 @@ class Google:
         # search image
         result = []
         total = 0
+        while True:
+            html = self.session.get(next(query_gen)).text
+            soup = BeautifulSoup(html, 'lxml')
+            urls = [a['href'] for a in soup.select('.bkWMgd .rc .r > a')]
 
-        
+            # add search result
+            if not len(urls):
+                print('-> no more urls')
+                break
+            elif len(urls) > maximum - total:
+                result += urls[:maximum - total]
+                break
+            else:
+                result += urls
+                total += len(urls)
         return result
+
+    def details_search(self, urls):
+        total = 0
+        res = []
+        for url in urls:
+
+            # URLにアクセスする htmlが帰ってくる → <html><head><title>経済、株価、ビジネス、政治のニュース:日経電子版</title></head><body....
+            req = urllib.request.Request(url)
+            response = urllib.request.urlopen(req)
+            html = response.read()
+
+            soup = BeautifulSoup(html, "html.parser")
+
+
+            try:
+                res.append(soup.select('meta[name="description"]')[0]['content'])
+            except:
+                res.append('no datails')
+            total += 1
+            print(f'searched webpage {total}')
+        return res
 
     def image_search(self, query_gen, maximum):
         # search image
@@ -68,6 +103,11 @@ class Google:
 
         print('-> found', str(len(result)), 'images')
         return result
+
+def details(keyword, num):
+    google = Google()
+    query = google.query_gen(keyword, 'text')
+    return google.details_search(google.url_search(query, num))
 
 
 def main(keyword, num, path):
@@ -101,4 +141,7 @@ def main(keyword, num, path):
 
 
 if __name__ == '__main__':
-    main('猫',10,'g')
+    # main('猫',10,'g')
+    google = Google()
+    query = google.query_gen('京都', 'text')
+    print(google.details_search(google.url_search(query, 20)))

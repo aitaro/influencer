@@ -44,6 +44,18 @@ def getRelatedImg(num):
     google_search.main(target_keyword, 20, path)
     return 'success'
 
+def getDetails(num):
+
+    # 検索キーワード
+    t = Tweet(num)
+    target_keyword = f'{t.name}'
+
+    list = google_search.details(target_keyword, 20)
+
+    for l in list:
+        print(l)
+
+
 if __name__ == '__main__':
     num1 = int(sys.argv[1])
     if len(sys.argv) == 3:
@@ -53,3 +65,4 @@ if __name__ == '__main__':
     for i in range(num1, num2+1):
         getTabelogUrl(i)
         getRelatedImg(i)
+        # getDetails(i)
