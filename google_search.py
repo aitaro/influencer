@@ -57,26 +57,7 @@ class Google:
                 total += len(urls)
         return result
 
-    def details_search(self, urls):
-        total = 0
-        res = []
-        for url in urls:
 
-            # URLにアクセスする htmlが帰ってくる → <html><head><title>経済、株価、ビジネス、政治のニュース:日経電子版</title></head><body....
-            req = urllib.request.Request(url)
-            response = urllib.request.urlopen(req)
-            html = response.read()
-
-            soup = BeautifulSoup(html, "html.parser")
-
-
-            try:
-                res.append(soup.select('meta[name="description"]')[0]['content'])
-            except:
-                res.append('no datails')
-            total += 1
-            print(f'searched webpage {total}')
-        return res
 
     def image_search(self, query_gen, maximum):
         # search image
@@ -144,4 +125,4 @@ if __name__ == '__main__':
     # main('猫',10,'g')
     google = Google()
     query = google.query_gen('京都', 'text')
-    print(google.details_search(google.url_search(query, 20)))
+    print(google.url_search(query, 20))
