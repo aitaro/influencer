@@ -29,6 +29,9 @@ https://retty.me/theme/100014800/
 ### ツイート取得システム
 - URL自動取得 done
 - 画像自動取得
+  - https://qiita.com/mokoenator/items/ca58b5a50d7499003054
+  -
 - details自動取得
+  - ぐるなびの追加
 - タグ自動取得
 - 店自動選択

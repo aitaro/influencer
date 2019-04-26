@@ -3,7 +3,10 @@ import google_search
 from tweet import Tweet
 import yaml
 import sys
+import glob
+import os
 from pdb import set_trace
+from detail import Detail
 
 def saveImages(url_list, path):
 
@@ -48,21 +51,31 @@ def getDetails(num):
 
     # 検索キーワード
     t = Tweet(num)
-    target_keyword = f'{t.name}'
+    d = Detail(f'{t.name}')
+    t.details = d.best()
+    t.save()
+    return 'success'
 
-    list = google_search.details(target_keyword, 20)
-
-    for l in list:
-        print(l)
-
+def createTweet(name):
+    list = glob.glob("post_tweets/*")
+    num = len(list) + 1
+    # print(f'tweet number is {num}')
+    t = Tweet(num)
+    t.name = name
+    t.save()
+    return num
 
 if __name__ == '__main__':
-    num1 = int(sys.argv[1])
-    if len(sys.argv) == 3:
-        num2 = int(sys.argv[2])
-    else:
-        num2 = num1
-    for i in range(num1, num2+1):
+
+    if len(sys.argv) == 2:
+        i = int(sys.argv[1])
         getTabelogUrl(i)
         getRelatedImg(i)
-        # getDetails(i)
+        getDetails(i)
+    else:
+        with open('name.txt') as f:
+            for line in f:
+                i = createTweet(line.rstrip())
+                getTabelogUrl(i)
+                getRelatedImg(i)
+                getDetails(i)

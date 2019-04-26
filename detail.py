@@ -3,16 +3,18 @@ import yaml
 from google_search import Google
 from bs4 import BeautifulSoup
 from pdb import set_trace
+from tweet import Tweet
+import sys
 
 
 class Detail:
-    def __init__(self, word, c_num=20):
+    def __init__(self, word, c_num=30):
         self.word = word
         self.c_num = c_num
 
     def search(self):
         google = Google()
-        query = google.query_gen(self.word, 'text')
+        query = google.query_gen(self.word + ' -Retty -食べログ', 'text')
         self.urls = google.url_search(query, self.c_num)
 
     def createCanditates(self):
@@ -22,14 +24,20 @@ class Detail:
 
             # URLにアクセスする htmlが帰ってくる → <html><head><title>経済、株価、ビジネス、政治のニュース:日経電子版</title></head><body....
             req = urllib.request.Request(url)
-            response = urllib.request.urlopen(req)
+            try:
+                response = urllib.request.urlopen(req)
+            except Exception as e:
+                print(e)
+                print('could not find detail')
+                continue
             html = response.read()
 
             soup = BeautifulSoup(html, "html.parser")
 
 
             try:
-                self.candidates.append({'text': soup.select('meta[name="description"]')[0]['content']})
+                cand = {'text': soup.select('meta[name="description"]')[0]['content']}
+                self.candidates.append(cand)
             except:
                 print('no datails')
             total += 1
@@ -45,6 +53,12 @@ class Detail:
         f = open("score_sheet.yml", "r+")
         score_sheet = yaml.load(f, Loader=yaml.FullLoader)
         sum = 0
+
+        if len(text) < 40:
+            sum -= 3
+        if not type(text) is str:
+            return -1000
+
         for k, v in score_sheet.items():
             if k in text:
                 sum += v
@@ -55,7 +69,7 @@ class Detail:
         self.createCanditates()
         self.scoring()
 
-        maxScore = -100
+        maxScore = 0
         maxDetail = ''
         for cand in self.candidates:
             if maxScore < cand['score']:
@@ -69,6 +83,7 @@ class Detail:
 
 
 if __name__ == '__main__':
-    d = Detail('コトカフェ', c_num=10)
+    t = Tweet(int(sys.argv[1]))
+    d = Detail(t.name)
     print(d.best())
     d.export()
