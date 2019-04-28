@@ -5,6 +5,8 @@ import yaml
 from pdb import set_trace
 import os
 import random
+from logger import logger
+from slack import slack_notify
 auth = tweepy.OAuthHandler(config.CONSUMER_KEY, config.CONSUMER_SECRET)
 auth.set_access_token(config.ACCESS_TOKEN, config.ACCESS_TOKEN_SECRET)
 
@@ -74,14 +76,18 @@ def can_tweet(num):
 
 if __name__ == '__main__':
     # print(search())
-    current_no = get_current_no()
-    if can_tweet(current_no+1):
-        current_no += 1
-        print(tweet(current_no))
-        set_current_no(current_no)
-    else:
-        tweet_again_no = random.randint(1,current_no-5)
-        delete_tweet(tweet_again_no)
-        print(tweet(tweet_again_no))
+    try:
+        current_no = get_current_no()
+        if can_tweet(current_no+1):
+            current_no += 1
+            print(tweet(current_no))
+            set_current_no(current_no)
+        else:
+            tweet_again_no = random.randint(1,current_no-5)
+            delete_tweet(tweet_again_no)
+            print(tweet(tweet_again_no))
+    except Exception as e:
+        logger.error(e)
+        slack_notify(str(e.args))
 
 print('hello main python finished')
