@@ -1,4 +1,5 @@
 #!/bin/bash
 COMMANDS="cd ~/influencer;git pull;crontab cron.conf"
+scp $(cd $(dirname $0);cd ..;pwd)/config.py aitaro@$IP_ADDRESS:/home/aitaro/influencer/config.py
 ssh $IP_ADDRESS $COMMANDS
 echo 'deploy success'

@@ -1,9 +1,9 @@
 import requests, json
 import os
-
+import config
 
 def slack_notify(text):
-    requests.post(os.getenv('SLACK_WEBHOOK_URL'), data = json.dumps({
+    requests.post(config.SLACK_WEBHOOK_URL, data = json.dumps({
         'text': text,  #通知内容
         'channel': '#twitter',
         'username': u'Python-Bot',  #ユーザー名
