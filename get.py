@@ -54,6 +54,7 @@ def getDetails(num):
     d = Detail(f'{t.name}')
     t.details = d.best()
     t.save()
+    d.simple_export(f'post_tweets/{t.no}/details.txt'})
     return 'success'
 
 def createTweet(name):

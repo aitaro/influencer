@@ -81,9 +81,21 @@ class Detail:
         f = open("details_example.yml", "w+")
         f.write(yaml.dump(self.candidates, allow_unicode=True))
 
+    def list(self):
+        self.search()
+        self.createCanditates()
+        self.scoring()
+        # return sorted(self.candidates, key=lambda x: x['score'])
+        return map(lambda x: x['text'], sorted(self.candidates, key=lambda x: x['score']))
+
+    def simple_export(self, path):
+        str_ = '\n'.join(self.list())
+        with open(path, 'wt') as f:
+            f.write(str_)
 
 if __name__ == '__main__':
     t = Tweet(int(sys.argv[1]))
     d = Detail(t.name)
     print(d.best())
+    print(d.list())
     d.export()
