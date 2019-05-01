@@ -86,7 +86,7 @@ class Detail:
         self.createCanditates()
         self.scoring()
         # return sorted(self.candidates, key=lambda x: x['score'])
-        return map(lambda x: x['text'], sorted(self.candidates, key=lambda x: x['score']))
+        return map(lambda x: x['text'], sorted(self.candidates, key=lambda x: -x['score']))
 
     def simple_export(self, path):
         str_ = '\n'.join(self.list())
