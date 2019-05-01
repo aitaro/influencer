@@ -26,7 +26,9 @@ class Google:
         while True:
             query = {
                 'q': keyword,
-                'ijn': str(page)
+                'ijn': str(page),
+                'hl': 'ja',
+                'lr': 'lang_ja'
             }
             if type == 'image':
                 query['tbm'] = 'isch'

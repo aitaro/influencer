@@ -28,6 +28,7 @@ class Detail:
                 response = urllib.request.urlopen(req)
             except Exception as e:
                 print(e)
+                print(url)
                 print('could not find detail')
                 continue
             html = response.read()
