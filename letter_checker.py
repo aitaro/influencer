@@ -20,7 +20,7 @@ if __name__ == '__main__':
   for filename in file_list:
       f = open(filename, 'r')
       data = yaml.load(f)
-      if get_east_asian_width_count((data['name'] + data['content']['details'] + data['content']['url'])) > 275:
+      if get_east_asian_width_count((data['name'] + data['content']['details'] + data['content']['url'])) > 300:
           print(filename)
           print('too long')
           print(get_east_asian_width_count(data['name'] + data['content']['details'] + data['content']['url']))
