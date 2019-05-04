@@ -7,6 +7,7 @@ import glob
 import os
 from pdb import set_trace
 from detail import Detail
+from retty import Retty
 
 def saveImages(url_list, path):
 
@@ -41,10 +42,10 @@ def getRelatedImg(num):
 
     # set_trace()
 
-    google_search.main(target_keyword, 20, path)
+    google_search.main(target_keyword, 20, path, prefix='shop')
     target_keyword = f'{t.name} food'
     path = f'post_tweets/{num}/food'
-    google_search.main(target_keyword, 20, path)
+    google_search.main(target_keyword, 20, path, prefix='food')
     return 'success'
 
 def getDetails(num):
@@ -52,8 +53,8 @@ def getDetails(num):
     # 検索キーワード
     t = Tweet(num)
     d = Detail(f'{t.name}')
-    t.details = d.best()
-    t.save()
+    # t.details = d.best()
+    # t.save()
     d.simple_export(f'post_tweets/{t.no}/details.txt')
     return 'success'
 
@@ -66,17 +67,35 @@ def createTweet(name):
     t.save()
     return num
 
-if __name__ == '__main__':
+def createTweet2(i):
+    list = glob.glob("post_tweets/*")
+    num = len(list)
+    retty = Retty(i)
+    cares = retty.search()
+    for cafe in cafes:
+        num += 1
+        t = Tweet(num)
+        t.name = cafe['name']
+        t.details = cafe['details']
+        t.save()
+        getTabelogUrl(num)
+        getRelatedImg(num)
+        getDetails(num)
+    return 'success'
 
-    if len(sys.argv) == 2:
-        i = int(sys.argv[1])
-        getTabelogUrl(i)
-        getRelatedImg(i)
-        getDetails(i)
-    else:
-        with open('name.txt') as f:
-            for line in f:
-                i = createTweet(line.rstrip())
-                getTabelogUrl(i)
-                getRelatedImg(i)
-                getDetails(i)
+
+
+if __name__ == '__main__':
+    createTweet2(3)
+    # if len(sys.argv) == 2:
+    #     i = int(sys.argv[1])
+    #     getTabelogUrl(i)
+    #     getRelatedImg(i)
+    #     getDetails(i)
+    # else:
+    #     with open('name.txt') as f:
+    #         for line in f:
+    #             i = createTweet(line.rstrip())
+    #             getTabelogUrl(i)
+    #             getRelatedImg(i)
+    #             getDetails(i)

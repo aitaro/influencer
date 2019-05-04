@@ -93,7 +93,7 @@ def details(keyword, num):
     return google.details_search(google.url_search(query, num))
 
 
-def main(keyword, num, path):
+def main(keyword, num, path, prefix=''):
     google = Google()
     name = keyword
     # data_dir = 'data/'
@@ -110,7 +110,7 @@ def main(keyword, num, path):
         print('-> downloading image', str(i + 1).zfill(4))
         try:
             urllib.request.urlretrieve(
-                result[i], path + '/' + str(i + 1).zfill(4) + '.jpg')
+                result[i], path + '/' + prefix + str(i + 1).zfill(4) + '.jpg')
         except Exception as e:
             print(e)
             print('--> could not download image', str(i + 1).zfill(4))
