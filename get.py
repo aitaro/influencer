@@ -84,7 +84,7 @@ def createTweet2(i):
         # cafe = {'name':'hoge', 'details': 'fuga'}
         # set_trace()
         num += 1
-        if num <= 104: continue
+        # if num <= 104: continue
         t = Tweet(num)
         t.name = cafe['name']
         t.details = cafe['details']
@@ -97,7 +97,7 @@ def createTweet2(i):
 
 
 if __name__ == '__main__':
-    createTweet2(3)
+    createTweet2(4)
     # if len(sys.argv) == 2:
     #     i = int(sys.argv[1])
     #     getTabelogUrl(i)
