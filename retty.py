@@ -12,7 +12,7 @@ sys.setrecursionlimit(10000)
 class Retty:
     def __init__(self, page):
         self.page = page
-        self.search_url = 'https://retty.me/theme/100014800/?page=3'
+        self.search_url = f'https://retty.me/theme/100014800/?page={page}'
 
     def search(self):
         html_doc = requests.get(self.search_url).text
