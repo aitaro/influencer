@@ -84,7 +84,7 @@ def createTweet2(i):
         # cafe = {'name':'hoge', 'details': 'fuga'}
         # set_trace()
         num += 1
-        # if num <= 104: continue
+        if num <= 121: continue
         t = Tweet(num)
         t.name = cafe['name']
         t.details = cafe['details']
