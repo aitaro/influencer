@@ -8,7 +8,6 @@ import os
 from pdb import set_trace
 from detail import Detail
 from retty import Retty
-import pysnooper
 
 def saveImages(url_list, path):
 
@@ -68,7 +67,6 @@ def createTweet(name):
     t.save()
     return num
 
-@pysnooper.snoop()
 def createTweet2(i):
     # list = glob.glob("post_tweets/*")
     # num = len(list)

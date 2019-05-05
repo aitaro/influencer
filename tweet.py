@@ -1,6 +1,5 @@
 import yaml
 import os.path
-import pysnooper
 import sys
 import unicodedata
 from pdb import set_trace
@@ -46,7 +45,6 @@ class Tweet:
         if not os.path.isdir(self.path):
             os.makedirs(self.path)
 
-    @pysnooper.snoop()
     def save(self):
         num = self.no
         twitter_data = {}
