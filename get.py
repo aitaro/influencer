@@ -8,6 +8,7 @@ import os
 from pdb import set_trace
 from detail import Detail
 from retty import Retty
+import pysnooper
 
 def saveImages(url_list, path):
 
@@ -37,13 +38,13 @@ def getRelatedImg(num):
 
     # 検索キーワード
     t = Tweet(num)
-    target_keyword = f'{t.name} 店'
+    target_keyword = f'{t.name} カフェ 店'
     path = f'post_tweets/{num}/shop'
 
     # set_trace()
 
     google_search.main(target_keyword, 20, path, prefix='shop')
-    target_keyword = f'{t.name} food'
+    target_keyword = f'{t.name} カフェ food'
     path = f'post_tweets/{num}/food'
     google_search.main(target_keyword, 20, path, prefix='food')
     return 'success'
@@ -67,13 +68,25 @@ def createTweet(name):
     t.save()
     return num
 
+@pysnooper.snoop()
 def createTweet2(i):
-    list = glob.glob("post_tweets/*")
-    num = len(list)
+    # list = glob.glob("post_tweets/*")
+    # num = len(list)
+    num = 83
+    # print(1)
     retty = Retty(i)
-    cares = retty.search()
+    # print(2)
+    cafes = retty.search()
+    # print(3)
+    # set_trace()
+    print(cafes)
     for cafe in cafes:
+    # print(cafes[0])
+    # cafe = cafes[0]
+        # cafe = {'name':'hoge', 'details': 'fuga'}
+        # set_trace()
         num += 1
+        if num == 84: continue
         t = Tweet(num)
         t.name = cafe['name']
         t.details = cafe['details']

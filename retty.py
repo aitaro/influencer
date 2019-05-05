@@ -6,6 +6,8 @@ from bs4 import BeautifulSoup
 from pdb import set_trace
 # from tweet import Tweet
 # import sys
+import sys
+sys.setrecursionlimit(10000)
 
 class Retty:
     def __init__(self, page):
@@ -28,7 +30,7 @@ class Retty:
             title = shop.select('.mt-restaurant-title__main-catchcopy > a')[0].string or ''
             # set_trace()
             cafe = {
-                'name': soup.select('.mt-restaurant-title__main-name > a')[0].string,
+                'name': str(shop.select('.mt-restaurant-title__main-name > a')[0].string),
                 'details': self.createDetails(title, description)
                 }
             cafes.append(cafe)
@@ -39,7 +41,7 @@ class Retty:
         # if len(list) == 1:
         #     list.append('')
         # set_trace()
-        return (title + '。'+ '。'.join(list[1:])).replace(' ', '')
+        return str(title + '。'+ '。'.join(list[1:])).replace(' ', '')
 
 
 if __name__ == '__main__':

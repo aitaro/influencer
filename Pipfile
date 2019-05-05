@@ -12,6 +12,7 @@ requests-oauthlib = "*"
 google-api-python-client = "*"
 bs4 = '*'
 lxml = '*'
+pysnooper = '*'
 
 [requires]
 python_version = "3.7"

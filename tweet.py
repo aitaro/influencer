@@ -1,5 +1,21 @@
 import yaml
 import os.path
+import pysnooper
+import sys
+import unicodedata
+from pdb import set_trace
+
+sys.setrecursionlimit(10000)
+
+def get_east_asian_width_count(text):
+    count = 0
+    for c in text:
+        if unicodedata.east_asian_width(c) in 'FWA':
+            count += 2
+        else:
+            count += 1
+    return count
+
 
 class Tweet:
 
@@ -30,7 +46,7 @@ class Tweet:
         if not os.path.isdir(self.path):
             os.makedirs(self.path)
 
-
+    @pysnooper.snoop()
     def save(self):
         num = self.no
         twitter_data = {}
@@ -41,12 +57,21 @@ class Tweet:
         if self.id: twitter_data['id'] = self.id
         tweet_data_path = f'post_tweets/{num}'
         self.mkdir()
-        f = open(f"post_tweets/{num}/tweet.yml", "w")
-        f.write(yaml.dump(twitter_data, allow_unicode=True))
+        # f = open(f"post_tweets/{num}/tweet.yml", "w")
+        # f.write(yaml.dump(twitter_data, allow_unicode=True))
+
+        with open(f"post_tweets/{num}/tweet.yml", "w") as wf:
+            yaml.dump(twitter_data, wf, allow_unicode=True)
 
         return 'success'
 
 
+    def letterChecker(self):
+        return get_east_asian_width_count((self.name + self.details + self.url)) > 300
+
+    def reduceDetails(self):
+        # set_trace()
+        self.details = '。'.join(self.details.split('。')[:-1])
 
 if __name__ == '__main__':
     t = Tweet(1)

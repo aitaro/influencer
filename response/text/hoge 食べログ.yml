@@ -8,7 +8,7 @@ response:
     htmlFormattedUrl: https://<b>tabelog</b>.com/kyoto/
     htmlSnippet: 'お店選びで失敗したくない人のためのグルメサイト「<b>食べログ</b>」は京都にあるレストラン<br>
 
-      22296件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、<br>
+      22318件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、<br>
 
       様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
     htmlTitle: 京都のグルメ・レストランガイド [<b>食べログ</b>]
@@ -26,14 +26,14 @@ response:
         width: '180'
       metatags:
       - csrf-param: authenticity_token
-        csrf-token: f0hAWXiX54bDW3/uSS19xPYRmWxP5w5GbexSRXJLXLS0kbjDN4IIC3eWBpAzwbFL+F9o3nOqLRDXPsLTBOHlaA==
+        csrf-token: sCXHccNzLKIdrO27rfhJBy8saPevzoUygqE6u9Y/bw6NZ1wj3cHIw9fgrnvNzW9tWmMk8ByBftkl4kcgBoSrKw==
         fb:app_id: '129441673828181'
         fb:page_id: '190929767599950'
         format-detection: telephone=no
         msapplication-tilecolor: '#f6ab09'
         msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
         msvalidate.01: 83850DF955D5869742B5501931E44222
-        og:description: 京都にあるレストラン22,296件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
+        og:description: 京都にあるレストラン22,318件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
         og:image: https://tabelog.com/images/rst/area/fb_icon_kyoto.gif
         og:site_name: 食べログ
         og:title: 京都 グルメ・レストランガイド
@@ -44,7 +44,7 @@ response:
         y_key: 6b4002d5be0a5d72
     snippet: 'お店選びで失敗したくない人のためのグルメサイト「食べログ」は京都にあるレストラン
 
-      22296件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、
+      22318件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、
 
       様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
     title: 京都のグルメ・レストランガイド [食べログ]
@@ -52,11 +52,11 @@ response:
     displayLink: qiita.com
     formattedUrl: https://qiita.com/fdash/items/2c8f3f9389d3d844fcea
     htmlFormattedUrl: https://qiita.com/fdash/items/2c8f3f9389d3d844fcea
-    htmlSnippet: '2018年12月25日 <b>...</b> はじめに. <b>食べログ</b>ではWeb開発(Ruby)→iOS開発(Obj-c/Swift)と経験して、現在は<br>
+    htmlSnippet: '2018年12月25日 <b>...</b> <b>食べログ</b>ではWeb開発(Ruby)→iOS開発(Obj-c/Swift)と経験して、現在はAndroid開発<br>
 
-      Android開発(Java/Kotlin)をメインでやっています。 ... val <b>hoge</b> = listOf(1, 2, 3) <b>hoge</b>.<br>
+      (Java/Kotlin)をメインでやってい ... itと<b>hoge</b>はInt?のまま } // 期待していたのはこっち(<br>
 
-      first{ it == 4 } // =&gt; NoSuchElementException！！ <b>hoge</b>.firstOrNull&nbsp;...'
+      もしくは普通にif式でどうぞ) <b>hoge</b>?.let { // <b>hoge</b>がNonNullの場合&nbsp;...'
     htmlTitle: Kotlinに流れ着いたエンジニアがハマりがちなもの - Qiita
     kind: customsearch#result
     link: https://qiita.com/fdash/items/2c8f3f9389d3d844fcea
@@ -75,7 +75,7 @@ response:
         width: '200'
       metatags:
       - csrf-param: authenticity_token
-        csrf-token: t1wgBkktz7hZtVxjpxv6qYEeyquUoHefAFx3hDN2pjduFm4eTmVswvGN0mhnrcsexUYfO7ibHOpreszdMqPwng==
+        csrf-token: wMC1K6QOJCSrTBRtadf5+0MNDOt4hMrlKE6DF2chGVx6vtV84us8v6zdqfrUhKDRuqLKh7WyAo4D3TE/Hh9q3g==
         fb:admins: '564524038'
         og:description: 'Happy Holidays!!
 
@@ -105,11 +105,11 @@ response:
       person:
       - image: https://avatars.githubusercontent.com/u/9676588?v=3
         name: '@fdash'
-    snippet: '2018年12月25日 ... はじめに. 食べログではWeb開発(Ruby)→iOS開発(Obj-c/Swift)と経験して、現在は
+    snippet: '2018年12月25日 ... 食べログではWeb開発(Ruby)→iOS開発(Obj-c/Swift)と経験して、現在はAndroid開発
 
-      Android開発(Java/Kotlin)をメインでやっています。 ... val hoge = listOf(1, 2, 3) hoge.
+      (Java/Kotlin)をメインでやってい ... itとhogeはInt?のまま } // 期待していたのはこっち(
 
-      first{ it == 4 } // => NoSuchElementException！！ hoge.firstOrNull ...'
+      もしくは普通にif式でどうぞ) hoge?.let { // hogeがNonNullの場合 ...'
     title: Kotlinに流れ着いたエンジニアがハマりがちなもの - Qiita
   - cacheId: ORrJzuJv9EsJ
     displayLink: tabelog.com
@@ -117,7 +117,7 @@ response:
     htmlFormattedUrl: https://<b>tabelog</b>.com/osaka/
     htmlSnippet: 'お店選びで失敗したくない人のためのグルメサイト「<b>食べログ</b>」は大阪にあるレストラン<br>
 
-      69593件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、<br>
+      69656件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、<br>
 
       様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
     htmlTitle: 大阪のグルメ・レストランガイド [<b>食べログ</b>]
@@ -135,14 +135,14 @@ response:
         width: '180'
       metatags:
       - csrf-param: authenticity_token
-        csrf-token: 5EiOflbZ0xPoVz1D/VHrpPsVlrBjB5qnchCi+/Iz+R/31WprDFcJQSzIJHuW6/nL7ENSx/PnH5yNbGRFkKKkBw==
+        csrf-token: 8DTbGPhvHgsEi7mOztIdjTJZ45W/YBLqlwIJhPXLGXSXPdBT3viYeL2TOKerW8CJWUe8BhGv0pKMRVMbZPlXWg==
         fb:app_id: '129441673828181'
         fb:page_id: '190929767599950'
         format-detection: telephone=no
         msapplication-tilecolor: '#f6ab09'
         msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
         msvalidate.01: 83850DF955D5869742B5501931E44222
-        og:description: 大阪にあるレストラン69,593件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
+        og:description: 大阪にあるレストラン69,656件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
         og:image: https://tabelog.com/images/rst/area/fb_icon_osaka.gif
         og:site_name: 食べログ
         og:title: 大阪 グルメ・レストランガイド
@@ -153,7 +153,7 @@ response:
         y_key: 6b4002d5be0a5d72
     snippet: 'お店選びで失敗したくない人のためのグルメサイト「食べログ」は大阪にあるレストラン
 
-      69593件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、
+      69656件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、
 
       様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
     title: 大阪のグルメ・レストランガイド [食べログ]
@@ -198,7 +198,7 @@ response:
     htmlFormattedUrl: https://<b>tabelog</b>.com/tokyo/
     htmlSnippet: 'お店選びで失敗したくない人のためのグルメサイト「<b>食べログ</b>」は東京にあるレストラン<br>
 
-      136185件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに<br>
+      136287件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに<br>
 
       、様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
     htmlTitle: 東京のグルメ・レストランガイド [<b>食べログ</b>]
@@ -216,14 +216,14 @@ response:
         width: '180'
       metatags:
       - csrf-param: authenticity_token
-        csrf-token: xk15y+6K1Ur3kQPxrxpjN28BWYE8sBsvHFKQWFpF1nFqbg7vwdjVcvgTRGaOk5qq2UgVCn0gTnsLuPQ99nkn4g==
+        csrf-token: 7uCLUTU7FBsCVA7ahyC8FGoZT5qmwgd+8X9pUHOIE99vw8rNkI4xr7nCkZUeirgcurBd6XuAVL5MO2HLkXfYXQ==
         fb:app_id: '129441673828181'
         fb:page_id: '190929767599950'
         format-detection: telephone=no
         msapplication-tilecolor: '#f6ab09'
         msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
         msvalidate.01: 83850DF955D5869742B5501931E44222
-        og:description: 東京にあるレストラン136,185件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
+        og:description: 東京にあるレストラン136,287件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
         og:image: https://tabelog.com/images/rst/area/fb_icon_tokyo.gif
         og:site_name: 食べログ
         og:title: 東京 グルメ・レストランガイド
@@ -234,7 +234,7 @@ response:
         y_key: 6b4002d5be0a5d72
     snippet: 'お店選びで失敗したくない人のためのグルメサイト「食べログ」は東京にあるレストラン
 
-      136185件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに
+      136287件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに
 
       、様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
     title: 東京のグルメ・レストランガイド [食べログ]
@@ -267,7 +267,7 @@ response:
         width: '200'
       metatags:
       - csrf-param: authenticity_token
-        csrf-token: W192y28Obs6Mue+yjWBIwDtcQoBpyYZtqtmHs4WWJm5ZERk2fYm8swDHsO4H9W9AWkQRAU3howoyXczMUqzz2Q==
+        csrf-token: FqWJBM1Vj4Dmv5NQafnCpLvAAAlVWnsmpa09Y4RW3a1YR/8UrjchBcvriq3oKEUyvhabpLOqPgiggbpgOvMZTA==
         fb:admins: '564524038'
         og:description: '食べログのアプリDevOpsチームでAndroidエンジニアやっている @sadashi です。
 
@@ -307,7 +307,7 @@ response:
     htmlFormattedUrl: https://<b>tabelog</b>.com/kanagawa/
     htmlSnippet: 'お店選びで失敗したくない人のためのグルメサイト「<b>食べログ</b>」は神奈川にあるレストラン<br>
 
-      47775件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、<br>
+      47848件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、<br>
 
       様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
     htmlTitle: 神奈川のグルメ・レストランガイド [<b>食べログ</b>]
@@ -325,14 +325,14 @@ response:
         width: '180'
       metatags:
       - csrf-param: authenticity_token
-        csrf-token: pzFrHMBtZ/1sYd+DRm9OjT5tzSGglhNyxcIiYXnNIiZsplMjZs4RNhzbd4qdIVG0GYxeI7ryr0sNPFYRC20lYQ==
+        csrf-token: Yg2Oz02EiP0NYlYHaxLUbnkhTvYsdre+6WwKdLXCWSLOwG0OpyI2AXuYYXf8B5nTepvE1hxZ4M1+ZUFl5Cd3EQ==
         fb:app_id: '129441673828181'
         fb:page_id: '190929767599950'
         format-detection: telephone=no
         msapplication-tilecolor: '#f6ab09'
         msapplication-tileimage: https://tblg.k-img.com/images/window/ms-pin-icon.png?20140320
         msvalidate.01: 83850DF955D5869742B5501931E44222
-        og:description: 神奈川にあるレストラン47,775件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
+        og:description: 神奈川にあるレストラン47,848件を一般ユーザーの口コミをもとに集計した様々なグルメランキングから探すことができます。美味しいレストランや、人気のレストランが簡単に見つかります！
         og:image: https://tabelog.com/images/rst/area/fb_icon_kanagawa.gif
         og:site_name: 食べログ
         og:title: 神奈川 グルメ・レストランガイド
@@ -343,7 +343,7 @@ response:
         y_key: 6b4002d5be0a5d72
     snippet: 'お店選びで失敗したくない人のためのグルメサイト「食べログ」は神奈川にあるレストラン
 
-      47775件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、
+      47848件の飲食店情報を掲載中。独自のランキングやユーザーの口コミ・写真をもとに、
 
       様々なジャンルの人気のレストラン、目的や予算にぴったりのお店が見つけられます！'
     title: 神奈川のグルメ・レストランガイド [食べログ]
@@ -432,7 +432,7 @@ response:
         photo: https://public.slidesharecdn.com/images/user-48x48.png
         url: https://www.slideshare.net/ssuser0dced5?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
       - fn: 彩華 浦
-        photo: https://media.licdn.com/dms/image/C4E03AQGRKc_9u7ntpg/profile-displayphoto-shrink_100_100/0?e=1561593600&v=beta&t=6qb1UOSYLi3HeijJrvzeF7ONlcAOKaDNgL-b0LsSUBo
+        photo: https://media.licdn.com/dms/image/C4E03AQGRKc_9u7ntpg/profile-displayphoto-shrink_100_100/0?e=1562198400&v=beta&t=UrYG__KqJQLmoJpoGNnBkBDjrHLRlqGGfqI7cW0uVDM
         url: https://www.slideshare.net/SaikaURA?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
       - fn: TakahiroFujiyama
         nickname: TakahiroFujiyama
@@ -476,11 +476,11 @@ response:
         slideshow_comment_count: '5'
         slideshow_created_at: 2017-12-11 09:45:44 UTC
         slideshow_download_count: '44'
-        slideshow_embed_count: '3007'
+        slideshow_embed_count: '3008'
         slideshow_favorites_count: '44'
         slideshow_published_time: '2017-12-11T09:45:44Z'
         slideshow_updated_at: 2017-12-11 09:49:13 UTC
-        slideshow_view_count: '328110'
+        slideshow_view_count: '328159'
         ss-i18n-translations: '{"lynda.domain":"lynda","lynda.premium_video":"PREMIUM
           VIDEO","lynda.tld":".com","right_rail.recommended":"Recommended","views.other":"views","share":"Share","select":"Select","selected":"Selected","clipping.select_clipboard_modal.select_another_clipboard":"Select
           another clipboard","clipping.select_clipboard_modal.select_new_clipboard":"Select
@@ -524,7 +524,7 @@ response:
       - image: https://public.slidesharecdn.com/images/user-48x48.png
         name: ssuser0dced5
         url: https://www.slideshare.net/ssuser0dced5?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
-      - image: https://media.licdn.com/dms/image/C4E03AQGRKc_9u7ntpg/profile-displayphoto-shrink_100_100/0?e=1561593600&v=beta&t=6qb1UOSYLi3HeijJrvzeF7ONlcAOKaDNgL-b0LsSUBo
+      - image: https://media.licdn.com/dms/image/C4E03AQGRKc_9u7ntpg/profile-displayphoto-shrink_100_100/0?e=1562198400&v=beta&t=UrYG__KqJQLmoJpoGNnBkBDjrHLRlqGGfqI7cW0uVDM
         name: 彩華 浦
         url: https://www.slideshare.net/SaikaURA?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshow
       - image: https://public.slidesharecdn.com/images/user-48x48.png
@@ -558,7 +558,7 @@ response:
         image: https://cdn.slidesharecdn.com/profile-photo-katekoxx-48x48.jpg
         url: https://www.slideshare.net/katekoxx?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshare
       - commenttext: リッチカードのJSON-LDとかったフロントエンドのエンジニャーが実装刷るんですよね?
-        commenttime: 12 months ago
+        commenttime: 1 year ago
         image: https://cdn.slidesharecdn.com/profile-photo-ssuser4a8235-48x48.jpg
         url: https://www.slideshare.net/ssuser4a8235?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideshare
     snippet: "2017年12月11日 ... 自己紹介金野 淑恵（かねの よしえ） @empitsu88 Profile Career 食べログシステム\n\
@@ -610,7 +610,7 @@ response:
       searchTerms: hoge 食べログ
       startIndex: 11
       title: Google Custom Search - hoge 食べログ
-      totalResults: '22300'
+      totalResults: '17900'
     request:
     - count: 10
       cx: 004824719477391694589:_w09q_fo_c0
@@ -621,14 +621,14 @@ response:
       searchTerms: hoge 食べログ
       startIndex: 1
       title: Google Custom Search - hoge 食べログ
-      totalResults: '22300'
+      totalResults: '17900'
   searchInformation:
-    formattedSearchTime: '0.59'
-    formattedTotalResults: 22,300
-    searchTime: 0.586995
-    totalResults: '22300'
+    formattedSearchTime: '0.38'
+    formattedTotalResults: 17,900
+    searchTime: 0.377231
+    totalResults: '17900'
   url:
     template: https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json
     type: application/json
-snapshot_timestamp: 2019/04/24 19:36:14
-snapshot_ymd: '20190424'
+snapshot_timestamp: 2019/05/04 11:21:51
+snapshot_ymd: '20190504'
