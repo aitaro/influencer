@@ -9,8 +9,8 @@ import yaml
 from time import sleep
 from googleapiclient.discovery import build
 
-GOOGLE_API_KEY          = "AIzaSyAKZJlNWc5fc0AR0fFy_SWJ3WV2ts-yXEk"
-CUSTOM_SEARCH_ENGINE_ID = "004824719477391694589:_w09q_fo_c0"
+GOOGLE_API_KEY          = os.environ['GOOGLE_API_KEY']
+CUSTOM_SEARCH_ENGINE_ID = os.environ['CUSTOM_SEARCH_ENGINE_ID']
 
 DATA_DIR = 'data'
 
