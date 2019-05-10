@@ -21,28 +21,30 @@ class Detail:
         total = 0
         self.candidates = []
         for url in self.urls:
-
-            # URLにアクセスする htmlが帰ってくる → <html><head><title>経済、株価、ビジネス、政治のニュース:日経電子版</title></head><body....
-            req = urllib.request.Request(url)
             try:
-                response = urllib.request.urlopen(req)
+                # URLにアクセスする htmlが帰ってくる → <html><head><title>経済、株価、ビジネス、政治のニュース:日経電子版</title></head><body....
+                req = urllib.request.Request(url)
+                try:
+                    response = urllib.request.urlopen(req)
+                except Exception as e:
+                    print(e)
+                    print(url)
+                    print('could not find detail')
+                    continue
+                html = response.read()
+
+                soup = BeautifulSoup(html, "html.parser")
+
+
+                try:
+                    cand = {'text': soup.select('meta[name="description"]')[0]['content']}
+                    self.candidates.append(cand)
+                except:
+                    print('no datails')
+                total += 1
+                print(f'searched webpage {total}')
             except Exception as e:
                 print(e)
-                print(url)
-                print('could not find detail')
-                continue
-            html = response.read()
-
-            soup = BeautifulSoup(html, "html.parser")
-
-
-            try:
-                cand = {'text': soup.select('meta[name="description"]')[0]['content']}
-                self.candidates.append(cand)
-            except:
-                print('no datails')
-            total += 1
-            print(f'searched webpage {total}')
 
 
     def scoring(self):

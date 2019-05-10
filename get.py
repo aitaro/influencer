@@ -97,7 +97,7 @@ def createTweet2(i):
 
 
 if __name__ == '__main__':
-    createTweet2(4)
+    createTweet2(sys.argv[1])
     # if len(sys.argv) == 2:
     #     i = int(sys.argv[1])
     #     getTabelogUrl(i)
