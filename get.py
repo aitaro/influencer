@@ -70,7 +70,7 @@ def createTweet(name):
 def createTweet2(i):
     # list = glob.glob("post_tweets/*")
     # num = len(list)
-    num = 113
+    num = 168
     # print(1)
     retty = Retty(i)
     # print(2)
