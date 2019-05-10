@@ -13,4 +13,6 @@ else:
 
 for i in range(num1, num2+1):
     t = Tweet(i)
+    print('-------------------')
+    print('No. ' + str(t.no))
     print(t.details)
